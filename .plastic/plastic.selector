@@ -1,0 +1,4 @@
+repository "Projet-JV@CollectifArt@cloud"
+  path "/"
+    br "/main"
+    co "/main"

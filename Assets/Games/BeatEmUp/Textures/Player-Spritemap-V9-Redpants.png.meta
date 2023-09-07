@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: d13acb886418af945863ba3c30fb4e3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player-Idle
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 152
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10.5}
+        - {x: -8, y: 9.5}
+        - {x: -9, y: 9.5}
+        - {x: -9, y: 7.5}
+        - {x: -10, y: 7.5}
+        - {x: -10, y: 3.5}
+        - {x: -11, y: 3.5}
+        - {x: -11, y: -3.5}
+        - {x: -10, y: -3.5}
+        - {x: -10, y: -4.5}
+        - {x: -7, y: -4.5}
+        - {x: -7, y: -3.5}
+        - {x: -6, y: -3.5}
+        - {x: -6, y: -1.5}
+        - {x: -7, y: -1.5}
+        - {x: -7, y: 2.5}
+        - {x: -6, y: 2.5}
+        - {x: -6, y: 5.5}
+        - {x: -5, y: 5.5}
+        - {x: -5, y: 6.5}
+        - {x: -4, y: 6.5}
+        - {x: -4, y: 5.5}
+        - {x: -3, y: 5.5}
+        - {x: -3, y: 0.5}
+        - {x: -4, y: 0.5}
+        - {x: -4, y: -4.5}
+        - {x: -5, y: -4.5}
+        - {x: -5, y: -9.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -13.5}
+        - {x: -7, y: -13.5}
+        - {x: -7, y: -16.5}
+        - {x: -8, y: -16.5}
+        - {x: -8, y: -20.5}
+        - {x: -9, y: -20.5}
+        - {x: -9, y: -22.5}
+        - {x: -3, y: -22.5}
+        - {x: -3, y: -15.5}
+        - {x: -2, y: -15.5}
+        - {x: -2, y: -10.5}
+        - {x: -1, y: -10.5}
+        - {x: -1, y: -7.5}
+        - {x: 0, y: -7.5}
+        - {x: 0, y: -11.5}
+        - {x: -1, y: -11.5}
+        - {x: -1, y: -22.5}
+        - {x: 5, y: -22.5}
+        - {x: 5, y: -20.5}
+        - {x: 4, y: -20.5}
+        - {x: 4, y: -19.5}
+        - {x: 3, y: -19.5}
+        - {x: 3, y: -14.5}
+        - {x: 4, y: -14.5}
+        - {x: 4, y: -8.5}
+        - {x: 5, y: -8.5}
+        - {x: 5, y: 2.5}
+        - {x: 6, y: 2.5}
+        - {x: 6, y: 0.5}
+        - {x: 7, y: 0.5}
+        - {x: 7, y: -1.5}
+        - {x: 6, y: -1.5}
+        - {x: 6, y: -3.5}
+        - {x: 7, y: -3.5}
+        - {x: 7, y: -4.5}
+        - {x: 10, y: -4.5}
+        - {x: 10, y: -3.5}
+        - {x: 11, y: -3.5}
+        - {x: 11, y: 0.5}
+        - {x: 10, y: 0.5}
+        - {x: 10, y: 3.5}
+        - {x: 9, y: 3.5}
+        - {x: 9, y: 5.5}
+        - {x: 8, y: 5.5}
+        - {x: 8, y: 7.5}
+        - {x: 7, y: 7.5}
+        - {x: 7, y: 9.5}
+        - {x: 6, y: 9.5}
+        - {x: 6, y: 10.5}
+        - {x: 5, y: 10.5}
+        - {x: 5, y: 11.5}
+        - {x: 4, y: 11.5}
+        - {x: 4, y: 12.5}
+        - {x: 2, y: 12.5}
+        - {x: 2, y: 13.5}
+        - {x: 3, y: 13.5}
+        - {x: 3, y: 14.5}
+        - {x: 4, y: 14.5}
+        - {x: 4, y: 17.5}
+        - {x: 5, y: 17.5}
+        - {x: 5, y: 19.5}
+        - {x: 4, y: 19.5}
+        - {x: 4, y: 20.5}
+        - {x: 3, y: 20.5}
+        - {x: 3, y: 21.5}
+        - {x: 1, y: 21.5}
+        - {x: 1, y: 22.5}
+        - {x: -1, y: 22.5}
+        - {x: -1, y: 21.5}
+        - {x: -3, y: 21.5}
+        - {x: -3, y: 19.5}
+        - {x: -4, y: 19.5}
+        - {x: -4, y: 14.5}
+        - {x: -3, y: 14.5}
+        - {x: -3, y: 13.5}
+        - {x: -4, y: 13.5}
+        - {x: -4, y: 12.5}
+        - {x: -6, y: 12.5}
+        - {x: -6, y: 11.5}
+        - {x: -7, y: 11.5}
+        - {x: -7, y: 10.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2509b2153fc25fe41be30cb4270b6480
+      internalID: 491099606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Hit-1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -8}
+        - {x: -0.5, y: -13}
+        - {x: 4.5, y: -22}
+        - {x: 14.5, y: -22}
+        - {x: 14.5, y: -20}
+        - {x: 11.5, y: -16}
+        - {x: 10.5, y: -13}
+        - {x: 8.5, y: -11}
+        - {x: 7.5, y: -8}
+        - {x: 5.5, y: -6}
+        - {x: 2.5, y: -1}
+        - {x: 2.5, y: 5}
+        - {x: 4.5, y: 5}
+        - {x: 7.5, y: 8}
+        - {x: 7.5, y: 11}
+        - {x: 5.5, y: 14}
+        - {x: 2.5, y: 15}
+        - {x: 0.5, y: 16}
+        - {x: 1.5, y: 17}
+        - {x: 1.5, y: 19}
+        - {x: -1.5, y: 22}
+        - {x: -10.5, y: 22}
+        - {x: -11.5, y: 19}
+        - {x: -11.5, y: 14}
+        - {x: -10.5, y: 13}
+        - {x: -12.5, y: 11}
+        - {x: -12.5, y: 8}
+        - {x: -14.5, y: 8}
+        - {x: -16.5, y: 6}
+        - {x: -16.5, y: 1}
+        - {x: -14.5, y: -1}
+        - {x: -11.5, y: -1}
+        - {x: -9.5, y: 0}
+        - {x: -11.5, y: -1}
+        - {x: -13.5, y: -6}
+        - {x: -13.5, y: -8}
+        - {x: -15.5, y: -11}
+        - {x: -15.5, y: -16}
+        - {x: -16.5, y: -17}
+        - {x: -16.5, y: -22}
+        - {x: -7.5, y: -22}
+        - {x: -7.5, y: -20}
+        - {x: -6.5, y: -19}
+        - {x: -6.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9354120ea573f7a41acc57e6fed5266f
+      internalID: -691419387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Hit-2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -8}
+        - {x: -0.5, y: -13}
+        - {x: 4.5, y: -22}
+        - {x: 14.5, y: -22}
+        - {x: 14.5, y: -20}
+        - {x: 11.5, y: -16}
+        - {x: 10.5, y: -13}
+        - {x: 8.5, y: -11}
+        - {x: 7.5, y: -8}
+        - {x: 5.5, y: -6}
+        - {x: 2.5, y: -1}
+        - {x: 2.5, y: 5}
+        - {x: 11.5, y: 5}
+        - {x: 12.5, y: 4}
+        - {x: 15.5, y: 4}
+        - {x: 16.5, y: 5}
+        - {x: 16.5, y: 12}
+        - {x: 15.5, y: 13}
+        - {x: 3.5, y: 14}
+        - {x: 1.5, y: 15}
+        - {x: 2.5, y: 19}
+        - {x: -0.5, y: 22}
+        - {x: -8.5, y: 22}
+        - {x: -10.5, y: 19}
+        - {x: -10.5, y: 13}
+        - {x: -12.5, y: 11}
+        - {x: -12.5, y: 8}
+        - {x: -13.5, y: 8}
+        - {x: -16.5, y: 5}
+        - {x: -16.5, y: 2}
+        - {x: -13.5, y: -1}
+        - {x: -10.5, y: -1}
+        - {x: -15.5, y: -11}
+        - {x: -15.5, y: -16}
+        - {x: -16.5, y: -17}
+        - {x: -16.5, y: -22}
+        - {x: -7.5, y: -22}
+        - {x: -7.5, y: -20}
+        - {x: -6.5, y: -19}
+        - {x: -6.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2ea5a63869f4bea44a6a41762e97893b
+      internalID: -529027174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Hit-3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 152
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -9}
+        - {x: 0.5, y: -11}
+        - {x: 0.5, y: -14}
+        - {x: 1.5, y: -15}
+        - {x: 1.5, y: -17}
+        - {x: 2.5, y: -18}
+        - {x: 3.5, y: -22}
+        - {x: 14.5, y: -22}
+        - {x: 14.5, y: -20}
+        - {x: 10.5, y: -16}
+        - {x: 10.5, y: -12}
+        - {x: 9.5, y: -11}
+        - {x: 9.5, y: -9}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: -5}
+        - {x: 2.5, y: 1}
+        - {x: 2.5, y: 3}
+        - {x: 3.5, y: 4}
+        - {x: 8.5, y: 1}
+        - {x: 10.5, y: 1}
+        - {x: 13.5, y: 4}
+        - {x: 13.5, y: 7}
+        - {x: 10.5, y: 10}
+        - {x: 8.5, y: 10}
+        - {x: 3.5, y: 13}
+        - {x: 1.5, y: 14}
+        - {x: 2.5, y: 19}
+        - {x: -0.5, y: 22}
+        - {x: -8.5, y: 22}
+        - {x: -10.5, y: 19}
+        - {x: -10.5, y: 13}
+        - {x: -15.5, y: 9}
+        - {x: -16.5, y: 6}
+        - {x: -16.5, y: 3}
+        - {x: -13.5, y: 0}
+        - {x: -9.5, y: 0}
+        - {x: -11.5, y: -8}
+        - {x: -16.5, y: -17}
+        - {x: -16.5, y: -22}
+        - {x: -7.5, y: -22}
+        - {x: -7.5, y: -19}
+        - {x: -4.5, y: -14}
+        - {x: -3.5, y: -10}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3cd4098c54a769a49a58e5115e1385da
+      internalID: -2111978350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Hit-4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -9}
+        - {x: 0.5, y: -11}
+        - {x: 0.5, y: -14}
+        - {x: 1.5, y: -15}
+        - {x: 1.5, y: -17}
+        - {x: 2.5, y: -18}
+        - {x: 3.5, y: -22}
+        - {x: 14.5, y: -22}
+        - {x: 14.5, y: -20}
+        - {x: 10.5, y: -16}
+        - {x: 10.5, y: -12}
+        - {x: 9.5, y: -11}
+        - {x: 9.5, y: -9}
+        - {x: 6.5, y: -5}
+        - {x: 3.5, y: 0}
+        - {x: 7.5, y: 3}
+        - {x: 7.5, y: 6}
+        - {x: 5.5, y: 8}
+        - {x: 5.5, y: 9}
+        - {x: 1.5, y: 13}
+        - {x: 1.5, y: 16}
+        - {x: 2.5, y: 17}
+        - {x: 2.5, y: 19}
+        - {x: -0.5, y: 22}
+        - {x: -9.5, y: 22}
+        - {x: -10.5, y: 19}
+        - {x: -10.5, y: 13}
+        - {x: -15.5, y: 9}
+        - {x: -16.5, y: 6}
+        - {x: -16.5, y: 3}
+        - {x: -13.5, y: 0}
+        - {x: -9.5, y: 0}
+        - {x: -11.5, y: -8}
+        - {x: -16.5, y: -17}
+        - {x: -16.5, y: -22}
+        - {x: -7.5, y: -22}
+        - {x: -7.5, y: -19}
+        - {x: -4.5, y: -14}
+        - {x: -3.5, y: -10}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2b8334b89fcaacd4a848b9f94fc8335e
+      internalID: 1025970381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Damaged
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 101
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160ff1bf394cf8d41af0f5e146d57baf
+      internalID: -1248495745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Thrown
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 58
+        width: 39
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -5.5}
+        - {x: -5.5, y: -3.5}
+        - {x: -4.5, y: -3.5}
+        - {x: 0.5, y: -6.5}
+        - {x: 6.5, y: -11.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 14.5, y: -8.5}
+        - {x: 13.5, y: -8.5}
+        - {x: 12.5, y: -7.5}
+        - {x: 12.5, y: -6.5}
+        - {x: 14.5, y: -8.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 19.5, y: -5.5}
+        - {x: 19.5, y: 1.5}
+        - {x: 15.5, y: 1.5}
+        - {x: 14.5, y: 2.5}
+        - {x: 14.5, y: 3.5}
+        - {x: 10.5, y: 7.5}
+        - {x: 6.5, y: 7.5}
+        - {x: 7.5, y: 8.5}
+        - {x: 7.5, y: 11.5}
+        - {x: 4.5, y: 14.5}
+        - {x: 1.5, y: 14.5}
+        - {x: 0.5, y: 13.5}
+        - {x: -4.5, y: 13.5}
+        - {x: -8.5, y: 11.5}
+        - {x: -10.5, y: 14.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: 6.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -16.5, y: -2.5}
+        - {x: -14.5, y: -7.5}
+        - {x: -9.5, y: -11.5}
+        - {x: -9.5, y: -12.5}
+        - {x: -7.5, y: -14.5}
+        - {x: -2.5, y: -14.5}
+        - {x: -0.5, y: -12.5}
+        - {x: -0.5, y: -9.5}
+        - {x: -2.5, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 69b4a5d3e13fec94f9808b0c031d2fa4
+      internalID: 1069542179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Ground
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 39
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -1}
+        - {x: 16.5, y: -1}
+        - {x: 14.5, y: -2}
+        - {x: 13.5, y: -1}
+        - {x: 11.5, y: -1}
+        - {x: 7.5, y: 1}
+        - {x: 4.5, y: 1}
+        - {x: 5.5, y: 3}
+        - {x: 5.5, y: 6}
+        - {x: 2.5, y: 9}
+        - {x: -0.5, y: 9}
+        - {x: -1.5, y: 8}
+        - {x: -6.5, y: 8}
+        - {x: -8.5, y: 7}
+        - {x: -10.5, y: 9}
+        - {x: -18.5, y: 9}
+        - {x: -19.5, y: 8}
+        - {x: -19.5, y: 0}
+        - {x: -18.5, y: -1}
+        - {x: -19.5, y: -2}
+        - {x: -19.5, y: -9}
+        - {x: 19.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 77a620cfd4c0d00498417243532f3d7f
+      internalID: -516022162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -15}
+        - {x: 0, y: -18}
+        - {x: 2, y: -18}
+        - {x: 4, y: -16}
+        - {x: 5, y: -12}
+        - {x: 7, y: -11}
+        - {x: 10, y: -10}
+        - {x: 12, y: -7}
+        - {x: 12, y: -3}
+        - {x: 11, y: -2}
+        - {x: 13, y: -2}
+        - {x: 17, y: 3}
+        - {x: 17, y: 11}
+        - {x: 15, y: 12}
+        - {x: 15, y: 13}
+        - {x: 16, y: 14}
+        - {x: 16, y: 16}
+        - {x: 13, y: 19}
+        - {x: 4, y: 19}
+        - {x: 3, y: 17}
+        - {x: 1, y: 17}
+        - {x: -2, y: 16}
+        - {x: -7, y: 10}
+        - {x: -7, y: 8}
+        - {x: -3, y: 4}
+        - {x: -9, y: -4}
+        - {x: -10, y: -4}
+        - {x: -17, y: -10}
+        - {x: -17, y: -19}
+        - {x: -10, y: -19}
+        - {x: -10, y: -16}
+        - {x: -4, y: -11}
+        - {x: -3, y: -10}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: fceaf5547c2445143b57e345e9024267
+      internalID: -391446651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -14.5}
+        - {x: 15, y: -13.5}
+        - {x: 15, y: -8.5}
+        - {x: 14, y: -7.5}
+        - {x: 14, y: -5.5}
+        - {x: 13, y: -2.5}
+        - {x: 9, y: 0.5}
+        - {x: 10, y: 1.5}
+        - {x: 13, y: -1.5}
+        - {x: 15, y: -1.5}
+        - {x: 18, y: 1.5}
+        - {x: 18, y: 11.5}
+        - {x: 17, y: 12.5}
+        - {x: 18, y: 13.5}
+        - {x: 18, y: 15.5}
+        - {x: 15, y: 18.5}
+        - {x: 7, y: 18.5}
+        - {x: 6, y: 17.5}
+        - {x: 6, y: 16.5}
+        - {x: 5, y: 15.5}
+        - {x: 4, y: 16.5}
+        - {x: -1, y: 16.5}
+        - {x: -5, y: 13.5}
+        - {x: -7, y: 8.5}
+        - {x: -7, y: 4.5}
+        - {x: -4, y: 1.5}
+        - {x: -5, y: -1.5}
+        - {x: -11, y: 1.5}
+        - {x: -15, y: 1.5}
+        - {x: -18, y: -1.5}
+        - {x: -18, y: -8.5}
+        - {x: -17, y: -9.5}
+        - {x: -15, y: -9.5}
+        - {x: -13, y: -7.5}
+        - {x: -12, y: -8.5}
+        - {x: -9, y: -8.5}
+        - {x: -5, y: -10.5}
+        - {x: -2, y: -10.5}
+        - {x: 2, y: -6.5}
+        - {x: 3, y: -6.5}
+        - {x: 6, y: -10.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: -16.5}
+        - {x: 8, y: -18.5}
+        - {x: 18, y: -18.5}
+        - {x: 18, y: -15.5}
+        - {x: 17, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6aa254aac79e0054baa5250ab4d9d518
+      internalID: -1400331642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 32
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -8}
+        - {x: 7, y: -4}
+        - {x: 9, y: -1}
+        - {x: 13, y: 0}
+        - {x: 16, y: 2}
+        - {x: 16, y: 8}
+        - {x: 14, y: 10}
+        - {x: 12, y: 10}
+        - {x: 13, y: 11}
+        - {x: 14, y: 16}
+        - {x: 11, y: 19}
+        - {x: 3, y: 19}
+        - {x: 1, y: 15}
+        - {x: 0, y: 15}
+        - {x: -6, y: 9}
+        - {x: -6, y: 5}
+        - {x: -3, y: 2}
+        - {x: -5, y: 0}
+        - {x: -5, y: -2}
+        - {x: -7, y: -2}
+        - {x: -10, y: 0}
+        - {x: -13, y: 0}
+        - {x: -16, y: -3}
+        - {x: -16, y: -10}
+        - {x: -15, y: -11}
+        - {x: -13, y: -11}
+        - {x: -12, y: -10}
+        - {x: -8, y: -10}
+        - {x: -7, y: -11}
+        - {x: -5, y: -11}
+        - {x: -4, y: -12}
+        - {x: -5, y: -13}
+        - {x: -5, y: -19}
+        - {x: 6, y: -19}
+        - {x: 6, y: -17}
+        - {x: 4, y: -15}
+        - {x: 4, y: -12}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: f833cb8cab784d547863cfe1ec0f2205
+      internalID: 379123828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 23
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -8}
+        - {x: 5.5, y: -4}
+        - {x: 4.5, y: -3}
+        - {x: 6.5, y: -3}
+        - {x: 11.5, y: 1}
+        - {x: 11.5, y: 6}
+        - {x: 9.5, y: 8}
+        - {x: 11.5, y: 10}
+        - {x: 11.5, y: 18}
+        - {x: 10.5, y: 19}
+        - {x: 2.5, y: 19}
+        - {x: 0.5, y: 16}
+        - {x: 0.5, y: 14}
+        - {x: -3.5, y: 10}
+        - {x: -4.5, y: 4}
+        - {x: -7.5, y: 2}
+        - {x: -8.5, y: 0}
+        - {x: -11.5, y: -2}
+        - {x: -11.5, y: -9}
+        - {x: -10.5, y: -10}
+        - {x: -11.5, y: -11}
+        - {x: -11.5, y: -19}
+        - {x: -2.5, y: -19}
+        - {x: -3.5, y: -14}
+        - {x: -1.5, y: -11}
+        - {x: 2.5, y: -11}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: bd69ba4bf9d930d44aab44b6e9e0721b
+      internalID: -248970550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -14}
+        - {x: -4.5, y: -11}
+        - {x: -1.5, y: -17}
+        - {x: 1.5, y: -17}
+        - {x: 4.5, y: -14}
+        - {x: 4.5, y: -12}
+        - {x: 5.5, y: -12}
+        - {x: 10.5, y: -10}
+        - {x: 12.5, y: -7}
+        - {x: 12.5, y: -4}
+        - {x: 10.5, y: -2}
+        - {x: 12.5, y: -1}
+        - {x: 15.5, y: 0}
+        - {x: 16.5, y: 2}
+        - {x: 16.5, y: 9}
+        - {x: 15.5, y: 10}
+        - {x: 13.5, y: 10}
+        - {x: 14.5, y: 11}
+        - {x: 15.5, y: 16}
+        - {x: 12.5, y: 19}
+        - {x: 4.5, y: 19}
+        - {x: 1.5, y: 15}
+        - {x: -1.5, y: 14}
+        - {x: -5.5, y: 9}
+        - {x: -5.5, y: 5}
+        - {x: -3.5, y: 3}
+        - {x: -4.5, y: 2}
+        - {x: -7.5, y: -2}
+        - {x: -7.5, y: -3}
+        - {x: -11.5, y: -7}
+        - {x: -12.5, y: -7}
+        - {x: -16.5, y: -11}
+        - {x: -16.5, y: -19}
+        - {x: -9.5, y: -19}
+        - {x: -9.5, y: -17}
+        - {x: -10.5, y: -16}
+        - {x: -8.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 007740775b1ac674f82c49d254cbc724
+      internalID: -1180547997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -5.5}
+        - {x: 11.5, y: -2.5}
+        - {x: 7.5, y: 0.5}
+        - {x: 8.5, y: 1.5}
+        - {x: 11.5, y: -1.5}
+        - {x: 14.5, y: -1.5}
+        - {x: 18.5, y: 2.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 17.5, y: 15.5}
+        - {x: 14.5, y: 18.5}
+        - {x: 6.5, y: 18.5}
+        - {x: 5.5, y: 16.5}
+        - {x: 0.5, y: 16.5}
+        - {x: -0.5, y: 15.5}
+        - {x: -2.5, y: 15.5}
+        - {x: -6.5, y: 11.5}
+        - {x: -6.5, y: 9.5}
+        - {x: -3.5, y: 5.5}
+        - {x: -3.5, y: 3.5}
+        - {x: -6.5, y: 1.5}
+        - {x: -7.5, y: -0.5}
+        - {x: -12.5, y: 1.5}
+        - {x: -15.5, y: 1.5}
+        - {x: -18.5, y: -1.5}
+        - {x: -18.5, y: -8.5}
+        - {x: -17.5, y: -9.5}
+        - {x: -11.5, y: -8.5}
+        - {x: -10.5, y: -9.5}
+        - {x: -5.5, y: -10.5}
+        - {x: -2.5, y: -9.5}
+        - {x: 0.5, y: -5.5}
+        - {x: 4.5, y: -9.5}
+        - {x: 4.5, y: -13.5}
+        - {x: 5.5, y: -14.5}
+        - {x: 5.5, y: -17.5}
+        - {x: 6.5, y: -18.5}
+        - {x: 17.5, y: -18.5}
+        - {x: 17.5, y: -16.5}
+        - {x: 13.5, y: -11.5}
+        - {x: 12.5, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5d16572f48b55d04191552af834dd940
+      internalID: 181403896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -10}
+        - {x: 6.5, y: -7}
+        - {x: 6.5, y: -3}
+        - {x: 7.5, y: -3}
+        - {x: 9.5, y: -1}
+        - {x: 11.5, y: -1}
+        - {x: 13.5, y: 1}
+        - {x: 13.5, y: 6}
+        - {x: 11.5, y: 8}
+        - {x: 13.5, y: 10}
+        - {x: 13.5, y: 18}
+        - {x: 12.5, y: 19}
+        - {x: 4.5, y: 19}
+        - {x: 2.5, y: 16}
+        - {x: 2.5, y: 13}
+        - {x: -2.5, y: 9}
+        - {x: -3.5, y: 6}
+        - {x: -3.5, y: 4}
+        - {x: -4.5, y: 3}
+        - {x: -4.5, y: -1}
+        - {x: -8.5, y: 1}
+        - {x: -10.5, y: 1}
+        - {x: -13.5, y: -2}
+        - {x: -13.5, y: -10}
+        - {x: -12.5, y: -11}
+        - {x: -10.5, y: -11}
+        - {x: -8.5, y: -9}
+        - {x: -4.5, y: -11}
+        - {x: -6.5, y: -15}
+        - {x: -6.5, y: -19}
+        - {x: 5.5, y: -19}
+        - {x: 5.5, y: -17}
+        - {x: 3.5, y: -15}
+        - {x: 4.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0b594865966ca154f847b900c3286def
+      internalID: 934504318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Run-8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -10}
+        - {x: 6, y: -7}
+        - {x: 6, y: -3}
+        - {x: 5, y: -2}
+        - {x: 5, y: -1}
+        - {x: 12, y: 3}
+        - {x: 12, y: 18}
+        - {x: 11, y: 19}
+        - {x: 2, y: 19}
+        - {x: 0, y: 15}
+        - {x: -3, y: 14}
+        - {x: -8, y: 9}
+        - {x: -8, y: 7}
+        - {x: -5, y: 4}
+        - {x: -7, y: 2}
+        - {x: -7, y: 0}
+        - {x: -8, y: 1}
+        - {x: -10, y: 1}
+        - {x: -12, y: -1}
+        - {x: -12, y: -11}
+        - {x: -11, y: -12}
+        - {x: -12, y: -13}
+        - {x: -12, y: -19}
+        - {x: -2, y: -19}
+        - {x: -3, y: -14}
+        - {x: -2, y: -13}
+        - {x: 0, y: -10}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 304efc4838a29a54bb54031fc760715f
+      internalID: -453450145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4472b31ef2827d44af57f7038099dd5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player-Damaged: -1248495745
+      Player-Ground: -516022162
+      Player-Hit-1: -691419387
+      Player-Hit-2: -529027174
+      Player-Hit-3: -2111978350
+      Player-Hit-4: 1025970381
+      Player-Idle: 491099606
+      Player-Run-1: -391446651
+      Player-Run-2: -1400331642
+      Player-Run-3: 379123828
+      Player-Run-4: -248970550
+      Player-Run-5: -1180547997
+      Player-Run-6: 181403896
+      Player-Run-7: 934504318
+      Player-Run-8: -453450145
+      Player-Spritemap-V9-Redpants_1: -647322314
+      Player-Spritemap-V9-Redpants_10: -405075661
+      Player-Spritemap-V9-Redpants_11: -270815077
+      Player-Spritemap-V9-Redpants_12: -437461921
+      Player-Spritemap-V9-Redpants_13: 1963428959
+      Player-Spritemap-V9-Redpants_16: -1733639097
+      Player-Spritemap-V9-Redpants_17: 558068117
+      Player-Spritemap-V9-Redpants_18: -1483596860
+      Player-Spritemap-V9-Redpants_19: -1402467778
+      Player-Spritemap-V9-Redpants_6: -1530635724
+      Player-Spritemap-V9-Redpants_7: 1766728493
+      Player-Spritemap-V9-Redpants_9: 942062241
+      Player-Thrown: 1069542179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
