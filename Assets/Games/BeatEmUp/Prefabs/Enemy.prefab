@@ -167,7 +167,7 @@ GameObject:
   - component: {fileID: 6368388608133763421}
   - component: {fileID: 3329401333929645205}
   - component: {fileID: 6870811097958845189}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -249,8 +249,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -870477821
-  m_SortingLayer: 3
+  m_SortingLayerID: 979053539
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
@@ -284,7 +284,7 @@ MonoBehaviour:
   m_CastsShadows: 1
   m_SelfShadows: 1
   m_AlphaCutoff: 0.1
-  m_ApplyToSortingLayers: 03901dcc032621ace9b22f27
+  m_ApplyToSortingLayers: 032621ace9b22f27e32b5b3a
   m_ShapePath:
   - {x: -0.5, y: -0.5, z: 0}
   - {x: -0.5, y: 0.5, z: 0}
@@ -306,7 +306,7 @@ MonoBehaviour:
     m_FlipX: 1
     m_FlipY: 0
     m_InitialTrim: 0.05
-  m_CastingOption: 2
+  m_CastingOption: 1
   references:
     version: 2
     RefIds:

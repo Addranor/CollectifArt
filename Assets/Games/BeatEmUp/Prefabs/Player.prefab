@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 124717086141961678}
   - component: {fileID: 516800561781108533}
   - component: {fileID: 2830524367573433601}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,8 +94,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -870477821
-  m_SortingLayer: 3
+  m_SortingLayerID: 979053539
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 491099606, guid: d13acb886418af945863ba3c30fb4e3a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -128,7 +128,7 @@ MonoBehaviour:
   m_CastsShadows: 1
   m_SelfShadows: 1
   m_AlphaCutoff: 0.1
-  m_ApplyToSortingLayers: 03901dcc032621ace9b22f27
+  m_ApplyToSortingLayers: 032621ace9b22f27e32b5b3a
   m_ShapePath:
   - {x: -0.29999995, y: -0.049999952, z: 0}
   - {x: -0.29999995, y: 0.14999998, z: 0}
@@ -136,9 +136,9 @@ MonoBehaviour:
   - {x: 0.29999995, y: -0.049999952, z: 0}
   m_ShapePathHash: -1998039883
   m_InstanceId: 22762
-  m_ShadowShape2DComponent: {fileID: 0}
+  m_ShadowShape2DComponent: {fileID: 516800561781108533}
   m_ShadowShape2DProvider:
-    rid: 8252764524967362566
+    rid: 7446898899557285888
   m_ShadowCastingSource: 2
   m_ShadowMesh:
     m_Mesh: {fileID: 0}
@@ -149,12 +149,12 @@ MonoBehaviour:
     m_TrimEdge: 0
     m_FlipX: 0
     m_FlipY: 0
-    m_InitialTrim: 0
+    m_InitialTrim: 0.06
   m_CastingOption: 1
   references:
     version: 2
     RefIds:
-    - rid: 8252764524967362566
+    - rid: 7446898899557285888
       type: {class: ShadowShape2DProvider_SpriteRenderer, ns: UnityEngine.Rendering.Universal,
         asm: Unity.RenderPipelines.Universal.2D.Runtime}
       data: 
@@ -167,7 +167,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1234851646927775007}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Collider_Left
   m_TagString: Untagged
   m_Icon: {fileID: 4162164826716764455, guid: 0000000000000000d000000000000000, type: 0}
@@ -198,7 +198,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1416829891969334400}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Collider_Right
   m_TagString: Untagged
   m_Icon: {fileID: 4162164826716764455, guid: 0000000000000000d000000000000000, type: 0}
@@ -230,7 +230,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8252223069197469793}
   - component: {fileID: 8252223069197469792}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Light 2D Cache
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Intensity: 0
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 032621ace9b22f2703901dcc
+  m_ApplyToSortingLayers: 032621ace9b22f27e32b5b3a
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 999

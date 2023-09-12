@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MarioStep
   layers:
   - Default
   - TransparentFX
@@ -12,8 +13,9 @@ TagManager:
   - Water
   - UI
   - 
-  - Characters
-  - Wall
+  - Character
+  - Obstacle
+  - Ground
   - 
   - 
   - 
@@ -35,23 +37,40 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - Confiner
   m_SortingLayers:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Midground
+  - name: -- BEATEMUP --
+    uniqueID: 3707628777
+    locked: 0
+  - name: B_Ground
     uniqueID: 2887853571
     locked: 0
-  - name: Background
+  - name: B_Background
     uniqueID: 657437417
     locked: 0
-  - name: Characters
-    uniqueID: 3424489475
+  - name: B_Midground
+    uniqueID: 979053539
     locked: 0
-  - name: Foreground
+  - name: B_Foreground
     uniqueID: 759495277
+    locked: 0
+  - name: -- STICKMARIO --
+    uniqueID: 573639467
+    locked: 0
+  - name: M_Background
+    uniqueID: 821950587
+    locked: 0
+  - name: M_Midground
+    uniqueID: 649849819
+    locked: 0
+  - name: M_Foreground
+    uniqueID: 488488041
+    locked: 0
+  - name: M_Guizmos
+    uniqueID: 1712898331
     locked: 0
   - name: UI
     uniqueID: 1592707359
