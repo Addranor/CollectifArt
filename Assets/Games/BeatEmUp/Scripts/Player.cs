@@ -16,8 +16,6 @@ namespace Collectif.BeatEmUp {
             UpdateSprite();
             movementX = Input.GetAxisRaw("Horizontal");
             movementY = Input.GetAxisRaw("Vertical");
-            
-            //if (!(Mathf.Abs(movementX) > 0.5f)) return;
         }
         
         private void FixedUpdate()

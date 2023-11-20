@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - MarioStep
+  - BeatEmUpEntity
+  - BEU_Enemy
+  - BEU_EnemyChecker
+  - BEU_Player
+  - BEU_PlayerChecker
+  - BEU_EnemyTrigger
   layers:
   - Default
   - TransparentFX
@@ -13,9 +19,9 @@ TagManager:
   - Water
   - UI
   - 
-  - Character
-  - Obstacle
-  - Ground
+  - BEU_Character
+  - BEU_Trigger
+  - BEU_Ground
   - 
   - 
   - 
