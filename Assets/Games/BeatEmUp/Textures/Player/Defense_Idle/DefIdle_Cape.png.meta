@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 77dfeb89e5219d345adc4a7d2d500d2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7169131299745173106
+    second: DefIdle_Cape_0
+  - first:
+      213: 7408250084778581435
+    second: DefIdle_Cape_1
+  - first:
+      213: 6569786408428908116
+    second: DefIdle_Cape_2
+  - first:
+      213: -5815215480855004428
+    second: DefIdle_Cape_3
+  - first:
+      213: -6869052874773399157
+    second: DefIdle_Cape_4
+  - first:
+      213: -8199643334515707722
+    second: DefIdle_Cape_5
+  - first:
+      213: 5228686081753889300
+    second: DefIdle_Cape_6
+  - first:
+      213: 5876365722347278613
+    second: DefIdle_Cape_7
+  - first:
+      213: 9034271609227080434
+    second: DefIdle_Cape_8
+  - first:
+      213: -38643613173030543
+    second: DefIdle_Cape_9
+  - first:
+      213: -4905302764556507107
+    second: DefIdle_Cape_10
+  - first:
+      213: 7426553839921630607
+    second: DefIdle_Cape_11
+  - first:
+      213: -4360751046887943261
+    second: DefIdle_Cape_12
+  - first:
+      213: 2122678936785273557
+    second: DefIdle_Cape_13
+  - first:
+      213: 3446776077068943104
+    second: DefIdle_Cape_14
+  - first:
+      213: -4869650315078127703
+    second: DefIdle_Cape_15
+  - first:
+      213: -2545434440761457764
+    second: DefIdle_Cape_16
+  - first:
+      213: 4128839412197851735
+    second: DefIdle_Cape_17
+  - first:
+      213: -7431195858486200514
+    second: DefIdle_Cape_18
+  - first:
+      213: 9006286917026390279
+    second: DefIdle_Cape_19
+  - first:
+      213: -8355401161145718834
+    second: DefIdle_Cape_20
+  - first:
+      213: 5721731693358966168
+    second: DefIdle_Cape_21
+  - first:
+      213: 2029079837803194851
+    second: DefIdle_Cape_22
+  - first:
+      213: -270263641718888804
+    second: DefIdle_Cape_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DefIdle_Cape_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed657dc46d8cb814fad651abdb704fbc
+      internalID: 1488098510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefIdle_Cape_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ade7b9cfb2842409b89b6aca78f39a
+      internalID: 733839377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefIdle_Cape_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8781258b32c894181090242be1d733
+      internalID: 1525977969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefIdle_Cape_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a0068da4a2a64a8226031ba33a67e
+      internalID: 299350940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefIdle_Cape_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce182ebcbbd02944bd91e41b53470bd
+      internalID: 1905168790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefIdle_Cape_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb5e538a3de344db3b1a0f6339db0f
+      internalID: -1066880670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefIdle_Cape_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e64fbcc61d17844a9a3328be3e603d
+      internalID: 325808800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefIdle_Cape_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f60aca261af8441bfdf7f5d22fa46c
+      internalID: 204554254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DefIdle_Cape_0: 1488098510
+      DefIdle_Cape_1: 733839377
+      DefIdle_Cape_2: 1525977969
+      DefIdle_Cape_3: 299350940
+      DefIdle_Cape_4: 1905168790
+      DefIdle_Cape_5: -1066880670
+      DefIdle_Cape_6: 325808800
+      DefIdle_Cape_7: 204554254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

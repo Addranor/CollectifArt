@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 476219992bc70164eaad7cf67d29a7c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1057352015792149459
+    second: Fx_Hit_0
+  - first:
+      213: -8040775870308930854
+    second: Fx_Hit_1
+  - first:
+      213: -5741990216981425938
+    second: Fx_Hit_2
+  - first:
+      213: 5242707309262640793
+    second: Fx_Hit_3
+  - first:
+      213: 7503158351831945988
+    second: Fx_Hit_4
+  - first:
+      213: -4994094771564142679
+    second: Fx_Hit_5
+  - first:
+      213: -6953639831318168183
+    second: Fx_Hit_6
+  - first:
+      213: -202813661540043226
+    second: Fx_Hit_7
+  - first:
+      213: 9123990991950059649
+    second: Fx_Hit_8
+  - first:
+      213: 3186501039144015442
+    second: Fx_Hit_9
+  - first:
+      213: 9016918675461843031
+    second: Fx_Hit_10
+  - first:
+      213: -3746398749227133241
+    second: Fx_Hit_11
+  - first:
+      213: 3384067160493577476
+    second: Fx_Hit_12
+  - first:
+      213: 5687377460005520224
+    second: Fx_Hit_13
+  - first:
+      213: -8677742165816289542
+    second: Fx_Hit_14
+  - first:
+      213: -7498099909391695263
+    second: Fx_Hit_15
+  - first:
+      213: -2147241735106804815
+    second: Fx_Hit_16
+  - first:
+      213: -2159810172427215791
+    second: Fx_Hit_17
+  - first:
+      213: -1269565746661427157
+    second: Fx_Hit_18
+  - first:
+      213: 4295216633039497547
+    second: Fx_Hit_19
+  - first:
+      213: 8061218376474045814
+    second: Fx_Hit_20
+  - first:
+      213: -3504807222232467349
+    second: Fx_Hit_21
+  - first:
+      213: 2186229575782718238
+    second: Fx_Hit_22
+  - first:
+      213: -2153287071648078741
+    second: Fx_Hit_23
+  - first:
+      213: 5248726835661544568
+    second: Fx_Hit_24
+  - first:
+      213: 3519505420166494719
+    second: Fx_Hit_25
+  - first:
+      213: 6939370333808874665
+    second: Fx_Hit_26
+  - first:
+      213: -7845647317634391143
+    second: Fx_Hit_27
+  - first:
+      213: -8482279389780036355
+    second: Fx_Hit_28
+  - first:
+      213: 8331713992280688998
+    second: Fx_Hit_29
+  - first:
+      213: -1698057073317139881
+    second: Fx_Hit_30
+  - first:
+      213: -5755733527150446193
+    second: Fx_Hit_31
+  - first:
+      213: 1434844941945509657
+    second: Fx_Hit_32
+  - first:
+      213: 1696569759051224284
+    second: Fx_Hit_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fx_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.385, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbfc2f1878a21f4c8afece3d11f41d5
+      internalID: -1644550534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.385, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1674e148d7d8e91419d26fe1318eb530
+      internalID: -518475298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.385, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b1ce69448ad94db2224408d445106
+      internalID: -2084102035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.385, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747612037b232474099ae90d71c21557
+      internalID: 720087083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.385, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb3908b3bccc7a4ea9046e63b0b82d9
+      internalID: -1903751121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fx_Hit_0: -1644550534
+      Fx_Hit_1: -518475298
+      Fx_Hit_2: -2084102035
+      Fx_Hit_3: 720087083
+      Fx_Hit_4: -1903751121
+      Fx_Hit_5: -759591359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,13 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - MarioStep
-  - BeatEmUpEntity
-  - BEU_Enemy
-  - BEU_EnemyChecker
-  - BEU_Player
-  - BEU_PlayerChecker
-  - BEU_EnemyTrigger
+  - PlayerTriggerDistance
+  - PlayerStopDistance
+  - EnemyTriggerDistance
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -19,9 +16,6 @@ TagManager:
   - Water
   - UI
   - 
-  - BEU_Character
-  - BEU_Trigger
-  - BEU_Ground
   - 
   - 
   - 
@@ -43,41 +37,20 @@ TagManager:
   - 
   - 
   - 
-  - Confiner
+  - 
+  - 
+  - 
+  - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
-  - name: -- BEATEMUP --
-    uniqueID: 3707628777
-    locked: 0
-  - name: B_Ground
-    uniqueID: 2887853571
-    locked: 0
-  - name: B_Background
+  - name: Background
     uniqueID: 657437417
     locked: 0
-  - name: B_Midground
+  - name: Midground
     uniqueID: 979053539
     locked: 0
-  - name: B_Foreground
+  - name: Foreground
     uniqueID: 759495277
     locked: 0
-  - name: -- STICKMARIO --
-    uniqueID: 573639467
-    locked: 0
-  - name: M_Background
-    uniqueID: 821950587
-    locked: 0
-  - name: M_Midground
-    uniqueID: 649849819
-    locked: 0
-  - name: M_Foreground
-    uniqueID: 488488041
-    locked: 0
-  - name: M_Guizmos
-    uniqueID: 1712898331
-    locked: 0
-  - name: UI
-    uniqueID: 1592707359
+  - name: Default
+    uniqueID: 0
     locked: 0

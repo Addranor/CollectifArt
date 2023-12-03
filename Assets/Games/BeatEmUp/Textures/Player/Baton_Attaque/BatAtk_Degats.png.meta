@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 51ea138dc4dd5cf4fba99e35b156b487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4371096349048868030
+    second: BatAtk_Degats_0
+  - first:
+      213: 1369313219470617068
+    second: BatAtk_Degats_1
+  - first:
+      213: 5758347481841525662
+    second: BatAtk_Degats_2
+  - first:
+      213: -6073590773097650590
+    second: BatAtk_Degats_3
+  - first:
+      213: -1826524705278082792
+    second: BatAtk_Degats_4
+  - first:
+      213: 680134642036724748
+    second: BatAtk_Degats_5
+  - first:
+      213: 3296308949534771109
+    second: BatAtk_Degats_6
+  - first:
+      213: -4293804179178356158
+    second: BatAtk_Degats_7
+  - first:
+      213: 7976577348646851115
+    second: BatAtk_Degats_8
+  - first:
+      213: -8512207493971699629
+    second: BatAtk_Degats_9
+  - first:
+      213: 830830904166709031
+    second: BatAtk_Degats_10
+  - first:
+      213: 7125165109083086852
+    second: BatAtk_Degats_11
+  - first:
+      213: -7473253034432665002
+    second: BatAtk_Degats_12
+  - first:
+      213: 2835428016298383400
+    second: BatAtk_Degats_13
+  - first:
+      213: -2200453884852441963
+    second: BatAtk_Degats_14
+  - first:
+      213: 1376831623959491181
+    second: BatAtk_Degats_15
+  - first:
+      213: 5214490273369436114
+    second: BatAtk_Degats_16
+  - first:
+      213: 2706483659500742695
+    second: BatAtk_Degats_17
+  - first:
+      213: -8486355520289810904
+    second: BatAtk_Degats_18
+  - first:
+      213: 4229081967417248929
+    second: BatAtk_Degats_19
+  - first:
+      213: 1366544170852659534
+    second: BatAtk_Degats_20
+  - first:
+      213: 3423905026754164236
+    second: BatAtk_Degats_21
+  - first:
+      213: -306625413837705616
+    second: BatAtk_Degats_22
+  - first:
+      213: 8548705650270833240
+    second: BatAtk_Degats_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatAtk_Degats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba8a67b5627684fa6d2416018bd51f
+      internalID: -1552617075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatAtk_Degats_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb41fdc229fea4e91315bfdbf954c9
+      internalID: 1635753709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatAtk_Degats_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a1e7029016d64ea7e6932079b9006
+      internalID: -1556705583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatAtk_Degats_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cc0936b11e3a4a8f754b1afc1fdec
+      internalID: 487264262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatAtk_Degats_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3740284eba4d4a85b93ffeb56125c
+      internalID: -1854885354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatAtk_Degats_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151c3c0edbe9bf946b888ce6a46ae924
+      internalID: -1987715756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatAtk_Degats_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1697d009301841b3d4860f4d06412
+      internalID: -353621377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatAtk_Degats_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99479d347721c814e9531d6159a4e977
+      internalID: -371169647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BatAtk_Degats_0: -1552617075
+      BatAtk_Degats_1: 1635753709
+      BatAtk_Degats_2: -1556705583
+      BatAtk_Degats_3: 487264262
+      BatAtk_Degats_4: -1854885354
+      BatAtk_Degats_5: -1987715756
+      BatAtk_Degats_6: -353621377
+      BatAtk_Degats_7: -371169647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

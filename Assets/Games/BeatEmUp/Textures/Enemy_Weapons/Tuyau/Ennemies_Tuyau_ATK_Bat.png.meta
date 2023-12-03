@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 21b9cee28aeb57446af9375b14c0f2b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3020253001283813744
+    second: Ennemies_Tuyau_ATK_Bat_0
+  - first:
+      213: 4954954203565121905
+    second: Ennemies_Tuyau_ATK_Bat_1
+  - first:
+      213: -1682575469499276448
+    second: Ennemies_Tuyau_ATK_Bat_2
+  - first:
+      213: 7438950587393649971
+    second: Ennemies_Tuyau_ATK_Bat_3
+  - first:
+      213: -8684772152860954091
+    second: Ennemies_Tuyau_ATK_Bat_4
+  - first:
+      213: -5745048595303883317
+    second: Ennemies_Tuyau_ATK_Bat_5
+  - first:
+      213: -5686170510312611888
+    second: Ennemies_Tuyau_ATK_Bat_6
+  - first:
+      213: 8770169463885909632
+    second: Ennemies_Tuyau_ATK_Bat_7
+  - first:
+      213: -3079119445360658479
+    second: Ennemies_Tuyau_ATK_Bat_8
+  - first:
+      213: -4921803546594763401
+    second: Ennemies_Tuyau_ATK_Bat_9
+  - first:
+      213: -5834219920399400046
+    second: Ennemies_Tuyau_ATK_Bat_10
+  - first:
+      213: 945937770118745550
+    second: Ennemies_Tuyau_ATK_Bat_11
+  - first:
+      213: 7565335499704682947
+    second: Ennemies_Tuyau_ATK_Bat_12
+  - first:
+      213: 2876427092663944000
+    second: Ennemies_Tuyau_ATK_Bat_13
+  - first:
+      213: -269130005760148418
+    second: Ennemies_Tuyau_ATK_Bat_14
+  - first:
+      213: -5328841233683514856
+    second: Ennemies_Tuyau_ATK_Bat_15
+  - first:
+      213: 4546025270102684542
+    second: Ennemies_Tuyau_ATK_Bat_16
+  - first:
+      213: 3344900068393110635
+    second: Ennemies_Tuyau_ATK_Bat_17
+  - first:
+      213: 2119973720558418836
+    second: Ennemies_Tuyau_ATK_Bat_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fd0d4d6274644ca5bb3a8d60df0e3
+      internalID: -1302973247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122d4bb4834716f47962e3c5133f3c36
+      internalID: -756124801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c074c46767c4aa41824c94de9e73281
+      internalID: 1252853542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b1b74a902db454dacd1d2dd78c83c6
+      internalID: -1547231746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af2b63656be03f4a94bf15fe2d5783a
+      internalID: 2067200526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af2262ef3bec874a8043abd57959f99
+      internalID: -1428130145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c27eef1de7bab459c126c4cad0dde1
+      internalID: 1107601112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Tuyau_ATK_Bat_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53f3104024fa041b437cd6309ce6b4
+      internalID: -1653792752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ennemies_Tuyau_ATK_Bat_0: -1302973247
+      Ennemies_Tuyau_ATK_Bat_1: -756124801
+      Ennemies_Tuyau_ATK_Bat_2: 1252853542
+      Ennemies_Tuyau_ATK_Bat_3: -1547231746
+      Ennemies_Tuyau_ATK_Bat_4: 2067200526
+      Ennemies_Tuyau_ATK_Bat_5: -1428130145
+      Ennemies_Tuyau_ATK_Bat_6: 1107601112
+      Ennemies_Tuyau_ATK_Bat_7: -1653792752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

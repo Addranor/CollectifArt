@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 509f1b3b36f59c74496e7a461266997b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8402965199932810886
+    second: KO_Degats_0
+  - first:
+      213: -8427572011544648532
+    second: KO_Degats_1
+  - first:
+      213: 9018648550327216241
+    second: KO_Degats_2
+  - first:
+      213: -6514131482115496659
+    second: KO_Degats_3
+  - first:
+      213: 8242042580160383554
+    second: KO_Degats_4
+  - first:
+      213: -89875462034629235
+    second: KO_Degats_5
+  - first:
+      213: -8589858245284106306
+    second: KO_Degats_6
+  - first:
+      213: 660260887607159593
+    second: KO_Degats_7
+  - first:
+      213: 5190897310744611985
+    second: KO_Degats_8
+  - first:
+      213: -7694036641582102401
+    second: KO_Degats_9
+  - first:
+      213: 8349380594398859450
+    second: KO_Degats_10
+  - first:
+      213: 6283480451119336753
+    second: KO_Degats_11
+  - first:
+      213: 2767244432456202007
+    second: KO_Degats_12
+  - first:
+      213: 2670698384563343278
+    second: KO_Degats_13
+  - first:
+      213: -7471587319277266192
+    second: KO_Degats_14
+  - first:
+      213: -3928885937676613163
+    second: KO_Degats_15
+  - first:
+      213: -48135891145694575
+    second: KO_Degats_16
+  - first:
+      213: 7624802685241164612
+    second: KO_Degats_17
+  - first:
+      213: 5359662733442266264
+    second: KO_Degats_18
+  - first:
+      213: -3696519229365171686
+    second: KO_Degats_19
+  - first:
+      213: -2510139096074591403
+    second: KO_Degats_20
+  - first:
+      213: 5859040725780760879
+    second: KO_Degats_21
+  - first:
+      213: -2924406575758039162
+    second: KO_Degats_22
+  - first:
+      213: -1292054606722585266
+    second: KO_Degats_23
+  - first:
+      213: -6201573979298479294
+    second: KO_Degats_24
+  - first:
+      213: -6611479859570644561
+    second: KO_Degats_25
+  - first:
+      213: 9132948383034784203
+    second: KO_Degats_26
+  - first:
+      213: 5577480134384764238
+    second: KO_Degats_27
+  - first:
+      213: -4499280465240515266
+    second: KO_Degats_28
+  - first:
+      213: 2192170045335034346
+    second: KO_Degats_29
+  - first:
+      213: 7920864644738560688
+    second: KO_Degats_30
+  - first:
+      213: -8507109641145037029
+    second: KO_Degats_31
+  - first:
+      213: 7640480549524570241
+    second: KO_Degats_32
+  - first:
+      213: -4658564267044095745
+    second: KO_Degats_33
+  - first:
+      213: 8575658577431782198
+    second: KO_Degats_34
+  - first:
+      213: -8132487513948092978
+    second: KO_Degats_35
+  - first:
+      213: 5944410681538025636
+    second: KO_Degats_36
+  - first:
+      213: -5160797760829540949
+    second: KO_Degats_37
+  - first:
+      213: -4166684812414889599
+    second: KO_Degats_38
+  - first:
+      213: -70023016957142013
+    second: KO_Degats_39
+  - first:
+      213: -6530616926806189557
+    second: KO_Degats_40
+  - first:
+      213: 3914864871454981285
+    second: KO_Degats_41
+  - first:
+      213: -5544157316849057891
+    second: KO_Degats_42
+  - first:
+      213: 7716607816377089395
+    second: KO_Degats_43
+  - first:
+      213: 1004284485962150840
+    second: KO_Degats_44
+  - first:
+      213: 4508292500435570109
+    second: KO_Degats_45
+  - first:
+      213: 91287962757167247
+    second: KO_Degats_46
+  - first:
+      213: 7836247420189290445
+    second: KO_Degats_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KO_Degats_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944cd8a154562af49a6bbe26f36532a4
+      internalID: -565357574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3150
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b710cafc92d12641b0548d5527b3db4
+      internalID: -835139959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76627c57a0a3b084c80e6e146fd6812c
+      internalID: 1047487307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2700
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e93d7a8e6b91dc4f828a6d48a5a9f49
+      internalID: -796495328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63edcb50b4efc844cb8e8e019ad3f131
+      internalID: -604340032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2250
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12100ecce155fcf46919f1fee6254862
+      internalID: 389338979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f2bfa9ac1d3004cafbe0c20ba699bb
+      internalID: 885337497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1800
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493f08462c7f9a45a8485c9361dd216
+      internalID: -836075063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8062f6f775c9d22499590853ede472c8
+      internalID: -440803844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5e0ec37d6e6b9418dc84c3ab505948
+      internalID: 54962166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb00327ce673f14fb4ea8bd3eeda33c
+      internalID: -1904099862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deab23458ce6bba459c1ea5074572866
+      internalID: 1658745407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a668533b6f998614a901a6080587aa14
+      internalID: -1260660010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4328d01b7ee0b6d42a3d0fabdb032534
+      internalID: -422689860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bae6147679c1f4aab2948cf53d511a
+      internalID: 582703439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO_Degats_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618a307e83d4c441af649a51226187d
+      internalID: -2129357079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KO_Degats_0: -565357574
+      KO_Degats_1: -835139959
+      KO_Degats_10: -1904099862
+      KO_Degats_11: 1658745407
+      KO_Degats_12: -1260660010
+      KO_Degats_13: -422689860
+      KO_Degats_14: 582703439
+      KO_Degats_15: -2129357079
+      KO_Degats_2: 1047487307
+      KO_Degats_3: -796495328
+      KO_Degats_4: -604340032
+      KO_Degats_5: 389338979
+      KO_Degats_6: 885337497
+      KO_Degats_7: -836075063
+      KO_Degats_8: -440803844
+      KO_Degats_9: 54962166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

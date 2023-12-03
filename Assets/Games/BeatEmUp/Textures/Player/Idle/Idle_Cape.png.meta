@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 9606db92343e03c409921cfce33e445b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5208098201972664884
+    second: Idle_Cape_0
+  - first:
+      213: 7484469534496530826
+    second: Idle_Cape_1
+  - first:
+      213: -5791723514198045137
+    second: Idle_Cape_2
+  - first:
+      213: -3205898944635507891
+    second: Idle_Cape_3
+  - first:
+      213: -1495548823413782627
+    second: Idle_Cape_4
+  - first:
+      213: 4691278045736612470
+    second: Idle_Cape_5
+  - first:
+      213: 257686812805842975
+    second: Idle_Cape_6
+  - first:
+      213: -8801315776664618808
+    second: Idle_Cape_7
+  - first:
+      213: -786818509266942779
+    second: Idle_Cape_8
+  - first:
+      213: 1022560515479847290
+    second: Idle_Cape_9
+  - first:
+      213: 442088491759175542
+    second: Idle_Cape_10
+  - first:
+      213: -299499356396185220
+    second: Idle_Cape_11
+  - first:
+      213: 6457482617849295997
+    second: Idle_Cape_12
+  - first:
+      213: 6486140634329712923
+    second: Idle_Cape_13
+  - first:
+      213: -7265219960182378044
+    second: Idle_Cape_14
+  - first:
+      213: -2434132284584700742
+    second: Idle_Cape_15
+  - first:
+      213: -5816026496805948979
+    second: Idle_Cape_16
+  - first:
+      213: -4845355907641354805
+    second: Idle_Cape_17
+  - first:
+      213: 5894768228502473770
+    second: Idle_Cape_18
+  - first:
+      213: 6490287241248235204
+    second: Idle_Cape_19
+  - first:
+      213: -8580497077967308344
+    second: Idle_Cape_20
+  - first:
+      213: 7549811492792969468
+    second: Idle_Cape_21
+  - first:
+      213: 1781349224615127515
+    second: Idle_Cape_22
+  - first:
+      213: 4337636938958758651
+    second: Idle_Cape_23
+  - first:
+      213: -7933132800441364969
+    second: Idle_Cape_24
+  - first:
+      213: 261518069419889459
+    second: Idle_Cape_25
+  - first:
+      213: 7386521530954705451
+    second: Idle_Cape_26
+  - first:
+      213: 6468367192062372362
+    second: Idle_Cape_27
+  - first:
+      213: 7546239056777910718
+    second: Idle_Cape_28
+  - first:
+      213: 1635677431202167598
+    second: Idle_Cape_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_Cape_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623aeefc8edfe34b8340d5bde0b8f9a
+      internalID: 1368437904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Cape_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c785ff73ac84fc542a050fd29e48695c
+      internalID: -2064904555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Cape_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb2afddf2257d4db5c283854f0a8fe
+      internalID: 898254793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Cape_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96881ee21935f094e907cfb832e21858
+      internalID: -2032640319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Cape_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c0a62effb4b4d4696ee0a6cea3236f
+      internalID: 276463430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Cape_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db42fb2b4b16a141b55017fd26e5f19
+      internalID: 344343309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Cape_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7ceccd0f4ca040a2cca969a298661
+      internalID: 426776217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Cape_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38baffcea173944931a5d63d9a77cc
+      internalID: -815810040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Idle_Cape_0: 1368437904
+      Idle_Cape_1: -2064904555
+      Idle_Cape_2: 898254793
+      Idle_Cape_3: -2032640319
+      Idle_Cape_4: 276463430
+      Idle_Cape_5: 344343309
+      Idle_Cape_6: 426776217
+      Idle_Cape_7: -815810040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: e4ed4fd02beeca24e88ecbe20d2df6f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7142933073856770732
+    second: Ennemies_Baton_ATK_Bat_0
+  - first:
+      213: 2943495100818150166
+    second: Ennemies_Baton_ATK_Bat_1
+  - first:
+      213: -3898326090166663508
+    second: Ennemies_Baton_ATK_Bat_2
+  - first:
+      213: 7129083110245787291
+    second: Ennemies_Baton_ATK_Bat_3
+  - first:
+      213: -547691791067157709
+    second: Ennemies_Baton_ATK_Bat_4
+  - first:
+      213: 1861482830355333205
+    second: Ennemies_Baton_ATK_Bat_5
+  - first:
+      213: -5625443248436932278
+    second: Ennemies_Baton_ATK_Bat_6
+  - first:
+      213: 1426360483821564923
+    second: Ennemies_Baton_ATK_Bat_7
+  - first:
+      213: 5328886422639972007
+    second: Ennemies_Baton_ATK_Bat_8
+  - first:
+      213: -2189006309323741644
+    second: Ennemies_Baton_ATK_Bat_9
+  - first:
+      213: -3867761792045009432
+    second: Ennemies_Baton_ATK_Bat_10
+  - first:
+      213: 8545251376308151262
+    second: Ennemies_Baton_ATK_Bat_11
+  - first:
+      213: 6584840433695064401
+    second: Ennemies_Baton_ATK_Bat_12
+  - first:
+      213: -7665597599086354482
+    second: Ennemies_Baton_ATK_Bat_13
+  - first:
+      213: -6291960919514831506
+    second: Ennemies_Baton_ATK_Bat_14
+  - first:
+      213: 2359060088894243308
+    second: Ennemies_Baton_ATK_Bat_15
+  - first:
+      213: -2251285777193308328
+    second: Ennemies_Baton_ATK_Bat_16
+  - first:
+      213: -8552014078810106978
+    second: Ennemies_Baton_ATK_Bat_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d979ad2310bbc2428a7bdd5d6fb8387
+      internalID: 5535027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae0a5a5020ca0a4da37a89f469bf60d
+      internalID: -1666872493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d852b50ae7e35d46a2efda5043f1e70
+      internalID: 839064260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a537c2e0895e1c04685b9fa12a3b73b0
+      internalID: 882961046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e08bf929bb4648b41d5e27f87b35d
+      internalID: 807707172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb83ebd60ee894ebd0ec5d045c5c57
+      internalID: 2055833092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b3eeabb19579a4bb9b86e4d910a2dd
+      internalID: 666656124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ennemies_Baton_ATK_Bat_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86474ed3a6db2945b9f6465a781493b
+      internalID: -1146036309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ennemies_Baton_ATK_Bat_0: 5535027
+      Ennemies_Baton_ATK_Bat_1: -1666872493
+      Ennemies_Baton_ATK_Bat_2: 839064260
+      Ennemies_Baton_ATK_Bat_3: 882961046
+      Ennemies_Baton_ATK_Bat_4: 807707172
+      Ennemies_Baton_ATK_Bat_5: 2055833092
+      Ennemies_Baton_ATK_Bat_6: 666656124
+      Ennemies_Baton_ATK_Bat_7: -1146036309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
