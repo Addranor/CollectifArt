@@ -21,17 +21,17 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -758175381, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
+      value: {fileID: 645705102, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
     - time: 0.041666668
-      value: {fileID: 1063259604, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
+      value: {fileID: -117053752, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
     - time: 0.125
-      value: {fileID: 1547446881, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
+      value: {fileID: 1816193310, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
     - time: 0.20833333
-      value: {fileID: -305963740, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
+      value: {fileID: 987254223, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
     - time: 0.25
-      value: {fileID: 404306910, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
+      value: {fileID: -967318163, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
     - time: 0.29166666
-      value: {fileID: -1583024457, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
+      value: {fileID: 1764791820, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
     attribute: m_Sprite
     path: Base Body
     classID: 212
@@ -110,12 +110,12 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -758175381, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
-    - {fileID: 1063259604, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
-    - {fileID: 1547446881, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
-    - {fileID: -305963740, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
-    - {fileID: 404306910, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
-    - {fileID: -1583024457, guid: 0956cf518d20eab42b708f886f2e549d, type: 3}
+    - {fileID: 645705102, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
+    - {fileID: -117053752, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
+    - {fileID: 1816193310, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
+    - {fileID: 987254223, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
+    - {fileID: -967318163, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
+    - {fileID: 1764791820, guid: a2650f89000ae9243a4af5e0e6834f63, type: 3}
     - {fileID: -1607735869, guid: 54398203522e6da489e770bb12ba4ab2, type: 3}
     - {fileID: -807921472, guid: 54398203522e6da489e770bb12ba4ab2, type: 3}
     - {fileID: 1178651713, guid: 54398203522e6da489e770bb12ba4ab2, type: 3}
