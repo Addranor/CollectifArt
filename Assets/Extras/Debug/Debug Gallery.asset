@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dadb63b6886464fbdab08930e21a6f, type: 3}
+  m_Name: Debug Gallery
+  m_EditorClassIdentifier: 
+  galleryImages:
+  - {fileID: 21300000, guid: 86e77c4b9bfbf904da121a4806989423, type: 3}
+  - {fileID: 21300000, guid: 653c8b9b1354d944aa7cc03f0f57ce92, type: 3}
+  - {fileID: 21300000, guid: 472f937f23d3a8449b92ecc382b6fcde, type: 3}
+  - {fileID: 21300000, guid: c925478b00233c94a8988469d99ee591, type: 3}
+  - {fileID: 21300000, guid: fe4941a884ef916498a156c2f4987844, type: 3}
+  - {fileID: 21300000, guid: de5c7dee578fb584bb20850c43915d46, type: 3}
+  - {fileID: 21300000, guid: 8a4ca18260241d647a199389c39e6d63, type: 3}
+  - {fileID: 21300000, guid: 132c3e5c53856fa478d923bea02a5dee, type: 3}

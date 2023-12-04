@@ -1,31 +1,10 @@
 fileFormatVersion: 2
-guid: f1e34b3863b42174bbafb0188f79c5d6
+guid: cf74f7e7113e1b84883da6649589bc4a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2993270679164450005
-    second: Ennemies-1_ATK_Bat_0
-  - first:
-      213: -2862677354899748233
-    second: Ennemies-1_ATK_Bat_1
-  - first:
-      213: -6385181580867724080
-    second: Ennemies-1_ATK_Bat_2
-  - first:
-      213: 621981526871588728
-    second: Ennemies-1_ATK_Bat_3
-  - first:
-      213: 2036059950579349005
-    second: Ennemies-1_ATK_Bat_4
-  - first:
-      213: -8457811751126400787
-    second: Ennemies-1_ATK_Bat_5
-  - first:
-      213: -2223770006377529904
-    second: Ennemies-1_ATK_Bat_6
-  - first:
-      213: 4173737884637857521
-    second: Ennemies-1_ATK_Bat_7
+      213: -3228370181380509958
+    second: kisspng-caret-arrow-computer-icons-encapsulated-postscript-5b084676603623.2701780215272689823941_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -119,169 +98,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_0
+      name: GUI_Arrow_Left
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1379
-        width: 245
-        height: 337
+        x: 0
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b2b8fc32d24c576d0800000000000000
-      internalID: -2993270679164450005
+      spriteID: 0535d60a97d256c45a4ec111de5d3c8a
+      internalID: -1322714661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_1
+      name: GUI_Arrow_Ctr_LT
       rect:
         serializedVersion: 2
-        x: 555
-        y: 1380
-        width: 233
-        height: 333
+        x: 574
+        y: 256
+        width: 201
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 77a45a2ec1ab548d0800000000000000
-      internalID: -2862677354899748233
+      spriteID: 6a40d65028fa71f42ab46545af84dbca
+      internalID: 1620065596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_2
+      name: GUI_Arrow_Ctr_RT
       rect:
         serializedVersion: 2
-        x: 114
-        y: 930
-        width: 244
-        height: 330
+        x: 824
+        y: 256
+        width: 200
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0dc130eae274367a0800000000000000
-      internalID: -6385181580867724080
+      spriteID: db2ad6f9309616447a74ad1b940f77e8
+      internalID: 1835260088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_3
+      name: GUI_Arrow_Ctr_X
       rect:
         serializedVersion: 2
-        x: 568
-        y: 930
-        width: 268
-        height: 318
+        x: 0
+        y: 260
+        width: 250
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 87f390e37e8b1a800800000000000000
-      internalID: 621981526871588728
+      spriteID: e925cc206b057fb498eff47c344afec1
+      internalID: -1062903578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_4
+      name: GUI_Arrow_Ctr_Y
       rect:
         serializedVersion: 2
-        x: 127
-        y: 480
-        width: 263
-        height: 315
+        x: 260
+        y: 260
+        width: 250
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d067eafccb9814c10800000000000000
-      internalID: 2036059950579349005
+      spriteID: 9aa4f8958f8afa34a88344e0c891e722
+      internalID: -1137338837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_5
+      name: GUI_Arrow_Ctr_A
       rect:
         serializedVersion: 2
-        x: 562
-        y: 480
-        width: 251
-        height: 330
+        x: 0
+        y: 0
+        width: 250
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de08cf41601df9a80800000000000000
-      internalID: -8457811751126400787
+      spriteID: 8cfaefb9c683d1f41afba649682aa330
+      internalID: -1953169961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_6
+      name: GUI_Arrow_Ctr_B
       rect:
         serializedVersion: 2
-        x: 108
-        y: 29
-        width: 249
-        height: 336
+        x: 260
+        y: 0
+        width: 250
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0ddf2b316f49321e0800000000000000
-      internalID: -2223770006377529904
+      spriteID: efae91e2b3d4b4746bc4b4382b9ac3a3
+      internalID: -598616335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ennemies-1_ATK_Bat_7
+      name: GUI_Arrow_Ctr_LB
       rect:
         serializedVersion: 2
-        x: 552
-        y: 29
-        width: 245
-        height: 337
+        x: 574
+        y: 30
+        width: 201
+        height: 98
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f60e6f1e781ce930800000000000000
-      internalID: 4173737884637857521
+      spriteID: 82a1d60c4c92fad4db89623c52714087
+      internalID: -1910221112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Arrow_Ctr_RB
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 30
+        width: 200
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec17551f4d105ba478968670607e01b6
+      internalID: -1160980193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Arrow_Right
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b195fb1b380584493f357d959f0386
+      internalID: 1682123000
       vertices: []
       indices: 
       edges: []
@@ -289,7 +310,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -297,14 +318,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ennemies-1_ATK_Bat_0: -2993270679164450005
-      Ennemies-1_ATK_Bat_1: -2862677354899748233
-      Ennemies-1_ATK_Bat_2: -6385181580867724080
-      Ennemies-1_ATK_Bat_3: 621981526871588728
-      Ennemies-1_ATK_Bat_4: 2036059950579349005
-      Ennemies-1_ATK_Bat_5: -8457811751126400787
-      Ennemies-1_ATK_Bat_6: -2223770006377529904
-      Ennemies-1_ATK_Bat_7: 4173737884637857521
+      GUI_Arrow_Ctr_A: -1953169961
+      GUI_Arrow_Ctr_B: -598616335
+      GUI_Arrow_Ctr_LB: -1910221112
+      GUI_Arrow_Ctr_LT: 1620065596
+      GUI_Arrow_Ctr_RB: -1160980193
+      GUI_Arrow_Ctr_RT: 1835260088
+      GUI_Arrow_Ctr_X: -1062903578
+      GUI_Arrow_Ctr_Y: -1137338837
+      GUI_Arrow_Left: -1322714661
+      GUI_Arrow_Right: 1682123000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
