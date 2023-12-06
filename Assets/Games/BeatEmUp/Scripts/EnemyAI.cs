@@ -1,107 +1,81 @@
 using UnityEngine;
 
-public class EnemyAI : MonoBehaviour
+namespace BeatEmUp
 {
-    [SerializeField] private float triggerDistance = 15;
-    [SerializeField] private float stopDistance = 1.5f;
-    [SerializeField] private float speed = 0.01f;
-    [SerializeField] private float pathLatency = 1.0f;
-    [SerializeField] private Vector2 errorDistributionX = Vector2.zero;
-    [SerializeField] private Vector2 errorDistributionY = Vector2.zero;
-    
-    private PlayerController[] players;
-    private EnemyAI[] enemies;
-
-    private Vector2 updatePosition = Vector3.zero;
-    private Vector2 targetPosition = Vector3.zero;
-
-    private bool isEnemyTriggered = false;
-    private bool isPlayerTriggered = false;
-    private bool isPlayerStopTriggered = false;
-
-    private float lastPathTime = 0.0f;
-    private float finalErrorDistributionX;
-    private float finalErrorDistributionY;
-
-    private void Start()
+    public class EnemyAI : MonoBehaviour
     {
-        players = FindObjectsByType<PlayerController>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
-        enemies = FindObjectsByType<EnemyAI>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
+        [SerializeField] private float _speed = 0.05f;
+        [SerializeField] private float _pathLatency = 1.0f;
+        [SerializeField] private Vector2 _errorDistributionX = Vector2.zero;
+        [SerializeField] private Vector2 _errorDistributionY = Vector2.zero;
 
-        updatePosition = transform.position;
-    }
+        private PlayerController _player;
+        private EnemyAI[] _enemies;
 
-    private void Update()
-    {
-        lastPathTime += Time.deltaTime;
+        private Rigidbody2D _rb;
 
+        private Vector2 _updatePosition = Vector3.zero;
+        private Vector2 _targetPosition = Vector3.zero;
+        
+        private bool _isPlayerStopTriggered = false;
 
-        foreach (var player in players)
+        private float _lastPathTime;
+        private float _finalErrorDistributionX;
+        private float _finalErrorDistributionY;
+
+        private void Start()
         {
-            if (player == null)
-                continue;
+            _player = FindAnyObjectByType<PlayerController>(FindObjectsInactive.Exclude);
+            _enemies = FindObjectsByType<EnemyAI>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
 
-            var distanceX = transform.position.x - player.transform.position.x;
-            var distanceY = transform.position.y - player.transform.position.y;
+            TryGetComponent(out _rb);
 
-
-            if (lastPathTime > pathLatency)
-            {
-                lastPathTime = 0.0f;
-
-                finalErrorDistributionX = Random.Range(errorDistributionX.x, errorDistributionX.y);
-                finalErrorDistributionY = Random.Range(errorDistributionY.x, errorDistributionY.y);
-
-                targetPosition = new Vector2(player.transform.position.x + finalErrorDistributionX,
-                    player.transform.position.y + finalErrorDistributionY);
-            }
-
-            // Trigger zone
-            if (isPlayerTriggered)
-            {
-                updatePosition = new Vector2(
-                    Mathf.MoveTowards(transform.position.x, targetPosition.x, speed),
-                    Mathf.MoveTowards(transform.position.y, targetPosition.y, speed)
-                );
-
-                if (isPlayerStopTriggered)
-                {
-                    updatePosition.x = transform.position.x;
-                    updatePosition.y = Mathf.MoveTowards(transform.position.y, targetPosition.y, speed);
-                }
-            }
+            _updatePosition = transform.position;
         }
 
-        transform.position = updatePosition;
-    }
+        private void Update()
+        {
+            _lastPathTime += Time.deltaTime;
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("EnemyTriggerDistance"))
-            isEnemyTriggered = true;
-        if (other.CompareTag("PlayerTriggerDistance"))
-            isPlayerTriggered = true;
-        if (other.CompareTag("PlayerStopDistance"))
-            isPlayerStopTriggered = true;
-    }
+            if (_player == null) return;
 
-    private void OnTriggerStay2D(Collider2D other)
-    {
-        if (other.CompareTag("EnemyTriggerDistance"))
-            isEnemyTriggered = true;
-        if (other.CompareTag("PlayerTriggerDistance"))
-            isPlayerTriggered = true;
-        if (other.CompareTag("PlayerStopDistance"))
-            isPlayerStopTriggered = true;
-    }
+            var position = transform.position;
+            var playerPosition = _player.transform.position;
 
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("EnemyTriggerDistance"))
-            isEnemyTriggered = false;
-        if (other.CompareTag("PlayerTriggerDistance"))
-            isPlayerTriggered = false;
-        if (other.CompareTag("PlayerStopDistance"))
-            isPlayerStopTriggered = false;
+            if (_lastPathTime > _pathLatency)
+            {
+                _lastPathTime = 0.0f;
+
+                _finalErrorDistributionX = Random.Range(_errorDistributionX.x, _errorDistributionX.y);
+                _finalErrorDistributionY = Random.Range(_errorDistributionY.x, _errorDistributionY.y);
+
+                _targetPosition = new Vector2(playerPosition.x + _finalErrorDistributionX, playerPosition.y + _finalErrorDistributionY);
+            }
+
+            _updatePosition = new Vector2(
+                Mathf.MoveTowards(position.x, _targetPosition.x, _speed),
+                Mathf.MoveTowards(position.y, _targetPosition.y, _speed)
+            );
+
+            if (_isPlayerStopTriggered)
+            {
+                _updatePosition.x = transform.position.x;
+                _updatePosition.y = Mathf.MoveTowards(position.y, _targetPosition.y, _speed);
+            }
+
+            _rb.position = _updatePosition;
+        }
+
+        private void OnTriggerEnter2D(Collider2D other)
+        {
+            if (other.CompareTag("PlayerStopDistance"))
+                _isPlayerStopTriggered = true;
+        }
+
+        private void OnTriggerExit2D(Collider2D other)
+        {
+            if (other.CompareTag("PlayerStopDistance"))
+                _isPlayerStopTriggered = false;
+        }
     }
 }

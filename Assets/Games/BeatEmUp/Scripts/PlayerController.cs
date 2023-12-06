@@ -1,53 +1,51 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerController : MonoBehaviour
+namespace BeatEmUp
 {
-    public bool flipX;
-
-    [SerializeField] private Transform playerSprites;
-    [SerializeField] private Animator playerAnimator;
-
-    [SerializeField] private float speed = 5.0f;
-
-    private Rigidbody2D playerRigidbody2D;
-
-    private Vector2 playerPosition = Vector2.zero;
-    private Vector2 playerVelocity = Vector2.zero;
-
-    private static readonly int IsRun = Animator.StringToHash("isRun");
-
-    private void Start()
+    public class PlayerController : MonoBehaviour
     {
-        TryGetComponent(out playerRigidbody2D);
-    }
+        [SerializeField] private Transform _playerSprites;
+        [SerializeField] private float _speed = 5.0f;
 
-    private void Update()
-    {
-        playerVelocity = playerPosition * speed;
+        private Rigidbody2D _rb;
+        private Animator _animator;
 
-        if (playerVelocity.x > 0)
+        private Vector2 _playerInput = Vector2.zero;
+        private Vector2 _playerVelocity = Vector2.zero;
+        private bool _playerAttack;
+
+        private static readonly int IsRun = Animator.StringToHash("isRun");
+
+        public Rigidbody2D GetRb() => _rb;
+
+        private void Start()
         {
-            playerSprites.localScale = Vector3.one;
-        }
-        else if (playerVelocity.x < 0)
-        {
-            playerSprites.localScale = new Vector3(-1, 1, 1);
+            _playerSprites.TryGetComponent(out _animator);
+            TryGetComponent(out _rb);
         }
 
-        if (playerVelocity.x != 0 || playerVelocity.y != 0)
-            playerAnimator.SetBool(IsRun, true);
-        else
-            playerAnimator.SetBool(IsRun, false);
-    }
+        private void Update()
+        {
+            _playerVelocity = _playerInput * _speed;
 
-    private void FixedUpdate()
-    {
-        playerRigidbody2D.MovePosition(playerRigidbody2D.position + playerVelocity * Time.fixedDeltaTime);
-    }
+            if (_playerVelocity.x > 0)
+                transform.localScale = new Vector3( 1, 1, 1);
+            else if (_playerVelocity.x < 0)
+                transform.localScale = new Vector3(-1, 1, 1);
 
-    public void OnMovements(InputValue value)
-    {
-        playerPosition = value.Get<Vector2>();
+            if (_playerVelocity.x != 0 || _playerVelocity.y != 0)
+                _animator.SetBool(IsRun, true);
+            else
+                _animator.SetBool(IsRun, false);
+        }
+
+        private void FixedUpdate()
+        {
+            _rb.MovePosition(_rb.position + _playerVelocity * Time.fixedDeltaTime);
+        }
+
+        public void OnMovements(InputValue value) => _playerInput = value.Get<Vector2>();
+        public void OnAttack(InputValue value) => _playerAttack = value.isPressed;
     }
 }

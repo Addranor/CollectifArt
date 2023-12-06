@@ -8,8 +8,24 @@ using UnityEngine.UI;
 
 public class ExtraGallery : MonoBehaviour
 {
-    [SerializeField] private ExtraGalleryScriptableObject extraGalleryScriptableObject;
-
+    [Header("SceneLoader")]
+    [SerializeField] private string raccoonSceneName = "Raccoon_Lvl_1";
+    [SerializeField] private string rapunzelSceneName = "Rapunzel_Boss_Battle";
+    
+    [Header("Galleries")]
+    [SerializeField] private ExtraGalleryScriptableObject racoonGallery;
+    [SerializeField] private ExtraGalleryScriptableObject raiponceGallery;
+    
+    [Header("References")]
+    [SerializeField] private GameObject mainMenu;
+    [SerializeField] private GameObject extraMenu;
+    [SerializeField] private GameObject raccoonHeader;
+    [SerializeField] private GameObject raiponceHeader;
+    [SerializeField] private AudioSource audioSource;
+    [SerializeField] private AudioClip backSfx;
+    [SerializeField] private AudioClip navigationSfx;
+    
+    [Header("Pagination")]
     [SerializeField] private TextMeshProUGUI amount;
     [SerializeField] private TextMeshProUGUI maximumAmount;
     [SerializeField] private Image spriteRenderer;
@@ -19,6 +35,7 @@ public class ExtraGallery : MonoBehaviour
     private float onBack = 0.0f;
     private int index = 0;
     private int maximumIndex = 0;
+    private ExtraGalleryScriptableObject cachedGallery;
     
     private static readonly int DisplayGallery = Animator.StringToHash("DisplayGallery");
     private static readonly int HideGallery = Animator.StringToHash("HideGallery");
@@ -26,60 +43,90 @@ public class ExtraGallery : MonoBehaviour
     private void Start()
     {
         TryGetComponent(out animator);
-        EnableGallery(extraGalleryScriptableObject);
     }
 
-    private void EnableGallery(ExtraGalleryScriptableObject gallery)
+    public void LoadRaccoon() => Bootstrap.instance.LoadScene(raccoonSceneName);
+    public void LoadRapunzel() => Bootstrap.instance.LoadScene(rapunzelSceneName);
+
+    public void QuitGame()
     {
-        extraGalleryScriptableObject = gallery;
+        #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+        #else
+        Application.Quit();
+        #endif
+    }
+
+    public void EnableRacconExtra()
+    {
+        LoadGallery(racoonGallery);
+        ToggleGallery(true);
+        raccoonHeader.SetActive(true);
+    }
+
+    public void EnableRaiponceExtra()
+    {
+        LoadGallery(raiponceGallery);
+        ToggleGallery(true);
+        raiponceHeader.SetActive(true);
+    }
+
+    private void LoadGallery(ExtraGalleryScriptableObject gallery)
+    {
+        cachedGallery = gallery;
         index = 0;
-        maximumIndex = extraGalleryScriptableObject.galleryImages.Length;
+        maximumIndex = cachedGallery.galleryImages.Length;
         maximumAmount.text = maximumIndex.ToString();
         
-        spriteRenderer.sprite = extraGalleryScriptableObject.galleryImages[0];
+        spriteRenderer.sprite = cachedGallery.galleryImages[0];
         
         UpdateSprite();
-        
-        // "Désactiver" l'interaction avec le menu principal
-        // Activer l'interaction après la fin de l'animation
     }
 
-    private void DisableGallery()
+    private void ToggleGallery(bool enable = false)
     {
-        Debug.Log("Retour au menu");
-        
-        // "Désactiver" l'interaction avec la galerie
-        // Réactiver l'interaction avec le menu principal après la fin de l'animation
+        raiponceHeader.SetActive(!enable);
+        raccoonHeader.SetActive(!enable);
+        mainMenu.SetActive(!enable);
+        extraMenu.SetActive(enable);
     }
 
     private void UpdateSprite()
     {
-        if (index < 0) index = maximumIndex - 1;    // Boucle de 0 vers la fin
-        else if (index >= maximumIndex) index = 0;  // Boucle de la fin vers 0
+        if (index < 0) index = maximumIndex - 1;    // From 0 to the end
+        else if (index >= maximumIndex) index = 0;  // From the end to 0
         
-        amount.text = (index + 1).ToString();   // On met à jour l'index d'image affiché
-        spriteRenderer.sprite = extraGalleryScriptableObject.galleryImages[index];  // On affiche l'image correspondante
+        amount.text = (index + 1).ToString();   // Update displayed index
+        spriteRenderer.sprite = cachedGallery.galleryImages[index];  // Display picture
     }
 
     public void OnNavigation(InputValue value)
     {
         onNavigation = value.Get<float>();
 
-        if (onNavigation < 0) // Image précédente
+        if (!spriteRenderer.gameObject.activeInHierarchy) return;
+
+        if (onNavigation < 0) // Previous image
         {
             index--;
             UpdateSprite();
+            audioSource.PlayOneShot(navigationSfx);
         }
-        else if (onNavigation > 0) // Image suivante
+        else if (onNavigation > 0) // Next image
         {
             index++;
-            UpdateSprite();            
+            UpdateSprite();
+            audioSource.PlayOneShot(navigationSfx);
         }
     }
 
     public void OnBack(InputValue value)
     {
         onBack = value.Get<float>();
-        if (onBack > 0) DisableGallery(); // Retour au menu principal
+        
+        if (!spriteRenderer.gameObject.activeInHierarchy) return;
+        
+        if (onBack > 0) ToggleGallery(false); // Back to the main menu
+        audioSource.PlayOneShot(backSfx);
     }
 }
