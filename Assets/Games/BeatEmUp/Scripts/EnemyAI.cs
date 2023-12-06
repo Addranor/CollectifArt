@@ -1,13 +1,20 @@
+using System;
+using System.Text;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 namespace BeatEmUp
 {
     public class EnemyAI : MonoBehaviour
     {
+        [Header("Parameters")]
         [SerializeField] private float _speed = 0.05f;
         [SerializeField] private float _pathLatency = 1.0f;
         [SerializeField] private Vector2 _errorDistributionX = Vector2.zero;
         [SerializeField] private Vector2 _errorDistributionY = Vector2.zero;
+        
+        [Header("References")]
+        [SerializeField] private Animator _animator;
 
         private PlayerController _player;
         private EnemyAI[] _enemies;
@@ -16,12 +23,15 @@ namespace BeatEmUp
 
         private Vector2 _updatePosition = Vector3.zero;
         private Vector2 _targetPosition = Vector3.zero;
+        private Vector2 _velocity;
+        private Vector2 _previousPosition;
         
         private bool _isPlayerStopTriggered = false;
 
         private float _lastPathTime;
         private float _finalErrorDistributionX;
         private float _finalErrorDistributionY;
+        private static readonly int IsRunning = Animator.StringToHash("isRunning");
 
         private void Start()
         {
@@ -34,6 +44,24 @@ namespace BeatEmUp
         }
 
         private void Update()
+        {
+            if (IsHit()) return;
+            
+            Chase();
+            LookAtPlayer();
+        }
+
+        private void FixedUpdate()
+        {
+            _rb.MovePosition(_updatePosition);
+        }
+
+        private bool IsHit()
+        {
+            return false;
+        }
+
+        private void Chase()
         {
             _lastPathTime += Time.deltaTime;
 
@@ -57,13 +85,20 @@ namespace BeatEmUp
                 Mathf.MoveTowards(position.y, _targetPosition.y, _speed)
             );
 
-            if (_isPlayerStopTriggered)
-            {
-                _updatePosition.x = transform.position.x;
-                _updatePosition.y = Mathf.MoveTowards(position.y, _targetPosition.y, _speed);
-            }
+            if (!_isPlayerStopTriggered) return;
+            _updatePosition.x = transform.position.x;
+            _updatePosition.y = Mathf.MoveTowards(position.y, _targetPosition.y, _speed);
+        }
 
-            _rb.position = _updatePosition;
+        private void LookAtPlayer()
+        {
+            Vector3 scale = transform.localScale;
+
+            if (_player.transform.position.x > transform.position.x)
+                scale.x = Mathf.Abs(scale.x) * -1;
+
+            else
+                scale.x = Mathf.Abs(scale.x);
         }
 
         private void OnTriggerEnter2D(Collider2D other)
