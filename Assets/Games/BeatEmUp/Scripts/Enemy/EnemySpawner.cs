@@ -11,6 +11,7 @@ namespace BeatEmUp
         public static SpawnerDelete OnSpawnerStart;
         public static SpawnerDelete OnSpawnerClean;
         
+        [SerializeField] private Transform _enemyParent;
         [SerializeField] private PolygonCollider2D _confiner;
         [SerializeField] private EnemyPack _enemyPack;
         [SerializeField] private GameObject _enemyPrefab;
@@ -64,7 +65,7 @@ namespace BeatEmUp
                     spawnPointsIndex++;
                 }
 
-                var spawnedEnemy = Instantiate(_enemyPrefab, spawnPoint, Quaternion.identity);
+                var spawnedEnemy = Instantiate(_enemyPrefab, spawnPoint, Quaternion.identity, _enemyParent);
                 spawnedEnemy.GetComponent<EnemyInitializer>().Initialize(enemy);
                 _enemies.Add(spawnedEnemy.GetComponent<HealthSystem>());
             }

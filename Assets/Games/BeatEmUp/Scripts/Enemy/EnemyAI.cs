@@ -28,12 +28,19 @@ namespace BeatEmUp
         private bool _isPlayerStopTriggered;
         private bool _canAiMove;
 
+        private float _attackDelayMin = 0.05f;
+        private float _attackDelayMax = 0.20f;
+        private float _attackCooldownMin = 1f;
+        private float _attackCooldownMax = 3f;
+        private float _attackDelayCache;
+        private float _attackCooldownCache;
         private float _lastPathTime;
         private float _finalErrorDistributionX;
         private float _finalErrorDistributionY;
         
         private static readonly int IsRunning = Animator.StringToHash("isRunning");
         private static readonly int IsDamaged = Animator.StringToHash("isDamaged");
+        private static readonly int IsAttacking = Animator.StringToHash("isAttacking");
 
         public void SetAiActive(bool canMove) => _canAiMove = canMove;
 
@@ -62,7 +69,14 @@ namespace BeatEmUp
         private void Update()
         {
             if (!_canAiMove) return;    // This prevents the AI from moving when attacking.
+
+            if (_attackDelayCache >= 0)
+                _attackDelayCache -= Time.deltaTime;
+
+            if (_attackCooldownCache >= 0)
+                _attackCooldownCache -= Time.deltaTime;
             
+            Attack();
             Chase();
             LookAtPlayer();
         }
@@ -93,6 +107,12 @@ namespace BeatEmUp
 
         private void Attack()
         {
+            if (_attackCooldownCache > 0) return;   // Attack Cooldown
+            if (!_isPlayerStopTriggered) return;    // Is in Range
+            if (_attackDelayCache > 0) return;      // Delay before attacking when in Range
+
+            _attackCooldownCache = Random.Range(_attackCooldownMin, _attackCooldownMax);
+            _animator.SetTrigger(IsAttacking);
             Debug.Log("Attack ? More or less");
         }
 
@@ -104,6 +124,8 @@ namespace BeatEmUp
             
             // _animator.SetBool(IsRunning, true);
             // _animator.SetBool(IsRunning, false);
+            
+            // _animator.SetTrigger("isAttacking");
             
             _lastPathTime += Time.deltaTime;
 
@@ -134,14 +156,17 @@ namespace BeatEmUp
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.CompareTag("PlayerStopDistance"))
-                _isPlayerStopTriggered = true;
+            if (!other.CompareTag("PlayerStopDistance")) return;
+            
+            _attackDelayCache = Random.Range(_attackDelayMin, _attackDelayMax);
+            _isPlayerStopTriggered = true;
         }
 
         private void OnTriggerExit2D(Collider2D other)
         {
-            if (other.CompareTag("PlayerStopDistance"))
-                _isPlayerStopTriggered = false;
+            if (!other.CompareTag("PlayerStopDistance"))  return;
+            
+            _isPlayerStopTriggered = false;
         }
     }
 }
