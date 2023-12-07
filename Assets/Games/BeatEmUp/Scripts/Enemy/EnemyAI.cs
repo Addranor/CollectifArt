@@ -33,6 +33,7 @@ namespace BeatEmUp
         private float _finalErrorDistributionY;
         
         private static readonly int IsRunning = Animator.StringToHash("isRunning");
+        private static readonly int IsDamaged = Animator.StringToHash("isDamaged");
 
         public void SetAiActive(bool canMove) => _canAiMove = canMove;
 
@@ -74,7 +75,7 @@ namespace BeatEmUp
 
         private void OnDamage(int amount)
         {
-            // SetAiActive(false);
+            _animator.SetTrigger(IsDamaged);
         }
         
         private void LookAtPlayer()
@@ -97,6 +98,13 @@ namespace BeatEmUp
 
         private void Chase()
         {
+            // This is the line to trigger the running animation, if you can find a way to make it work with this...
+            // Or make your own way of doing so of course...!
+            // Thank you again... ♥
+            
+            // _animator.SetBool(IsRunning, true);
+            // _animator.SetBool(IsRunning, false);
+            
             _lastPathTime += Time.deltaTime;
 
             if (_player == null) return;

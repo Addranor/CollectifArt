@@ -321,7 +321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spawnOnItsOwn: 0
-  _defaultData: {fileID: 11400000, guid: 62de0e4819c8de948b2b0dbfc5659e4c, type: 2}
+  _defaultData: {fileID: 11400000, guid: 5f3cfaf1d59dcfb4da511966c15f9afe, type: 2}
   _animator: {fileID: 8451003523391854115}
 --- !u!114 &1269691060140125957
 MonoBehaviour:
