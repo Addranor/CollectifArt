@@ -1,5 +1,3 @@
-using System;
-using System.Text;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -22,21 +20,21 @@ namespace BeatEmUp
 
         private Vector2 _updatePosition = Vector3.zero;
         private Vector2 _targetPosition = Vector3.zero;
-        private Vector2 _velocity;
-        private Vector2 _previousPosition;
+        private Vector2 _previousPos;
         
         private bool _isPlayerStopTriggered;
         private bool _canAiMove;
 
-        private float _attackDelayMin = 0.05f;
-        private float _attackDelayMax = 0.20f;
-        private float _attackCooldownMin = 1f;
-        private float _attackCooldownMax = 3f;
+        private const float _attackDelayMin = 0.05f;
+        private const float _attackDelayMax = 0.20f;
+        private const float _attackCooldownMin = 1f;
+        private const float _attackCooldownMax = 3f;
         private float _attackDelayCache;
         private float _attackCooldownCache;
         private float _lastPathTime;
         private float _finalErrorDistributionX;
         private float _finalErrorDistributionY;
+        private float _rbVelocity;
         
         private static readonly int IsRunning = Animator.StringToHash("isRunning");
         private static readonly int IsDamaged = Animator.StringToHash("isDamaged");
@@ -84,6 +82,10 @@ namespace BeatEmUp
         private void FixedUpdate()
         {
             if (!_canAiMove) return;    // This prevents the AI from moving when attacking.
+            
+            _rbVelocity = ((_rb.position - _previousPos).magnitude) / Time.deltaTime;
+            
+            _previousPos = _rb.position;
             _rb.MovePosition(_updatePosition);
         }
 
@@ -115,21 +117,14 @@ namespace BeatEmUp
             _animator.SetTrigger(IsAttacking);
             Debug.Log("Attack ? More or less");
         }
-
+        
         private void Chase()
         {
-            // This is the line to trigger the running animation, if you can find a way to make it work with this...
-            // Or make your own way of doing so of course...!
-            // Thank you again... ♥
-            
-            // _animator.SetBool(IsRunning, true);
-            // _animator.SetBool(IsRunning, false);
-            
-            // _animator.SetTrigger("isAttacking");
-            
             _lastPathTime += Time.deltaTime;
 
             if (_player == null) return;
+            
+            _animator.SetBool(IsRunning, _rbVelocity > 0);
 
             var position = transform.position;
             var playerPosition = _player.transform.position;
@@ -148,8 +143,11 @@ namespace BeatEmUp
                 Mathf.MoveTowards(position.x, _targetPosition.x, _speed),
                 Mathf.MoveTowards(position.y, _targetPosition.y, _speed)
             );
+            
+            //_animator.SetBool(IsRunning, true);
 
             if (!_isPlayerStopTriggered) return;
+            
             _updatePosition.x = transform.position.x;
             _updatePosition.y = Mathf.MoveTowards(position.y, _targetPosition.y, _speed);
         }
@@ -164,9 +162,8 @@ namespace BeatEmUp
 
         private void OnTriggerExit2D(Collider2D other)
         {
-            if (!other.CompareTag("PlayerStopDistance"))  return;
-            
-            _isPlayerStopTriggered = false;
+            if (other.CompareTag("PlayerStopDistance"))
+                _isPlayerStopTriggered = false;
         }
     }
 }
