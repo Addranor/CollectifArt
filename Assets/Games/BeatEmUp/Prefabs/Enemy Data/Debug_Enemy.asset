@@ -17,7 +17,7 @@ MonoBehaviour:
   _pathLatency: 1
   _errorDistributionX: {x: -1, y: 1}
   _errorDistributiony: {x: -1, y: 1}
-  _maxHealth: 5
+  _maxHealth: 1
   _invulnerabilityTimer: 2
   _damageDealt: 1
   _animatorPath: Enemy_Cat_1 AnimController

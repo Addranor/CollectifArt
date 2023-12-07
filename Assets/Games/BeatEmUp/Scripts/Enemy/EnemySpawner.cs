@@ -20,6 +20,7 @@ namespace BeatEmUp
 
         private List<HealthSystem> _enemies;
         private bool _isSpent;
+        private bool _isClear;
         private int _enemyCount;
         private int _enemyKilled;
 
@@ -43,6 +44,7 @@ namespace BeatEmUp
 
         private void OnEnemyKilled(HealthSystem entity)
         {
+            if (_isClear) return;
             if (_enemies.Contains(entity)) _enemyKilled++;
             if (_enemyKilled >= _enemyCount) SpawnerClean();
         }
@@ -75,6 +77,7 @@ namespace BeatEmUp
         private void SpawnerClean()
         {
             _colliders.SetActive(false);
+            _isClear = true;
             _onClear?.Invoke();
             OnSpawnerClean?.Invoke(_confiner);
         }
