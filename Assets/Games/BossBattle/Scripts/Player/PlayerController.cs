@@ -45,6 +45,7 @@ namespace BossBattle
 
         public int GetDamages() => _damages;
         public void AddEnemyInRange(HealthSystem enemy) => _enemies.Add(enemy);
+        public void RemEnemyInRange(HealthSystem enemy) => _enemies.Remove(enemy);
         public void ResetEnemiesInRange() => _enemies.Clear();
         public List<HealthSystem> GetEnemiesInRange() => _enemies;
         public void SetControlsActive(bool status) => _isActive = status;

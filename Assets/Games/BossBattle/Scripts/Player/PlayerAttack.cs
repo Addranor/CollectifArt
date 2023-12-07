@@ -22,7 +22,7 @@ namespace BossBattle
         private void OnTriggerExit2D(Collider2D other)
         {
             if (other.CompareTag("Enemy"))
-                controller.AddEnemyInRange(other.GetComponent<HealthSystem>());
+                controller.RemEnemyInRange(other.GetComponent<HealthSystem>());
         }
     }
 }

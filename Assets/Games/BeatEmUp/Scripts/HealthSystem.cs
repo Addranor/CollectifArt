@@ -1,15 +1,13 @@
-using System;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace BossBattle
+namespace BeatEmUp
 {
     public class HealthSystem : MonoBehaviour
     {
-        public delegate void OnDeathDelegate();
-        public delegate void OnHealthChange(int currentHp, int amount);
-        public OnDeathDelegate OnDeath;
+        public delegate void OnDeathDelegate(HealthSystem entity);
+        public delegate void OnHealthChange(int amount);
+        public static OnDeathDelegate OnDeath;
         public OnHealthChange OnDamage;
         public OnHealthChange OnHeal;
         
@@ -37,7 +35,13 @@ namespace BossBattle
         public int GetCurHp() => _currentHealth;
         public int GetMaxHp() => _maxHealth;
 
-        private void Start() => Heal();
+        public void Initialize(EnemyDataSO enemyData = null)
+        {
+            _maxHealth = enemyData.GetMaxHealth();
+            _invulnerabilityTimer = enemyData.GetInvulnerabilityTimer();
+            
+            Heal();
+        }
 
         private void Update()
         {
@@ -51,7 +55,7 @@ namespace BossBattle
             _currentHealth = amount == 0 ? _maxHealth : amount;
             if (_isDead) ReviveEntity();
             
-            OnHeal?.Invoke(_currentHealth, amount);
+            OnHeal?.Invoke(amount);
         }
 
         public void TakeDamage(int amount)
@@ -63,7 +67,7 @@ namespace BossBattle
             if (_currentHealth <= 0) KillEntity();
 
             _animator.SetBool(_IsBlinking, !_isDead);
-            OnDamage?.Invoke(_currentHealth, amount);
+            OnDamage?.Invoke(amount);
         }
 
         private void ToggleInvulnerability(bool state)
@@ -79,8 +83,8 @@ namespace BossBattle
             _isDead = true;
             _animator.SetBool(_IsDead, true);
             
-            _onDeath.Invoke();
-            OnDeath?.Invoke();
+            _onDeath?.Invoke();
+            OnDeath?.Invoke(this);
         }
 
         private void ReviveEntity()
@@ -88,7 +92,7 @@ namespace BossBattle
             _animator.SetBool(_IsDead, false);
             _isDead = false;
             
-            _onRevive.Invoke();
+            _onRevive?.Invoke();
         }
 
         

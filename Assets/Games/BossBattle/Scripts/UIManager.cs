@@ -136,7 +136,8 @@ namespace BossBattle
 
         public void BackToMenu()
         {
-            Bootstrap.instance.LoadScene("MainMenu");
+            TogglePause();
+            Bootstrap.instance.LoadScene("Main_Menu");
         }
     }
 }
