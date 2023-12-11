@@ -1,0 +1,1862 @@
+fileFormatVersion: 2
+guid: b4fa7fd8b377b0b4fa1c43f0e9157c18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7025973879839080353
+    second: Les_Fees_Raiponse_Fee_AllForms_0
+  - first:
+      213: 7504078734253430098
+    second: Les_Fees_Raiponse_Fee_AllForms_1
+  - first:
+      213: -2774748662694841088
+    second: Les_Fees_Raiponse_Fee_AllForms_2
+  - first:
+      213: -590453849660133179
+    second: Les_Fees_Raiponse_Fee_AllForms_3
+  - first:
+      213: -3670429262011112061
+    second: Les_Fees_Raiponse_Fee_AllForms_4
+  - first:
+      213: -1595704105352964019
+    second: Les_Fees_Raiponse_Fee_AllForms_5
+  - first:
+      213: -5954549839710874259
+    second: Les_Fees_Raiponse_Fee_AllForms_6
+  - first:
+      213: -3957253263322693646
+    second: Les_Fees_Raiponse_Fee_AllForms_7
+  - first:
+      213: -1986793278843899186
+    second: Les_Fees_Raiponse_Fee_AllForms_8
+  - first:
+      213: -7061158174374662912
+    second: Les_Fees_Raiponse_Fee_AllForms_9
+  - first:
+      213: -1113299580668187164
+    second: Les_Fees_Raiponse_Fee_AllForms_10
+  - first:
+      213: -4042802252536730285
+    second: Les_Fees_Raiponse_Fee_AllForms_11
+  - first:
+      213: -6810971100591940633
+    second: Les_Fees_Raiponse_Fee_AllForms_12
+  - first:
+      213: 4892980444575309389
+    second: Les_Fees_Raiponse_Fee_AllForms_13
+  - first:
+      213: 278343815208855739
+    second: Les_Fees_Raiponse_Fee_AllForms_14
+  - first:
+      213: -6514887382201485196
+    second: Les_Fees_Raiponse_Fee_AllForms_15
+  - first:
+      213: -1577159230664223928
+    second: Les_Fees_Raiponse_Fee_AllForms_16
+  - first:
+      213: 2126227243919862779
+    second: Les_Fees_Raiponse_Fee_AllForms_17
+  - first:
+      213: -3106362764167380047
+    second: Les_Fees_Raiponse_Fee_AllForms_18
+  - first:
+      213: 8836574942604651462
+    second: Les_Fees_Raiponse_Fee_AllForms_19
+  - first:
+      213: 5466108853389753554
+    second: Les_Fees_Raiponse_Fee_AllForms_20
+  - first:
+      213: 7798447782637810926
+    second: Les_Fees_Raiponse_Fee_AllForms_21
+  - first:
+      213: -7569903637446335228
+    second: Les_Fees_Raiponse_Fee_AllForms_22
+  - first:
+      213: 6584003012321684719
+    second: Les_Fees_Raiponse_Fee_AllForms_23
+  - first:
+      213: 8092876435459699535
+    second: Les_Fees_Raiponse_Fee_AllForms_24
+  - first:
+      213: 7534387512079467353
+    second: Les_Fees_Raiponse_Fee_AllForms_25
+  - first:
+      213: -9082678485049123158
+    second: Les_Fees_Raiponse_Fee_AllForms_26
+  - first:
+      213: -2018606017028426805
+    second: Les_Fees_Raiponse_Fee_AllForms_27
+  - first:
+      213: 5976722322095263572
+    second: Les_Fees_Raiponse_Fee_AllForms_28
+  - first:
+      213: -5871310656006982403
+    second: Les_Fees_Raiponse_Fee_AllForms_29
+  - first:
+      213: 3606913059834627416
+    second: Les_Fees_Raiponse_Fee_AllForms_30
+  - first:
+      213: 7661698573478807855
+    second: Les_Fees_Raiponse_Fee_AllForms_31
+  - first:
+      213: 2135054074432061965
+    second: Les_Fees_Raiponse_Fee_AllForms_32
+  - first:
+      213: 2362021391014169756
+    second: Les_Fees_Raiponse_Fee_AllForms_33
+  - first:
+      213: -6112749786542589248
+    second: Les_Fees_Raiponse_Fee_AllForms_34
+  - first:
+      213: -6836711070616118405
+    second: Les_Fees_Raiponse_Fee_AllForms_35
+  - first:
+      213: 8618107087181241201
+    second: Les_Fees_Raiponse_Fee_AllForms_36
+  - first:
+      213: 2111242391216934821
+    second: Les_Fees_Raiponse_Fee_AllForms_37
+  - first:
+      213: -3110431787865208034
+    second: Les_Fees_Raiponse_Fee_AllForms_38
+  - first:
+      213: -7392289711924379367
+    second: Les_Fees_Raiponse_Fee_AllForms_39
+  - first:
+      213: 8451672286931484296
+    second: Les_Fees_Raiponse_Fee_AllForms_40
+  - first:
+      213: 8230660194904380125
+    second: Les_Fees_Raiponse_Fee_AllForms_41
+  - first:
+      213: -7790698342063903789
+    second: Les_Fees_Raiponse_Fee_AllForms_42
+  - first:
+      213: 1990708812958029525
+    second: Les_Fees_Raiponse_Fee_AllForms_43
+  - first:
+      213: 7444785370962035016
+    second: Les_Fees_Raiponse_Fee_AllForms_44
+  - first:
+      213: -1151853178726497198
+    second: Les_Fees_Raiponse_Fee_AllForms_45
+  - first:
+      213: 5311118045278158069
+    second: Les_Fees_Raiponse_Fee_AllForms_46
+  - first:
+      213: 2348880394981969417
+    second: Les_Fees_Raiponse_Fee_AllForms_47
+  - first:
+      213: -8881410713254703594
+    second: Les_Fees_Raiponse_Fee_AllForms_48
+  - first:
+      213: -2927958765286968103
+    second: Les_Fees_Raiponse_Fee_AllForms_49
+  - first:
+      213: 5397990359220082131
+    second: Les_Fees_Raiponse_Fee_AllForms_50
+  - first:
+      213: 751699138051329107
+    second: Les_Fees_Raiponse_Fee_AllForms_51
+  - first:
+      213: -6389092759030571750
+    second: Les_Fees_Raiponse_Fee_AllForms_52
+  - first:
+      213: -298687856127577739
+    second: Les_Fees_Raiponse_Fee_AllForms_53
+  - first:
+      213: -7711826856119944614
+    second: Les_Fees_Raiponse_Fee_AllForms_54
+  - first:
+      213: 248059270974754270
+    second: Les_Fees_Raiponse_Fee_AllForms_55
+  - first:
+      213: 7499478119418585572
+    second: Les_Fees_Raiponse_Fee_AllForms_56
+  - first:
+      213: 8574548623223689685
+    second: Les_Fees_Raiponse_Fee_AllForms_57
+  - first:
+      213: 851530463793057505
+    second: Les_Fees_Raiponse_Fee_AllForms_58
+  - first:
+      213: 1795258179712352131
+    second: Les_Fees_Raiponse_Fee_AllForms_59
+  - first:
+      213: -2922251239310969937
+    second: Les_Fees_Raiponse_Fee_AllForms_60
+  - first:
+      213: -1715998505938600890
+    second: Les_Fees_Raiponse_Fee_AllForms_61
+  - first:
+      213: -342639190226194788
+    second: Les_Fees_Raiponse_Fee_AllForms_62
+  - first:
+      213: 6983855753168654734
+    second: Les_Fees_Raiponse_Fee_AllForms_63
+  - first:
+      213: 9001348100966404845
+    second: Les_Fees_Raiponse_Fee_AllForms_64
+  - first:
+      213: -8367203682081677680
+    second: Les_Fees_Raiponse_Fee_AllForms_65
+  - first:
+      213: 5890798487678110254
+    second: Les_Fees_Raiponse_Fee_AllForms_66
+  - first:
+      213: -3842691809803217877
+    second: Les_Fees_Raiponse_Fee_AllForms_67
+  - first:
+      213: -2640981978243105790
+    second: Les_Fees_Raiponse_Fee_AllForms_68
+  - first:
+      213: -3179367910279861697
+    second: Les_Fees_Raiponse_Fee_AllForms_69
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 873
+        width: 1355
+        height: 1194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c4034bf9be7e90800000000000000
+      internalID: -7025973879839080353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 866
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2551db9b9d7d32860800000000000000
+      internalID: 7504078734253430098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_2
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 843
+        width: 1355
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057513eacc1e79d0800000000000000
+      internalID: -2774748662694841088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_3
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 831
+        width: 882
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0feb22a594ec7f0800000000000000
+      internalID: -590453849660133179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_4
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 873
+        width: 1364
+        height: 1137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e0a07804001dc0800000000000000
+      internalID: -3670429262011112061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 484
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ddc1129bead9e0800000000000000
+      internalID: -1595704105352964019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 484
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d659ca628703d5da0800000000000000
+      internalID: -5954549839710874259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 484
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff35699f130519c0800000000000000
+      internalID: -3957253263322693646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_8
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 482
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec230641a0e7d64e0800000000000000
+      internalID: -1986793278843899186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 482
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6d815d0ab10e90800000000000000
+      internalID: -7061158174374662912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_10
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 482
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed6ead0ee3cc80f0800000000000000
+      internalID: -1113299580668187164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_11
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 482
+        width: 273
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d266065c415e7c0800000000000000
+      internalID: -4042802252536730285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_12
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 480
+        width: 271
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb14cdbed19a71a0800000000000000
+      internalID: -6810971100591940633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_13
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 476
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e18db4acb57e340800000000000000
+      internalID: 4892980444575309389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_14
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 476
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb863f6a930ecd300800000000000000
+      internalID: 278343815208855739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_15
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 476
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478b43871787695a0800000000000000
+      internalID: -6514887382201485196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_16
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 70
+        width: 781
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843d70e290ecc1ae0800000000000000
+      internalID: -1577159230664223928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 238
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe991c960e18d10800000000000000
+      internalID: 2126227243919862779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 238
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b38d42368bf3e4d0800000000000000
+      internalID: -3106362764167380047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 238
+        width: 272
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb61159712d1aa70800000000000000
+      internalID: 8836574942604651462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_20
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 237
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf9ed9a058bdb40800000000000000
+      internalID: 5466108853389753554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_21
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 237
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee43f8bb0f6a93c60800000000000000
+      internalID: 7798447782637810926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_22
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 237
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405e212bfbc42f690800000000000000
+      internalID: -7569903637446335228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_23
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 237
+        width: 272
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec298d2bd31f5b50800000000000000
+      internalID: 6584003012321684719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_24
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 205
+        width: 278
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4374ba7d3caf4070800000000000000
+      internalID: 8092876435459699535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_25
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 70
+        width: 241
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953c2a9f5858f8860800000000000000
+      internalID: 7534387512079467353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 157
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae50993a08d3f180800000000000000
+      internalID: -9082678485049123158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 187
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3fd85c5887cf3e0800000000000000
+      internalID: -2018606017028426805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_28
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 157
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fc2a1394591f250800000000000000
+      internalID: 5976722322095263572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_29
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 157
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4fcbed01ae48ea0800000000000000
+      internalID: -5871310656006982403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_30
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 176
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855092351545e0230800000000000000
+      internalID: 3606913059834627416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_31
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 157
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2942585242d35a60800000000000000
+      internalID: 7661698573478807855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_32
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 187
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0206c26e5c31ad10800000000000000
+      internalID: 2135054074432061965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_33
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 150
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c064bc0f597c020800000000000000
+      internalID: 2362021391014169756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_34
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 157
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab844b4762b2ba0800000000000000
+      internalID: -6112749786542589248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_35
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 187
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b12f3f08f1f11a0800000000000000
+      internalID: -6836711070616118405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_36
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 157
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd6bf2cbaa99770800000000000000
+      internalID: 8618107087181241201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_37
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 157
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af4b3bd4c3ac4d10800000000000000
+      internalID: 2111242391216934821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_38
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 176
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b063ac4c685d4d0800000000000000
+      internalID: -3110431787865208034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_39
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 157
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91109fb4caf496990800000000000000
+      internalID: -7392289711924379367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_40
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 187
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e70948a2f5a4570800000000000000
+      internalID: 8451672286931484296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_41
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 150
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd21930e6dd293270800000000000000
+      internalID: 8230660194904380125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db6e018221e1e390800000000000000
+      internalID: -7790698342063903789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 157
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d65a9f3e1b60ab10800000000000000
+      internalID: 1990708812958029525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_44
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 143
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8418739c9d0315760800000000000000
+      internalID: 7444785370962035016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_45
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 157
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2544a9003abc300f0800000000000000
+      internalID: -1151853178726497198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_46
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 157
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcb8f009b1e4b940800000000000000
+      internalID: 5311118045278158069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_47
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e87ca3646e89020800000000000000
+      internalID: 2348880394981969417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eca141304eeb480800000000000000
+      internalID: -8881410713254703594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_49
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 157
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d43416140dcd57d0800000000000000
+      internalID: -2927958765286968103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_50
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 157
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5db46c1a389ea40800000000000000
+      internalID: 5397990359220082131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_51
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c448522629e6a00800000000000000
+      internalID: 751699138051329107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_52
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 143
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d56fc8cf16557a0800000000000000
+      internalID: -6389092759030571750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_53
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 157
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571fac43af8dadbf0800000000000000
+      internalID: -298687856127577739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_54
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a37a755561af490800000000000000
+      internalID: -7711826856119944614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_55
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 143
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd41b9b798417300800000000000000
+      internalID: 248059270974754270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_56
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e162cc9d9f731860800000000000000
+      internalID: 7499478119418585572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_57
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 157
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1109cfa8aeef670800000000000000
+      internalID: 8574548623223689685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_58
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 143
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0fc9f17e31db00800000000000000
+      internalID: 851530463793057505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_59
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 157
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f7ed18dc90ae810800000000000000
+      internalID: 1795258179712352131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_60
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 157
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3bc680bf31277d0800000000000000
+      internalID: -2922251239310969937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_61
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cbd6a537c8f28e0800000000000000
+      internalID: -1715998505938600890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_62
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ea07cc873be3bf0800000000000000
+      internalID: -342639190226194788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_63
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 157
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819f223ec3abe060800000000000000
+      internalID: 6983855753168654734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_64
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 157
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de25db918663bec70800000000000000
+      internalID: 9001348100966404845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_65
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5e2e1598b1eb80800000000000000
+      internalID: -8367203682081677680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_66
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 143
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4675830250c150800000000000000
+      internalID: 5890798487678110254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_67
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 157
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24506f88240caac0800000000000000
+      internalID: -3842691809803217877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_68
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c7c9022e8595bd0800000000000000
+      internalID: -2640981978243105790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Les_Fees_Raiponse_Fee_AllForms_69
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 143
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a2e790bbd90e3d0800000000000000
+      internalID: -3179367910279861697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Les_Fees_Raiponse_Fee_AllForms_0: -7025973879839080353
+      Les_Fees_Raiponse_Fee_AllForms_1: 7504078734253430098
+      Les_Fees_Raiponse_Fee_AllForms_10: -1113299580668187164
+      Les_Fees_Raiponse_Fee_AllForms_11: -4042802252536730285
+      Les_Fees_Raiponse_Fee_AllForms_12: -6810971100591940633
+      Les_Fees_Raiponse_Fee_AllForms_13: 4892980444575309389
+      Les_Fees_Raiponse_Fee_AllForms_14: 278343815208855739
+      Les_Fees_Raiponse_Fee_AllForms_15: -6514887382201485196
+      Les_Fees_Raiponse_Fee_AllForms_16: -1577159230664223928
+      Les_Fees_Raiponse_Fee_AllForms_17: 2126227243919862779
+      Les_Fees_Raiponse_Fee_AllForms_18: -3106362764167380047
+      Les_Fees_Raiponse_Fee_AllForms_19: 8836574942604651462
+      Les_Fees_Raiponse_Fee_AllForms_2: -2774748662694841088
+      Les_Fees_Raiponse_Fee_AllForms_20: 5466108853389753554
+      Les_Fees_Raiponse_Fee_AllForms_21: 7798447782637810926
+      Les_Fees_Raiponse_Fee_AllForms_22: -7569903637446335228
+      Les_Fees_Raiponse_Fee_AllForms_23: 6584003012321684719
+      Les_Fees_Raiponse_Fee_AllForms_24: 8092876435459699535
+      Les_Fees_Raiponse_Fee_AllForms_25: 7534387512079467353
+      Les_Fees_Raiponse_Fee_AllForms_26: -9082678485049123158
+      Les_Fees_Raiponse_Fee_AllForms_27: -2018606017028426805
+      Les_Fees_Raiponse_Fee_AllForms_28: 5976722322095263572
+      Les_Fees_Raiponse_Fee_AllForms_29: -5871310656006982403
+      Les_Fees_Raiponse_Fee_AllForms_3: -590453849660133179
+      Les_Fees_Raiponse_Fee_AllForms_30: 3606913059834627416
+      Les_Fees_Raiponse_Fee_AllForms_31: 7661698573478807855
+      Les_Fees_Raiponse_Fee_AllForms_32: 2135054074432061965
+      Les_Fees_Raiponse_Fee_AllForms_33: 2362021391014169756
+      Les_Fees_Raiponse_Fee_AllForms_34: -6112749786542589248
+      Les_Fees_Raiponse_Fee_AllForms_35: -6836711070616118405
+      Les_Fees_Raiponse_Fee_AllForms_36: 8618107087181241201
+      Les_Fees_Raiponse_Fee_AllForms_37: 2111242391216934821
+      Les_Fees_Raiponse_Fee_AllForms_38: -3110431787865208034
+      Les_Fees_Raiponse_Fee_AllForms_39: -7392289711924379367
+      Les_Fees_Raiponse_Fee_AllForms_4: -3670429262011112061
+      Les_Fees_Raiponse_Fee_AllForms_40: 8451672286931484296
+      Les_Fees_Raiponse_Fee_AllForms_41: 8230660194904380125
+      Les_Fees_Raiponse_Fee_AllForms_42: -7790698342063903789
+      Les_Fees_Raiponse_Fee_AllForms_43: 1990708812958029525
+      Les_Fees_Raiponse_Fee_AllForms_44: 7444785370962035016
+      Les_Fees_Raiponse_Fee_AllForms_45: -1151853178726497198
+      Les_Fees_Raiponse_Fee_AllForms_46: 5311118045278158069
+      Les_Fees_Raiponse_Fee_AllForms_47: 2348880394981969417
+      Les_Fees_Raiponse_Fee_AllForms_48: -8881410713254703594
+      Les_Fees_Raiponse_Fee_AllForms_49: -2927958765286968103
+      Les_Fees_Raiponse_Fee_AllForms_5: -1595704105352964019
+      Les_Fees_Raiponse_Fee_AllForms_50: 5397990359220082131
+      Les_Fees_Raiponse_Fee_AllForms_51: 751699138051329107
+      Les_Fees_Raiponse_Fee_AllForms_52: -6389092759030571750
+      Les_Fees_Raiponse_Fee_AllForms_53: -298687856127577739
+      Les_Fees_Raiponse_Fee_AllForms_54: -7711826856119944614
+      Les_Fees_Raiponse_Fee_AllForms_55: 248059270974754270
+      Les_Fees_Raiponse_Fee_AllForms_56: 7499478119418585572
+      Les_Fees_Raiponse_Fee_AllForms_57: 8574548623223689685
+      Les_Fees_Raiponse_Fee_AllForms_58: 851530463793057505
+      Les_Fees_Raiponse_Fee_AllForms_59: 1795258179712352131
+      Les_Fees_Raiponse_Fee_AllForms_6: -5954549839710874259
+      Les_Fees_Raiponse_Fee_AllForms_60: -2922251239310969937
+      Les_Fees_Raiponse_Fee_AllForms_61: -1715998505938600890
+      Les_Fees_Raiponse_Fee_AllForms_62: -342639190226194788
+      Les_Fees_Raiponse_Fee_AllForms_63: 6983855753168654734
+      Les_Fees_Raiponse_Fee_AllForms_64: 9001348100966404845
+      Les_Fees_Raiponse_Fee_AllForms_65: -8367203682081677680
+      Les_Fees_Raiponse_Fee_AllForms_66: 5890798487678110254
+      Les_Fees_Raiponse_Fee_AllForms_67: -3842691809803217877
+      Les_Fees_Raiponse_Fee_AllForms_68: -2640981978243105790
+      Les_Fees_Raiponse_Fee_AllForms_69: -3179367910279861697
+      Les_Fees_Raiponse_Fee_AllForms_7: -3957253263322693646
+      Les_Fees_Raiponse_Fee_AllForms_8: -1986793278843899186
+      Les_Fees_Raiponse_Fee_AllForms_9: -7061158174374662912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

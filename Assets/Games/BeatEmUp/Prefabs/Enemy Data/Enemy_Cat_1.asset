@@ -19,5 +19,10 @@ MonoBehaviour:
   _errorDistributiony: {x: -1, y: 1}
   _maxHealth: 2
   _invulnerabilityTimer: 2
+  _weaponType: 2
   _damageDealt: 1
   _animatorPath: Enemy_Cat_1 AnimController
+  _hitSfx: {fileID: 0}
+  _hitLandedSfx: {fileID: 0}
+  _damageSfx: {fileID: 0}
+  _deathSfx: {fileID: 0}

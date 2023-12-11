@@ -15,6 +15,7 @@ public class ExtraGallery : MonoBehaviour
     [Header("Galleries")]
     [SerializeField] private ExtraGalleryScriptableObject racoonGallery;
     [SerializeField] private ExtraGalleryScriptableObject raiponceGallery;
+    [SerializeField] private ExtraGalleryScriptableObject miscGallery;
     
     [Header("References")]
     [SerializeField] private GameObject mainMenu;
@@ -69,6 +70,13 @@ public class ExtraGallery : MonoBehaviour
         LoadGallery(raiponceGallery);
         ToggleGallery(true);
         raiponceHeader.SetActive(true);
+    }
+    
+    public void EnableMiscExtra()
+    {
+        LoadGallery(miscGallery);
+        ToggleGallery(true);
+        //raiponceHeader.SetActive(true);
     }
 
     private void LoadGallery(ExtraGalleryScriptableObject gallery)

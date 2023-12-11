@@ -122,12 +122,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 1379
-        width: 245
-        height: 337
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -143,12 +143,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_1
       rect:
         serializedVersion: 2
-        x: 555
-        y: 1380
-        width: 233
-        height: 333
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 450
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -164,12 +164,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_2
       rect:
         serializedVersion: 2
-        x: 114
-        y: 930
-        width: 244
-        height: 330
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_3
       rect:
         serializedVersion: 2
-        x: 568
-        y: 930
-        width: 268
-        height: 318
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 450
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_4
       rect:
         serializedVersion: 2
-        x: 127
-        y: 480
-        width: 263
-        height: 315
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_5
       rect:
         serializedVersion: 2
-        x: 562
-        y: 480
-        width: 251
-        height: 330
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 450
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_6
       rect:
         serializedVersion: 2
-        x: 108
-        y: 29
-        width: 249
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Ennemies-1_ATK_Bat_7
       rect:
         serializedVersion: 2
-        x: 552
-        y: 29
-        width: 245
-        height: 337
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 450
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -289,7 +289,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 68ebd966f8ca5234caacbce604a49832
     internalID: 0
     vertices: []
     indices: 

@@ -12,12 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6e910466936be44f90617ec535b8e88, type: 3}
   m_Name: Enemy_Cat_2
   m_EditorClassIdentifier: 
-  _name: Enemy_Cat_
+  _name: Enemy_Cat_2
   _speed: 0.05
-  _pathLatency: 1
+  _pathLatency: 0.9
   _errorDistributionX: {x: -1, y: 1}
   _errorDistributiony: {x: -1, y: 1}
-  _maxHealth: 2
-  _invulnerabilityTimer: 2
+  _maxHealth: 4
+  _invulnerabilityTimer: 1.5
+  _weaponType: 1
   _damageDealt: 1
   _animatorPath: Enemy_Cat_2 AnimController
+  _hitSfx: {fileID: 0}
+  _hitLandedSfx: {fileID: 0}
+  _damageSfx: {fileID: 0}
+  _deathSfx: {fileID: 0}

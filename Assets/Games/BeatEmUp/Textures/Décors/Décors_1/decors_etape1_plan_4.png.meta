@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 04210954c083f434c980aebfba05df11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8828689728778981711
+    second: decors_etape1_plan_4_0
+  - first:
+      213: -5405780391185784422
+    second: decors_etape1_plan_4_1
+  - first:
+      213: -1442399741495254097
+    second: decors_etape1_plan_4_2
+  - first:
+      213: 6956999135045262036
+    second: decors_etape1_plan_4_3
+  - first:
+      213: -8619884281324224029
+    second: decors_etape1_plan_4_4
+  - first:
+      213: -5457432120220993254
+    second: decors_etape1_plan_4_5
+  - first:
+      213: 4028294243782719112
+    second: decors_etape1_plan_4_6
+  - first:
+      213: -6280778025772979409
+    second: decors_etape1_plan_4_7
+  - first:
+      213: -284283560287939542
+    second: decors_etape1_plan_4_8
+  - first:
+      213: -815322478831465928
+    second: decors_etape1_plan_4_9
+  - first:
+      213: 7732894023100422611
+    second: decors_etape1_plan_4_10
+  - first:
+      213: 3947280212227244049
+    second: decors_etape1_plan_4_11
+  - first:
+      213: 6869413118622782153
+    second: decors_etape1_plan_4_12
+  - first:
+      213: -6470544509720716587
+    second: decors_etape1_plan_4_13
+  - first:
+      213: 7857189057483359867
+    second: decors_etape1_plan_4_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.46597224, y: 0.24537037}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      decors_etape1_plan_4_0: 8828689728778981711
+      decors_etape1_plan_4_1: -5405780391185784422
+      decors_etape1_plan_4_10: 7732894023100422611
+      decors_etape1_plan_4_11: 3947280212227244049
+      decors_etape1_plan_4_12: 6869413118622782153
+      decors_etape1_plan_4_13: -6470544509720716587
+      decors_etape1_plan_4_14: 7857189057483359867
+      decors_etape1_plan_4_2: -1442399741495254097
+      decors_etape1_plan_4_3: 6956999135045262036
+      decors_etape1_plan_4_4: -8619884281324224029
+      decors_etape1_plan_4_5: -5457432120220993254
+      decors_etape1_plan_4_6: 4028294243782719112
+      decors_etape1_plan_4_7: -6280778025772979409
+      decors_etape1_plan_4_8: -284283560287939542
+      decors_etape1_plan_4_9: -815322478831465928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

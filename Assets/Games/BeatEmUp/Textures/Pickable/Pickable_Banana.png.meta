@@ -1,0 +1,1744 @@
+fileFormatVersion: 2
+guid: 3a571d759797b2c49a95a0a88af0ad54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8931661801635834667
+    second: ezgif.com-gif-maker(2)_0
+  - first:
+      213: -2408574922064447460
+    second: ezgif.com-gif-maker(2)_1
+  - first:
+      213: 4278553428673979852
+    second: ezgif.com-gif-maker(2)_2
+  - first:
+      213: 443220974636748987
+    second: ezgif.com-gif-maker(2)_3
+  - first:
+      213: 2229378209821297259
+    second: ezgif.com-gif-maker(2)_4
+  - first:
+      213: -8674038075937426617
+    second: ezgif.com-gif-maker(2)_5
+  - first:
+      213: -8508365748777618188
+    second: ezgif.com-gif-maker(2)_6
+  - first:
+      213: 1865602386156257745
+    second: ezgif.com-gif-maker(2)_7
+  - first:
+      213: 7340615121009239278
+    second: ezgif.com-gif-maker(2)_8
+  - first:
+      213: 1674960033615982444
+    second: ezgif.com-gif-maker(2)_9
+  - first:
+      213: 2032931153232374910
+    second: ezgif.com-gif-maker(2)_10
+  - first:
+      213: 7867754766974968356
+    second: ezgif.com-gif-maker(2)_11
+  - first:
+      213: 3001816053438147158
+    second: ezgif.com-gif-maker(2)_12
+  - first:
+      213: 8493215652809998979
+    second: ezgif.com-gif-maker(2)_13
+  - first:
+      213: 8875384225173170884
+    second: ezgif.com-gif-maker(2)_14
+  - first:
+      213: 4472649576378251045
+    second: ezgif.com-gif-maker(2)_15
+  - first:
+      213: 8911308130696570299
+    second: ezgif.com-gif-maker(2)_16
+  - first:
+      213: -3440645432305795933
+    second: ezgif.com-gif-maker(2)_17
+  - first:
+      213: -2620957388226293681
+    second: ezgif.com-gif-maker(2)_18
+  - first:
+      213: -7135504446682395488
+    second: ezgif.com-gif-maker(2)_19
+  - first:
+      213: -3447160842092833693
+    second: ezgif.com-gif-maker(2)_20
+  - first:
+      213: 8954439665616445111
+    second: ezgif.com-gif-maker(2)_21
+  - first:
+      213: -1080966361623505779
+    second: ezgif.com-gif-maker(2)_22
+  - first:
+      213: 357196498728295109
+    second: ezgif.com-gif-maker(2)_23
+  - first:
+      213: -1179346929613494459
+    second: ezgif.com-gif-maker(2)_24
+  - first:
+      213: -1479008220568275181
+    second: ezgif.com-gif-maker(2)_25
+  - first:
+      213: 7984008812143494250
+    second: ezgif.com-gif-maker(2)_26
+  - first:
+      213: 834452661757981705
+    second: ezgif.com-gif-maker(2)_27
+  - first:
+      213: -8252749723506794861
+    second: ezgif.com-gif-maker(2)_28
+  - first:
+      213: -7325116857615134922
+    second: ezgif.com-gif-maker(2)_29
+  - first:
+      213: 231179283837303100
+    second: ezgif.com-gif-maker(2)_30
+  - first:
+      213: -6550962891250673407
+    second: ezgif.com-gif-maker(2)_31
+  - first:
+      213: -7496295784082792235
+    second: ezgif.com-gif-maker(2)_32
+  - first:
+      213: 2529426444632706240
+    second: ezgif.com-gif-maker(2)_33
+  - first:
+      213: 1884563963224646026
+    second: ezgif.com-gif-maker(2)_34
+  - first:
+      213: -4907172663255627377
+    second: ezgif.com-gif-maker(2)_35
+  - first:
+      213: -5257734498567419815
+    second: ezgif.com-gif-maker(2)_36
+  - first:
+      213: 5194382057407158300
+    second: ezgif.com-gif-maker(2)_37
+  - first:
+      213: -8239679245764327766
+    second: ezgif.com-gif-maker(2)_38
+  - first:
+      213: -8117252987809673833
+    second: ezgif.com-gif-maker(2)_39
+  - first:
+      213: 4260058757646418360
+    second: ezgif.com-gif-maker(2)_40
+  - first:
+      213: -5478513910628401251
+    second: ezgif.com-gif-maker(2)_41
+  - first:
+      213: -5679984435151646859
+    second: ezgif.com-gif-maker(2)_42
+  - first:
+      213: 7383181113900176087
+    second: ezgif.com-gif-maker(2)_43
+  - first:
+      213: 4636120187660948851
+    second: ezgif.com-gif-maker(2)_44
+  - first:
+      213: 5210504585170113102
+    second: ezgif.com-gif-maker(2)_45
+  - first:
+      213: -2398870205037011980
+    second: ezgif.com-gif-maker(2)_46
+  - first:
+      213: -619877896026040223
+    second: ezgif.com-gif-maker(2)_47
+  - first:
+      213: 8713812578902527490
+    second: ezgif.com-gif-maker(2)_48
+  - first:
+      213: 3555469143938815352
+    second: ezgif.com-gif-maker(2)_49
+  - first:
+      213: -8452112693457716088
+    second: ezgif.com-gif-maker(2)_50
+  - first:
+      213: 5157299741390045232
+    second: ezgif.com-gif-maker(2)_51
+  - first:
+      213: -6673968280031096728
+    second: ezgif.com-gif-maker(2)_52
+  - first:
+      213: 6603799920325758779
+    second: ezgif.com-gif-maker(2)_53
+  - first:
+      213: -732903831757938916
+    second: ezgif.com-gif-maker(2)_54
+  - first:
+      213: -805421880756949736
+    second: ezgif.com-gif-maker(2)_55
+  - first:
+      213: -8103473943424339604
+    second: ezgif.com-gif-maker(2)_56
+  - first:
+      213: -6626328411991068811
+    second: ezgif.com-gif-maker(2)_57
+  - first:
+      213: -8050448451676915518
+    second: ezgif.com-gif-maker(2)_58
+  - first:
+      213: 6779121546947618714
+    second: ezgif.com-gif-maker(2)_59
+  - first:
+      213: 7701165435112679279
+    second: ezgif.com-gif-maker(2)_60
+  - first:
+      213: -7988427349658418041
+    second: ezgif.com-gif-maker(2)_61
+  - first:
+      213: -8129235051966543292
+    second: ezgif.com-gif-maker(2)_62
+  - first:
+      213: 1021026085865724955
+    second: ezgif.com-gif-maker(2)_63
+  - first:
+      213: 399363712578902640
+    second: ezgif.com-gif-maker(2)_64
+  - first:
+      213: 5324899248795968305
+    second: ezgif.com-gif-maker(2)_65
+  - first:
+      213: -7753547918795761821
+    second: ezgif.com-gif-maker(2)_66
+  - first:
+      213: 2516148015238409115
+    second: ezgif.com-gif-maker(2)_67
+  - first:
+      213: -1611012730407726980
+    second: ezgif.com-gif-maker(2)_68
+  - first:
+      213: -1475947759123361803
+    second: ezgif.com-gif-maker(2)_69
+  - first:
+      213: -7836054379285198145
+    second: ezgif.com-gif-maker(2)_70
+  - first:
+      213: -1544245595018096739
+    second: ezgif.com-gif-maker(2)_71
+  - first:
+      213: -4249804943487846205
+    second: ezgif.com-gif-maker(2)_72
+  - first:
+      213: -8675900011411274988
+    second: ezgif.com-gif-maker(2)_73
+  - first:
+      213: -2384657269823643090
+    second: ezgif.com-gif-maker(2)_74
+  - first:
+      213: 3251663339418142
+    second: ezgif.com-gif-maker(2)_75
+  - first:
+      213: 7371019820313444420
+    second: ezgif.com-gif-maker(2)_76
+  - first:
+      213: 7755570170115160198
+    second: ezgif.com-gif-maker(2)_77
+  - first:
+      213: 551150863536547372
+    second: ezgif.com-gif-maker(2)_78
+  - first:
+      213: 7568368202635542692
+    second: ezgif.com-gif-maker(2)_79
+  - first:
+      213: 7545586029690381381
+    second: ezgif.com-gif-maker(2)_80
+  - first:
+      213: 7282210330120984989
+    second: ezgif.com-gif-maker(2)_81
+  - first:
+      213: -2945770173169642312
+    second: ezgif.com-gif-maker(2)_82
+  - first:
+      213: -2687540300056135595
+    second: ezgif.com-gif-maker(2)_83
+  - first:
+      213: 1515975523001519901
+    second: ezgif.com-gif-maker(2)_84
+  - first:
+      213: -5984226478273042862
+    second: ezgif.com-gif-maker(2)_85
+  - first:
+      213: 6690926739329736316
+    second: ezgif.com-gif-maker(2)_86
+  - first:
+      213: -8174800284403095790
+    second: ezgif.com-gif-maker(2)_87
+  - first:
+      213: 8727572439997106249
+    second: ezgif.com-gif-maker(2)_88
+  - first:
+      213: -7824390023951727087
+    second: ezgif.com-gif-maker(2)_89
+  - first:
+      213: -7353835970444723063
+    second: ezgif.com-gif-maker(2)_90
+  - first:
+      213: 7154002203519772654
+    second: ezgif.com-gif-maker(2)_91
+  - first:
+      213: 8433359644922084680
+    second: ezgif.com-gif-maker(2)_92
+  - first:
+      213: 5046564771623190026
+    second: ezgif.com-gif-maker(2)_93
+  - first:
+      213: 4571612824608572946
+    second: ezgif.com-gif-maker(2)_94
+  - first:
+      213: -8616697626834398494
+    second: ezgif.com-gif-maker(2)_95
+  - first:
+      213: -3747484559191074135
+    second: ezgif.com-gif-maker(2)_96
+  - first:
+      213: -5035195175608987595
+    second: ezgif.com-gif-maker(2)_97
+  - first:
+      213: 3572254646164245554
+    second: ezgif.com-gif-maker(2)_98
+  - first:
+      213: 766941238288451359
+    second: ezgif.com-gif-maker(2)_99
+  - first:
+      213: -4732251610043037988
+    second: ezgif.com-gif-maker(2)_100
+  - first:
+      213: -7874888779584605506
+    second: ezgif.com-gif-maker(2)_101
+  - first:
+      213: -6671939953282833455
+    second: ezgif.com-gif-maker(2)_102
+  - first:
+      213: -5044425541445900512
+    second: ezgif.com-gif-maker(2)_103
+  - first:
+      213: 8004953172010529194
+    second: ezgif.com-gif-maker(2)_104
+  - first:
+      213: -1427889724877595280
+    second: ezgif.com-gif-maker(2)_105
+  - first:
+      213: -1816799183887891711
+    second: ezgif.com-gif-maker(2)_106
+  - first:
+      213: -3671098401285113596
+    second: ezgif.com-gif-maker(2)_107
+  - first:
+      213: 185437857873916222
+    second: ezgif.com-gif-maker(2)_108
+  - first:
+      213: 7631096555150040627
+    second: ezgif.com-gif-maker(2)_109
+  - first:
+      213: -9197761856276731057
+    second: ezgif.com-gif-maker(2)_110
+  - first:
+      213: -1763393697682875257
+    second: ezgif.com-gif-maker(2)_111
+  - first:
+      213: 1677818620518159829
+    second: ezgif.com-gif-maker(2)_112
+  - first:
+      213: -7308656051425174923
+    second: ezgif.com-gif-maker(2)_113
+  - first:
+      213: 4621241522418930489
+    second: ezgif.com-gif-maker(2)_114
+  - first:
+      213: 8711526006623369344
+    second: ezgif.com-gif-maker(2)_115
+  - first:
+      213: 7424775866948690176
+    second: ezgif.com-gif-maker(2)_116
+  - first:
+      213: 4639896120721272679
+    second: ezgif.com-gif-maker(2)_117
+  - first:
+      213: 3134044834507705125
+    second: ezgif.com-gif-maker(2)_118
+  - first:
+      213: -7060514220632847283
+    second: ezgif.com-gif-maker(2)_119
+  - first:
+      213: -589674000239394402
+    second: ezgif.com-gif-maker(2)_120
+  - first:
+      213: -5039706009282051565
+    second: ezgif.com-gif-maker(2)_121
+  - first:
+      213: 6830062830471258409
+    second: ezgif.com-gif-maker(2)_122
+  - first:
+      213: 1602726116746024971
+    second: ezgif.com-gif-maker(2)_123
+  - first:
+      213: 9189049979173379276
+    second: ezgif.com-gif-maker(2)_124
+  - first:
+      213: 1082782940922731441
+    second: ezgif.com-gif-maker(2)_125
+  - first:
+      213: 3055474703861773423
+    second: ezgif.com-gif-maker(2)_126
+  - first:
+      213: 3198533686070440320
+    second: ezgif.com-gif-maker(2)_127
+  - first:
+      213: 8928074683556910132
+    second: ezgif.com-gif-maker(2)_128
+  - first:
+      213: -240778266722118101
+    second: ezgif.com-gif-maker(2)_129
+  - first:
+      213: -465933924876685922
+    second: ezgif.com-gif-maker(2)_130
+  - first:
+      213: -6251197738393937037
+    second: ezgif.com-gif-maker(2)_131
+  - first:
+      213: -8560830065361841309
+    second: ezgif.com-gif-maker(2)_132
+  - first:
+      213: 3692747494902017084
+    second: ezgif.com-gif-maker(2)_133
+  - first:
+      213: 3655075488650869651
+    second: ezgif.com-gif-maker(2)_134
+  - first:
+      213: -4012484292487275716
+    second: ezgif.com-gif-maker(2)_135
+  - first:
+      213: -1562448454317034515
+    second: ezgif.com-gif-maker(2)_136
+  - first:
+      213: -8306737304562504814
+    second: ezgif.com-gif-maker(2)_137
+  - first:
+      213: 6515586845543245262
+    second: ezgif.com-gif-maker(2)_138
+  - first:
+      213: -5761793477534142998
+    second: ezgif.com-gif-maker(2)_139
+  - first:
+      213: -3985354452036916400
+    second: ezgif.com-gif-maker(2)_140
+  - first:
+      213: 4851344728661889803
+    second: ezgif.com-gif-maker(2)_141
+  - first:
+      213: 2846813550380221546
+    second: ezgif.com-gif-maker(2)_142
+  - first:
+      213: -191755414150225755
+    second: ezgif.com-gif-maker(2)_143
+  - first:
+      213: -15979862448371378
+    second: ezgif.com-gif-maker(2)_144
+  - first:
+      213: 6052880553741402978
+    second: ezgif.com-gif-maker(2)_145
+  - first:
+      213: 203175050303460859
+    second: ezgif.com-gif-maker(2)_146
+  - first:
+      213: -3365653653647666464
+    second: ezgif.com-gif-maker(2)_147
+  - first:
+      213: 4988540073351002692
+    second: ezgif.com-gif-maker(2)_148
+  - first:
+      213: 1006635582624154212
+    second: ezgif.com-gif-maker(2)_149
+  - first:
+      213: 3104691043914762906
+    second: ezgif.com-gif-maker(2)_150
+  - first:
+      213: -6802803674674062181
+    second: ezgif.com-gif-maker(2)_151
+  - first:
+      213: -1774949764537093515
+    second: ezgif.com-gif-maker(2)_152
+  - first:
+      213: 4102429469337323006
+    second: ezgif.com-gif-maker(2)_153
+  - first:
+      213: -6860992139090184799
+    second: ezgif.com-gif-maker(2)_154
+  - first:
+      213: -5741197950200856435
+    second: ezgif.com-gif-maker(2)_155
+  - first:
+      213: 5108542619680000939
+    second: ezgif.com-gif-maker(2)_156
+  - first:
+      213: 1607209453808795582
+    second: ezgif.com-gif-maker(2)_157
+  - first:
+      213: -9122468375394348773
+    second: ezgif.com-gif-maker(2)_158
+  - first:
+      213: -2859098044643501210
+    second: ezgif.com-gif-maker(2)_159
+  - first:
+      213: 5413564681641364112
+    second: ezgif.com-gif-maker(2)_160
+  - first:
+      213: 8475978109730414069
+    second: ezgif.com-gif-maker(2)_161
+  - first:
+      213: -4518480572892704977
+    second: ezgif.com-gif-maker(2)_162
+  - first:
+      213: 376534691212889961
+    second: ezgif.com-gif-maker(2)_163
+  - first:
+      213: 2163241059353463599
+    second: ezgif.com-gif-maker(2)_164
+  - first:
+      213: 3679705292429878384
+    second: ezgif.com-gif-maker(2)_165
+  - first:
+      213: 4265725044897186614
+    second: ezgif.com-gif-maker(2)_166
+  - first:
+      213: 5109768172902180682
+    second: ezgif.com-gif-maker(2)_167
+  - first:
+      213: 6479264170274446841
+    second: ezgif.com-gif-maker(2)_168
+  - first:
+      213: -5621755468341085404
+    second: ezgif.com-gif-maker(2)_169
+  - first:
+      213: 813697256012994401
+    second: ezgif.com-gif-maker(2)_170
+  - first:
+      213: 3542053318033769442
+    second: ezgif.com-gif-maker(2)_171
+  - first:
+      213: 6424814660989137070
+    second: ezgif.com-gif-maker(2)_172
+  - first:
+      213: 8534813983102860353
+    second: ezgif.com-gif-maker(2)_173
+  - first:
+      213: 5362726991924960169
+    second: ezgif.com-gif-maker(2)_174
+  - first:
+      213: -4093801017125616454
+    second: ezgif.com-gif-maker(2)_175
+  - first:
+      213: 2213172743918843649
+    second: ezgif.com-gif-maker(2)_176
+  - first:
+      213: 4038851066677694919
+    second: ezgif.com-gif-maker(2)_177
+  - first:
+      213: -2647097402116182357
+    second: ezgif.com-gif-maker(2)_178
+  - first:
+      213: 5611460117164096283
+    second: ezgif.com-gif-maker(2)_179
+  - first:
+      213: 2331722884616366846
+    second: ezgif.com-gif-maker(2)_180
+  - first:
+      213: 9109888815462624534
+    second: ezgif.com-gif-maker(2)_181
+  - first:
+      213: -8745876456732073002
+    second: ezgif.com-gif-maker(2)_182
+  - first:
+      213: -700689180733918447
+    second: ezgif.com-gif-maker(2)_183
+  - first:
+      213: 1169386966515201745
+    second: ezgif.com-gif-maker(2)_184
+  - first:
+      213: -7160711279140851203
+    second: ezgif.com-gif-maker(2)_185
+  - first:
+      213: 566423668598077810
+    second: ezgif.com-gif-maker(2)_186
+  - first:
+      213: -6060053505221318514
+    second: ezgif.com-gif-maker(2)_187
+  - first:
+      213: 5211172879677425559
+    second: ezgif.com-gif-maker(2)_188
+  - first:
+      213: -74256889591177475
+    second: ezgif.com-gif-maker(2)_189
+  - first:
+      213: -4018204360665566954
+    second: ezgif.com-gif-maker(2)_190
+  - first:
+      213: 659596701544360998
+    second: ezgif.com-gif-maker(2)_191
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickable_Banana_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067aeaccdab2bde468e3907a5d06fc63
+      internalID: 940901238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1b222a83c23864f91b8538efccac80
+      internalID: -432898637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d5420f142313841bae003a58ae97a9
+      internalID: -1456125282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8421ccf89e674ea04fe84d6caee4d
+      internalID: -1324526576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a88c91727c774449eacf71face4d54
+      internalID: 1446783741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c19ae5647db61c4cbf27972babf94ed
+      internalID: -265951900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857a937952ce1f43bc1034ac4f3728b
+      internalID: 1502736067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08620dccfb773428056d820e917273
+      internalID: -1139807940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762ab14642640441bb263a8ea9aae43
+      internalID: 1775092607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68c363218fe14d4da647c3aa1bbf16b
+      internalID: 659443640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2237605452b03054d90d8bcd6a256e2c
+      internalID: 87675152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaab4c96373ecb4d8e7752450ed528b
+      internalID: -447402260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1aabe083de2824e9f9d51903191285
+      internalID: 752740933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7274d773d2c1ded48837811756e1f803
+      internalID: 1261787323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e7595de25d8d5488ce915a1b9a37a1
+      internalID: -1352051553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d93e96d20f984fba3dd2c808203bc
+      internalID: 842189521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb12105b85f4840a4b5678e9432d4b
+      internalID: -501817199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a5678d090539c46a5ca22c97443bbb
+      internalID: 1317588921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e646dc2e668a43b4d9a4295a1f67cc84
+      internalID: 2056352440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacff3a96b43cb947a6c4c24a98ce540
+      internalID: -1088654085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6349c70f75f884f82f1235cc3a3d8c
+      internalID: -467281108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1000
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367e305ede03bf418ba02bc87c8480a
+      internalID: -1013917808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1000
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d3dd158501d61408fc5862454e3273
+      internalID: -1495295404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1000
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dab1b848cd66824ea71bd6fca2aa4da
+      internalID: 982420200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12359302a56cc324895adf3bdde3147b
+      internalID: 962626730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48605418675c7ee4d817cae2b2354652
+      internalID: 250277824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee6810566fc984c9b8b73072a7bc0f
+      internalID: -1847375820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45777e19c01661c459038f6a921a3803
+      internalID: -1252303696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66e07cb7da3664399bff5b638dd169
+      internalID: 95369635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd00261ddc2f284ca887f5e2c53837c
+      internalID: -1556718764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd78fb2c2fab7848b0247d048733f30
+      internalID: 666937910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e2261873d3bc46b371f8ed6b4654d
+      internalID: -1990731372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97e7978bb6269d4caf782837392bfb7
+      internalID: 381226185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb4f1127b0056945904820975c6b9f0
+      internalID: -2084830955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897ffd79d97d9444a8b8070f4dfec41
+      internalID: -948392655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c33e3abcb8994aa8e23dcfdbe3198
+      internalID: -1507590105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a75039fbdb10414dbb6a93673c8158b
+      internalID: -1465954777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a68b4040208b4c99e19351566dc41
+      internalID: -2133129947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df40d82466972b49b1168bd28ef2ffd
+      internalID: 117736019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6daa6ca5c0135846a3df829c18798fd
+      internalID: 867682555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf3852d1331ca44bb2c045310e8ecd0
+      internalID: 660744412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59420d6e1f7056e45adfc2daa59502ba
+      internalID: 1104599771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d0954c08a06114999c60533c92b710
+      internalID: -243760658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c97f5bb9d64c842bc4eb6de1218366
+      internalID: -1361320112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f12f8367ffdc54cac0f4c635935057
+      internalID: 556609997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edea8127095ba44494f8e52dd549c06
+      internalID: -367435458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b625cabc1b83614db0f983da7d47922
+      internalID: -805389404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Banana_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f130463ed3605714fb7d021a7d488fdb
+      internalID: -942111614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 398b941bc1576bd4b96fcd0cfdd85bc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pickable_Banana_0: 940901238
+      Pickable_Banana_1: -432898637
+      Pickable_Banana_10: 87675152
+      Pickable_Banana_11: -447402260
+      Pickable_Banana_12: 752740933
+      Pickable_Banana_13: 1261787323
+      Pickable_Banana_14: -1352051553
+      Pickable_Banana_15: 842189521
+      Pickable_Banana_16: -501817199
+      Pickable_Banana_17: 1317588921
+      Pickable_Banana_18: 2056352440
+      Pickable_Banana_19: -1088654085
+      Pickable_Banana_2: -1456125282
+      Pickable_Banana_20: -467281108
+      Pickable_Banana_21: -1013917808
+      Pickable_Banana_22: -1495295404
+      Pickable_Banana_23: 982420200
+      Pickable_Banana_24: 962626730
+      Pickable_Banana_25: 250277824
+      Pickable_Banana_26: -1847375820
+      Pickable_Banana_27: -1252303696
+      Pickable_Banana_28: 95369635
+      Pickable_Banana_29: -1556718764
+      Pickable_Banana_3: -1324526576
+      Pickable_Banana_30: 666937910
+      Pickable_Banana_31: -1990731372
+      Pickable_Banana_32: 381226185
+      Pickable_Banana_33: -2084830955
+      Pickable_Banana_34: -948392655
+      Pickable_Banana_35: -1507590105
+      Pickable_Banana_36: -1465954777
+      Pickable_Banana_37: -2133129947
+      Pickable_Banana_38: 117736019
+      Pickable_Banana_39: 867682555
+      Pickable_Banana_4: 1446783741
+      Pickable_Banana_40: 660744412
+      Pickable_Banana_41: 1104599771
+      Pickable_Banana_42: -243760658
+      Pickable_Banana_43: -1361320112
+      Pickable_Banana_44: 556609997
+      Pickable_Banana_45: -367435458
+      Pickable_Banana_46: -805389404
+      Pickable_Banana_47: -942111614
+      Pickable_Banana_5: -265951900
+      Pickable_Banana_6: 1502736067
+      Pickable_Banana_7: -1139807940
+      Pickable_Banana_8: 1775092607
+      Pickable_Banana_9: 659443640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

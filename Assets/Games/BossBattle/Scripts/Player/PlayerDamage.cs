@@ -9,18 +9,18 @@ namespace BossBattle
     public class PlayerDamage : MonoBehaviour
     {
         [SerializeField] private HealthSystem health;
-        private BossDamage enemy;
+        private DamageSystem enemy;
 
         private void OnTriggerEnter2D(Collider2D other)
         {
             if (other.CompareTag("Enemy"))
-                enemy = other.GetComponent<BossDamage>();
+                enemy = other.GetComponent<DamageSystem>();
         }
 
         private void OnTriggerStay2D(Collider2D other)
         {
             if (other.CompareTag("Enemy") && enemy != null)
-                health.TakeDamage(enemy.GetDamages());
+                health.TakeDamage(enemy.GetDamageDealt());
         }
 
         private void OnTriggerExit2D(Collider2D other)

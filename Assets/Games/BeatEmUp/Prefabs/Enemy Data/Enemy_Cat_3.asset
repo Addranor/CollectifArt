@@ -14,10 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: Enemy_Cat_3
   _speed: 0.05
-  _pathLatency: 1
+  _pathLatency: 0.8
   _errorDistributionX: {x: -1, y: 1}
   _errorDistributiony: {x: -1, y: 1}
   _maxHealth: 2
-  _invulnerabilityTimer: 2
-  _damageDealt: 1
+  _invulnerabilityTimer: 4
+  _damageDealt: 2
   _animatorPath: Enemy_Cat_3 AnimController
+  _hitSfx: {fileID: 0}
+  _hitLandedSfx: {fileID: 0}
+  _damageSfx: {fileID: 0}
+  _deathSfx: {fileID: 0}

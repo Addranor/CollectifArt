@@ -8,6 +8,7 @@ TagManager:
   - PlayerStopDistance
   - EnemyTriggerDistance
   - Enemy
+  - Pickup
   layers:
   - Default
   - TransparentFX

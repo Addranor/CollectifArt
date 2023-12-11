@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 942addd7e0102864cb80a6544ac95460
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2146595228511003434
+    second: ezgif.com-gif-maker(1)_0
+  - first:
+      213: 5002299382208615772
+    second: ezgif.com-gif-maker(1)_1
+  - first:
+      213: 6569806625308792777
+    second: ezgif.com-gif-maker(1)_2
+  - first:
+      213: 7974805507926267599
+    second: ezgif.com-gif-maker(1)_3
+  - first:
+      213: 9014766513544961480
+    second: ezgif.com-gif-maker(1)_4
+  - first:
+      213: 5171357447158453851
+    second: ezgif.com-gif-maker(1)_5
+  - first:
+      213: -4498667709798288576
+    second: ezgif.com-gif-maker(1)_6
+  - first:
+      213: -5526650570058731628
+    second: ezgif.com-gif-maker(1)_7
+  - first:
+      213: 6469793530099514872
+    second: ezgif.com-gif-maker(1)_8
+  - first:
+      213: 2880839791362565190
+    second: ezgif.com-gif-maker(1)_9
+  - first:
+      213: -7100731764623615326
+    second: ezgif.com-gif-maker(1)_10
+  - first:
+      213: 1668329961839841822
+    second: ezgif.com-gif-maker(1)_11
+  - first:
+      213: 315952910993665666
+    second: ezgif.com-gif-maker(1)_12
+  - first:
+      213: 8087325844980660761
+    second: ezgif.com-gif-maker(1)_13
+  - first:
+      213: -7937544940627828413
+    second: ezgif.com-gif-maker(1)_14
+  - first:
+      213: -315020057923907748
+    second: ezgif.com-gif-maker(1)_15
+  - first:
+      213: -3202791446348095369
+    second: ezgif.com-gif-maker(1)_16
+  - first:
+      213: -8652076838710196868
+    second: ezgif.com-gif-maker(1)_17
+  - first:
+      213: -2952462040566239766
+    second: ezgif.com-gif-maker(1)_18
+  - first:
+      213: 2415524238660908355
+    second: ezgif.com-gif-maker(1)_19
+  - first:
+      213: 7628795373801781063
+    second: ezgif.com-gif-maker(1)_20
+  - first:
+      213: -2884271759296194062
+    second: ezgif.com-gif-maker(1)_21
+  - first:
+      213: 2681371621443554296
+    second: ezgif.com-gif-maker(1)_22
+  - first:
+      213: -4718587678840884416
+    second: ezgif.com-gif-maker(1)_23
+  - first:
+      213: 3136287124224917883
+    second: ezgif.com-gif-maker(1)_24
+  - first:
+      213: 1978790287139814857
+    second: ezgif.com-gif-maker(1)_25
+  - first:
+      213: 8182828995474677398
+    second: ezgif.com-gif-maker(1)_26
+  - first:
+      213: -5186535882278727041
+    second: ezgif.com-gif-maker(1)_27
+  - first:
+      213: -7382897232625961181
+    second: ezgif.com-gif-maker(1)_28
+  - first:
+      213: 4057818881156246440
+    second: ezgif.com-gif-maker(1)_29
+  - first:
+      213: -6042880998210076337
+    second: ezgif.com-gif-maker(1)_30
+  - first:
+      213: -4358571275023754458
+    second: ezgif.com-gif-maker(1)_31
+  - first:
+      213: -4881937261079766420
+    second: ezgif.com-gif-maker(1)_32
+  - first:
+      213: 4073531862266855137
+    second: ezgif.com-gif-maker(1)_33
+  - first:
+      213: 4200173837276748146
+    second: ezgif.com-gif-maker(1)_34
+  - first:
+      213: 330459134971692056
+    second: ezgif.com-gif-maker(1)_35
+  - first:
+      213: -1417512574443135199
+    second: ezgif.com-gif-maker(1)_36
+  - first:
+      213: 1772080058632511872
+    second: ezgif.com-gif-maker(1)_37
+  - first:
+      213: -7673127069490745929
+    second: ezgif.com-gif-maker(1)_38
+  - first:
+      213: -4942328773203471303
+    second: ezgif.com-gif-maker(1)_39
+  - first:
+      213: 7181704747236739156
+    second: ezgif.com-gif-maker(1)_40
+  - first:
+      213: 8384854437383059738
+    second: ezgif.com-gif-maker(1)_41
+  - first:
+      213: 5121393238738064490
+    second: ezgif.com-gif-maker(1)_42
+  - first:
+      213: -407041495742107623
+    second: ezgif.com-gif-maker(1)_43
+  - first:
+      213: -7936610711202835780
+    second: ezgif.com-gif-maker(1)_44
+  - first:
+      213: -2170565397887577580
+    second: ezgif.com-gif-maker(1)_45
+  - first:
+      213: -4964189896729960590
+    second: ezgif.com-gif-maker(1)_46
+  - first:
+      213: -1852218656097925653
+    second: ezgif.com-gif-maker(1)_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickable_Shield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0f03924f6913646825ea3f878871aa
+      internalID: 1460421246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe68323d666f0345b63271cfb328254
+      internalID: 685420332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b11aadbe5a40246b2f355dc62ca46d
+      internalID: -1634773503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28e9a8fdc7ef6409f2a0a69f5fad4b
+      internalID: 988666977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49aabe99715a664aac78ad11b025983
+      internalID: 745131774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218b889507fc45d44b109222064563be
+      internalID: -474937010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc442cde3fa13674cbdab7b822191fab
+      internalID: 120935665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee02c976720063749be093e860adfb44
+      internalID: 136318322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d2c74e23b9f7409dbff93d7aeb764
+      internalID: -1208523712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9c625a899ccf4a96778867e2c8146
+      internalID: -229223487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f7f010bf0b0344aa832174234169f
+      internalID: -430585773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d0a77c9570fc94099e3b2c88a3ffb7
+      internalID: -91157787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a17baa3b652cd49adc829e124a6c4d
+      internalID: -2022193542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded847e105161084bba8faeb4121dbb3
+      internalID: -1852948174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7314b5cdfaf73ef44bf7469fcc312ce5
+      internalID: 615072108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0084d436c0cf4094160c765bb7204
+      internalID: 799513317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a54278d272650044be3de2c70b319ad
+      internalID: 211054081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ff9cadd219e4d4e9f4b31963ef9eb7
+      internalID: -2130751005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cb3a21adb361f41b5647d5d62dbeaa
+      internalID: -275171206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c171a81059c134cb9da91617a03e9b
+      internalID: -1188847069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa0821714cde8448a9080dda398614
+      internalID: 1337570928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f298d7b22b01a52499a4489fad8ae318
+      internalID: -68252946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65410bf9e4cfa846850e2eff748bef2
+      internalID: 1204510346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7db91a7d9008d40932400620c98a4b
+      internalID: -1323702302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d85bb7c7f973478fcf2ffb4a797ee
+      internalID: -1547503610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d98c781fd6b843b2f054aecf2ad3d
+      internalID: 798951016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3554460d6e957a746a400ae4829a19a9
+      internalID: -1703202473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6c54aa717b00749818147b082ea6f7
+      internalID: 630968439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d4eab457c77648aeccc85db6c5468
+      internalID: 374613904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb188ccfa71eeb44a7c1fa6d3ae398f
+      internalID: -935217631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c733d8b063694ab562688ab38f544
+      internalID: 243867214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd3228689daa5647b9b53f7e8bda60e
+      internalID: 1163202671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc8f18a4996b7744a93f61f44af0727
+      internalID: -1501070114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935a620e003139b46be06ebb27bb2c2a
+      internalID: 2116004057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98761a11e847b8945a88122bbb036fc6
+      internalID: -305005975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d4b2bfcd3e4b54c85ac0855484e8c0
+      internalID: 2037969195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c77b6fbe1108a4da814a277c637d99
+      internalID: -1634673176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f25af67273e8894cb2c9018e9f66c87
+      internalID: -1576531318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5993a61b169f9524a83faacbec355ea4
+      internalID: -1584074436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a9c6f341a8f54ca536c6a65bd5b0c
+      internalID: -1921007341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782663682dd4f342b54f3375720051b
+      internalID: -875320739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c3e4ebd7802e4cb546b177f7a8bee
+      internalID: -1551531512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de15fed8ac173c448b6a242f40b1f9c
+      internalID: 1863697190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f986bdb8c0d86a4aa85af768de66014
+      internalID: -24207960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86efd60ad431b784f9fd69ca8a073aab
+      internalID: -2002606738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3ee2a2a3db6454989d7cafef0c61c2
+      internalID: 1304571565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8769c311e25d64fb9e97ffd59d25f8
+      internalID: 1397866010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Shield_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0395ad18a9d4648bbd6126d469fd2f
+      internalID: 168424920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cd845a3516ae6c4bbb91c1d2a4b245a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pickable_Shield_0: 1460421246
+      Pickable_Shield_1: 685420332
+      Pickable_Shield_10: -430585773
+      Pickable_Shield_11: -91157787
+      Pickable_Shield_12: -2022193542
+      Pickable_Shield_13: -1852948174
+      Pickable_Shield_14: 615072108
+      Pickable_Shield_15: 799513317
+      Pickable_Shield_16: 211054081
+      Pickable_Shield_17: -2130751005
+      Pickable_Shield_18: -275171206
+      Pickable_Shield_19: -1188847069
+      Pickable_Shield_2: -1634773503
+      Pickable_Shield_20: 1337570928
+      Pickable_Shield_21: -68252946
+      Pickable_Shield_22: 1204510346
+      Pickable_Shield_23: -1323702302
+      Pickable_Shield_24: -1547503610
+      Pickable_Shield_25: 798951016
+      Pickable_Shield_26: -1703202473
+      Pickable_Shield_27: 630968439
+      Pickable_Shield_28: 374613904
+      Pickable_Shield_29: -935217631
+      Pickable_Shield_3: 988666977
+      Pickable_Shield_30: 243867214
+      Pickable_Shield_31: 1163202671
+      Pickable_Shield_32: -1501070114
+      Pickable_Shield_33: 2116004057
+      Pickable_Shield_34: -305005975
+      Pickable_Shield_35: 2037969195
+      Pickable_Shield_36: -1634673176
+      Pickable_Shield_37: -1576531318
+      Pickable_Shield_38: -1584074436
+      Pickable_Shield_39: -1921007341
+      Pickable_Shield_4: 745131774
+      Pickable_Shield_40: -875320739
+      Pickable_Shield_41: -1551531512
+      Pickable_Shield_42: 1863697190
+      Pickable_Shield_43: -24207960
+      Pickable_Shield_44: -2002606738
+      Pickable_Shield_45: 1304571565
+      Pickable_Shield_46: 1397866010
+      Pickable_Shield_47: 168424920
+      Pickable_Shield_5: -474937010
+      Pickable_Shield_6: 120935665
+      Pickable_Shield_7: 136318322
+      Pickable_Shield_8: -1208523712
+      Pickable_Shield_9: -229223487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

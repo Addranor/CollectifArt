@@ -9,13 +9,22 @@ EditorBuildSettings:
     path: Assets/Games/Bootstrap/Bootstrap.unity
     guid: e137a06996e3bc14ca3a88e2e403c3c5
   - enabled: 1
-    path: Assets/Games/Main Menu/Scenes/Main_Menu.unity
+    path: Assets/Games/Main Menu/Main_Menu.unity
     guid: 43c690066725fb74f934af2bd6f28cce
   - enabled: 1
-    path: Assets/Games/BeatEmUp/Scenes/Debug_BeatEmUp.unity
+    path: Assets/Games/BossBattle/Boss_Battle.unity
+    guid: 5d1a86cadc228cb41a61f30195a6ccbb
+  - enabled: 1
+    path: Assets/Games/BeatEmUp/BeatEmUp_Level1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Games/BossBattle/Scenes/Debug_Boss.unity
-    guid: 5d1a86cadc228cb41a61f30195a6ccbb
+    path: Assets/Games/BeatEmUp/BeatEmUp_Level2.unity
+    guid: bde4a1468f6367c41b7ae7d72c19c533
+  - enabled: 1
+    path: Assets/Games/BeatEmUp/BeatEmUp_Level3.unity
+    guid: 68c83c1d1e05f4f4caf311af04effcc8
+  - enabled: 1
+    path: Assets/Games/BeatEmUp/BeatEmUp_Level4.unity
+    guid: 68ae23f440ae0364b97c591885712058
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: aec2c6145fc6bac46b21052c545ffd47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9135477474471203759
+    second: Boss_KO_0
+  - first:
+      213: -3304854088694783695
+    second: Boss_KO_1
+  - first:
+      213: 7868974847047158440
+    second: Boss_KO_2
+  - first:
+      213: 6785372127784556403
+    second: Boss_KO_3
+  - first:
+      213: 5249724451338681589
+    second: Boss_KO_4
+  - first:
+      213: -5593440655403790391
+    second: Boss_KO_5
+  - first:
+      213: 2955642826592382551
+    second: Boss_KO_6
+  - first:
+      213: -4772338534000598822
+    second: Boss_KO_7
+  - first:
+      213: 6850721910466996652
+    second: Boss_KO_8
+  - first:
+      213: 629155251327976029
+    second: Boss_KO_9
+  - first:
+      213: 1869891883558432200
+    second: Boss_KO_10
+  - first:
+      213: 2836282014588570429
+    second: Boss_KO_11
+  - first:
+      213: 2157424003676824907
+    second: Boss_KO_12
+  - first:
+      213: 3683085342766513437
+    second: Boss_KO_13
+  - first:
+      213: -5074167280704433174
+    second: Boss_KO_14
+  - first:
+      213: 2490801013745412469
+    second: Boss_KO_15
+  - first:
+      213: 8874283906419121681
+    second: Boss_KO_16
+  - first:
+      213: 1717199653023715013
+    second: Boss_KO_17
+  - first:
+      213: 3621917564187806861
+    second: Boss_KO_18
+  - first:
+      213: 3492145626382501271
+    second: Boss_KO_19
+  - first:
+      213: 8757285342169303677
+    second: Boss_KO_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_KO_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca61eedd81218e40997a91f30d75c64
+      internalID: 764091701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3150
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b838a69fc22c439905d13a0e3b34b
+      internalID: 895682856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7ea4b33bdd6494f82f5f9f3489f3ed
+      internalID: -450094156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2700
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553555d1e72cc14a9cf75a48365594b
+      internalID: -726106835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c7c7e90a2ae34b89fb63165e283e5
+      internalID: 1974520272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2250
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9a9a46f6fc7ac4c96e7086a41e27f3
+      internalID: 1688921687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e0c40777ce444897be016352200cb
+      internalID: 354443789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1800
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff6b12d0ba25f41aaf8f3a740b59d2
+      internalID: 1035159265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778bcdcd8ea449f40b75d41715e6f9a4
+      internalID: 768397082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1350
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255b3be47ff2a14983af420da405243
+      internalID: 707980332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8d6699a44f68498a144ce54b7b679
+      internalID: -1142492736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78706e2358538164b88f0e2b99741b6f
+      internalID: -638740112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf26a12f210bb44bf923d123243815
+      internalID: -1780199426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d44036fc25691c47ad726d7cab16dfc
+      internalID: -1759145329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503004b976088443b5e57c75c815332
+      internalID: 844571071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_KO_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 450
+      alignment: 9
+      pivot: {x: 0.5333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f722c0abe5af243b5c7afb32472dc2
+      internalID: -1057323276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f8b44374c09c9d41871b48f0aa0feca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boss_KO_0: 764091701
+      Boss_KO_1: 895682856
+      Boss_KO_10: -1142492736
+      Boss_KO_11: -638740112
+      Boss_KO_12: -1780199426
+      Boss_KO_13: -1759145329
+      Boss_KO_14: 844571071
+      Boss_KO_15: -1057323276
+      Boss_KO_2: -450094156
+      Boss_KO_3: -726106835
+      Boss_KO_4: 1974520272
+      Boss_KO_5: 1688921687
+      Boss_KO_6: 354443789
+      Boss_KO_7: 1035159265
+      Boss_KO_8: 768397082
+      Boss_KO_9: 707980332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

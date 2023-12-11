@@ -19,7 +19,12 @@ namespace BossBattle
         [SerializeField] private GameObject _bossGameObject;
         [SerializeField] private Transform _playerSpawnPoint;
         [SerializeField] private Transform _bossSpawnPoint;
+        
+        [SerializeField] private bool _debug;
 
+        private AudioClip _damageSfx;
+        private AudioClip _deathSfx;
+        
         private UIManager _uiManager;
         private PlayerController _player;
         private BossAI _boss;
@@ -41,28 +46,28 @@ namespace BossBattle
             _boss.transform.position = _bossSpawnPoint.position;
             
             _playerHealth = _player.GetComponent<HealthSystem>();
-            _bossHealth = _boss.GetComponent<HealthSystem>();
+            _bossHealth = _boss.GetHealthSystem();
+
+            BossAI.OnIntroFinished += OnIntroFinished;
             
             _playerHealth.OnDeath += OnPlayerDeath;
             _bossHealth.OnDeath += OnBossDeath;
-
-            // Cutscene ?
-            StartCoroutine(StartEncounter());
+            
+            if(_debug) _player.SetControlsActive(true);
         }
 
         private void OnDisable()
         {
+            BossAI.OnIntroFinished += OnIntroFinished;
+            
             _playerHealth.OnDeath -= OnPlayerDeath;
             _bossHealth.OnDeath -= OnBossDeath;
         }
-
-        private IEnumerator StartEncounter()
+        
+        private void OnIntroFinished()
         {
-            // TODO: Cutscene ?
-            
             _player.SetControlsActive(true);
-            _boss.SetAIActive(true);
-            yield return null;
+            if (!_debug) _boss.SetAIActive(true);
         }
 
         public void PauseGame(bool status)
@@ -74,7 +79,8 @@ namespace BossBattle
         
         private void OnBossDeath()
         {
-            StartCoroutine(BackToMainMenu());
+            // TODO: ANIMATION AVANT RETOUR AU MENU
+            // StartCoroutine(BackToMainMenu());
         }
 
         private void OnPlayerDeath()
@@ -96,6 +102,8 @@ namespace BossBattle
             Bootstrap.instance.LoadScene("Main_Menu");
             yield return null;
         }
+        
+        public void ToMainMenu() => Bootstrap.instance.LoadScene("Main_Menu");
 
         private IEnumerator RestartOnCheckpoint()
         {
@@ -104,11 +112,15 @@ namespace BossBattle
             yield return new WaitForSeconds(1);
 
             // Reset Player
-            _player.transform.position = _playerSpawnPoint.position;
+            var _playerTransform = _player.transform;
+            _playerTransform.position = _playerSpawnPoint.position;
+            _playerTransform.localScale = new Vector3(1, 1, 1);
             _playerHealth.FillHealth();
 
             // Reset Boss
-            _boss.transform.position = _bossSpawnPoint.position;
+            var _bossTransform = _boss.transform;
+            _bossTransform.position = _bossSpawnPoint.position;
+            _bossTransform.localScale = new Vector3(1, 1, 1);
             _bossHealth.FillHealth(_bossHealth.GetPerHp(_boss.GetCurPhasePercentage()));
 
             Bootstrap.instance.LoadLocal(false);
@@ -117,7 +129,6 @@ namespace BossBattle
 
             _player.SetControlsActive(true);
             _boss.SetAIActive(true);
-            //yield return null;
         }
     }
 }

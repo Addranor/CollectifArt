@@ -7,6 +7,9 @@ namespace BossBattle
 {
     public class BossAI : MonoBehaviour
     {
+        public delegate void BossTrigger();
+        public static BossTrigger OnIntroFinished;
+        
         [Header("Parameters")]
         [SerializeField] private Animator _animator;
         [SerializeField] private float _attackTimer = 2f;
@@ -15,35 +18,59 @@ namespace BossBattle
         [SerializeField] private int _phase2Trigger;
         [SerializeField] private int _phase3Trigger;
 
-        [Space()]
-        [SerializeField] private BossAttack[] _phase1Attacks;
-        [SerializeField] private BossAttack[] _phase2Attacks;
-        [SerializeField] private BossAttack[] _phase3Attacks;
+        [Header("Reference")]
+        [SerializeField] private HealthSystem _healthSystem;
+        
+        [Header("SFX")]
+        [SerializeField] private AudioClip _phase2Sfx;
+        [SerializeField] private AudioClip _phase3Sfx;
+        [SerializeField] private AudioClip _damageSfx;
+        [SerializeField] private AudioClip _deathSfx;
 
-        private HealthSystem _healthSystem;
+        private AudioSource _audioSource;
         private BattlePhase _currentPhase = BattlePhase.INTRO;
+        private BossAttack _bossAttack;
         private float _attackTimerCache;
-        private bool _canAttack;
-        [SerializeField] private bool _isActive;
+        private bool _isAttacking;
+        private bool _isActive;
         
         private static readonly int _IsBlinking = Animator.StringToHash("isBlinking");
+        private static readonly int Phase2 = Animator.StringToHash("Phase_2");
+        private static readonly int Phase3 = Animator.StringToHash("Phase_3");
+        private static readonly int IsDead = Animator.StringToHash("isDead");
 
         public void SetAIActive(bool status) => _isActive = status;
+        public void LastAttackFinished() => _isAttacking = false;
+        public HealthSystem GetHealthSystem() => _healthSystem;
 
-        public int GetCurPhasePercentage()
+        private void ChangePhase(BattlePhase battlePhase)
         {
-            return _currentPhase switch
-            {
-                BattlePhase.PHASE_2 => _phase2Trigger,
-                BattlePhase.PHASE_3 => _phase3Trigger,
-                _ => 100
-            };
+            _currentPhase = battlePhase;
+
+            if (_currentPhase == BattlePhase.PHASE_2) _animator.SetTrigger(Phase2);
+            if (_currentPhase == BattlePhase.PHASE_3) _animator.SetTrigger(Phase3);
+            if (_currentPhase == BattlePhase.DEAD) _animator.SetTrigger(IsDead);
         }
 
-        private void OnEnable()
+        public void IntroFinished()
         {
-            TryGetComponent(out _healthSystem);
-            _healthSystem.OnDamage += TakeDamage;
+            ChangePhase(BattlePhase.PHASE_1);
+            OnIntroFinished?.Invoke();
+        }
+        
+        public int GetCurPhasePercentage()
+        {
+            switch (_currentPhase)
+            {
+                case BattlePhase.PHASE_2:
+                    return _phase2Trigger;
+                
+                case BattlePhase.PHASE_3:
+                    return _phase3Trigger;
+                
+                default:
+                    return 100;
+            }
         }
 
         private void OnDisable()
@@ -51,40 +78,37 @@ namespace BossBattle
             _healthSystem.OnDamage -= TakeDamage;
         }
 
+        private void Start()
+        {
+            TryGetComponent(out _audioSource);
+            TryGetComponent(out _bossAttack);
+            
+            _healthSystem.InitializeSfx(_damageSfx, _deathSfx);
+            _healthSystem.OnDamage += TakeDamage;
+            
+            _attackTimerCache = _attackTimer;
+        }
+
         private void Update()
         {
+            if (_currentPhase == BattlePhase.INTRO) return;
             if (_isActive)
                 Attack();
         }
 
         private void Attack()
         {
+            // Check if last attack was finished first
+            if (_isAttacking) return;
+            
             // Attack Timer
             _attackTimerCache -= Time.deltaTime;
-            
-            if (_attackTimer < 0) _canAttack = true;
-            if (_attackTimerCache > 0 && !_canAttack) return;
+            if (_attackTimerCache > 0) return;
             
             _attackTimerCache = _attackTimer;
-            _canAttack = false;
+            _isAttacking = true;
             
-            switch (_currentPhase)
-            {
-                case BattlePhase.PHASE_1:
-                    // TODO: Trigger Attack
-                    Debug.Log("Phase 1 Attack");
-                    break;
-
-                case BattlePhase.PHASE_2:
-                    // TODO: Trigger Attack
-                    Debug.Log("Phase 2 Attack");
-                    break;
-
-                case BattlePhase.PHASE_3:
-                    // TODO: Trigger Attack
-                    Debug.Log("Phase 3 Attack");
-                    break;
-            }
+            _bossAttack.GetRandomAttack(_currentPhase);
         }
 
         private void TakeDamage(int currentHp, int amount)
@@ -92,28 +116,28 @@ namespace BossBattle
             if (_healthSystem.GetCurHp() <= 0)
                 ChangePhase(BattlePhase.DEAD);
             else if (_healthSystem.GetCurHp() <= _phase3Trigger)
+            {
+                _audioSource.PlayOneShot(_phase3Sfx);
                 ChangePhase(BattlePhase.PHASE_3);
+            }
             else if (_healthSystem.GetCurHp() <= _phase2Trigger)
+            {
+                _audioSource.PlayOneShot(_phase2Sfx);
                 ChangePhase(BattlePhase.PHASE_2);
+            }
             else if (_healthSystem.GetCurHp() > _phase2Trigger)
                 ChangePhase(BattlePhase.PHASE_1);
 
             _animator.SetBool(_IsBlinking, _currentPhase != BattlePhase.DEAD);
         }
-
-        private void ChangePhase(BattlePhase battlePhase)
-        {
-            _currentPhase = battlePhase;
-            // Debug.Log("PHASE : " + _currentPhase);
-        }
-
-        private enum BattlePhase
-        {
-            INTRO,
-            PHASE_1,
-            PHASE_2,
-            PHASE_3,
-            DEAD
-        }
+    }
+    
+    public enum BattlePhase
+    {
+        INTRO,
+        PHASE_1,
+        PHASE_2,
+        PHASE_3,
+        DEAD
     }
 }

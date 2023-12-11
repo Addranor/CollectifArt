@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 876ee97d3d62b864bafba9ab217a1131
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2742114814255657322
+    second: decors_etape2_plan_4_0
+  - first:
+      213: -3212196539181145991
+    second: decors_etape2_plan_4_1
+  - first:
+      213: 4382957923055651634
+    second: decors_etape2_plan_4_2
+  - first:
+      213: -5867241814326775370
+    second: decors_etape2_plan_4_3
+  - first:
+      213: -4257371914945058396
+    second: decors_etape2_plan_4_4
+  - first:
+      213: 3144382695643714851
+    second: decors_etape2_plan_4_5
+  - first:
+      213: 4878619890910296937
+    second: decors_etape2_plan_4_6
+  - first:
+      213: -5159360314310956567
+    second: decors_etape2_plan_4_7
+  - first:
+      213: 4145884866075110005
+    second: decors_etape2_plan_4_8
+  - first:
+      213: -4750387985475450293
+    second: decors_etape2_plan_4_9
+  - first:
+      213: -5312992901739654397
+    second: decors_etape2_plan_4_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.56111115, y: 0.29814816}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 352
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e84f2da1d02f9d0800000000000000
+      internalID: -2742114814255657322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 344
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9706e5d344cfb63d0800000000000000
+      internalID: -3212196539181145991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_2
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 358
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b4735520563dc30800000000000000
+      internalID: 4382957923055651634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_3
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 354
+        width: 141
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1fbb5e7ae539ea0800000000000000
+      internalID: -5867241814326775370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 357
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a9f4ccc6cae4c0800000000000000
+      internalID: -4257371914945058396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 359
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3259abbe66713ab20800000000000000
+      internalID: 3144382695643714851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_6
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 355
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bfcd751f654b340800000000000000
+      internalID: 4878619890910296937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_7
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 356
+        width: 116
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e96f3d21254668b0800000000000000
+      internalID: -5159360314310956567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_8
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 360
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a2312e154298930800000000000000
+      internalID: 4145884866075110005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 352
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ac37cbb4b331eb0800000000000000
+      internalID: -4750387985475450293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape2_plan_4_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 347
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d2a5fa157446b0800000000000000
+      internalID: -5312992901739654397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      decors_etape2_plan_4_0: -2742114814255657322
+      decors_etape2_plan_4_1: -3212196539181145991
+      decors_etape2_plan_4_10: -5312992901739654397
+      decors_etape2_plan_4_2: 4382957923055651634
+      decors_etape2_plan_4_3: -5867241814326775370
+      decors_etape2_plan_4_4: -4257371914945058396
+      decors_etape2_plan_4_5: 3144382695643714851
+      decors_etape2_plan_4_6: 4878619890910296937
+      decors_etape2_plan_4_7: -5159360314310956567
+      decors_etape2_plan_4_8: 4145884866075110005
+      decors_etape2_plan_4_9: -4750387985475450293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

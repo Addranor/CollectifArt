@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 05c6f1e7704818044b70f61616e78cbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8381401144750725857
+    second: spritesheet_cape_final_0
+  - first:
+      213: 3664238001957903799
+    second: spritesheet_cape_final_1
+  - first:
+      213: -1704123152999246461
+    second: spritesheet_cape_final_2
+  - first:
+      213: -1707899448809643468
+    second: spritesheet_cape_final_3
+  - first:
+      213: -4111174576686768960
+    second: spritesheet_cape_final_4
+  - first:
+      213: 1167995019059608497
+    second: spritesheet_cape_final_5
+  - first:
+      213: 8947283663679007745
+    second: spritesheet_cape_final_6
+  - first:
+      213: -7035226024347096469
+    second: spritesheet_cape_final_7
+  - first:
+      213: 352588026304749476
+    second: spritesheet_cape_final_8
+  - first:
+      213: -6251770277837100698
+    second: spritesheet_cape_final_9
+  - first:
+      213: -7545183475542718295
+    second: spritesheet_cape_final_10
+  - first:
+      213: 1267351699849209007
+    second: spritesheet_cape_final_11
+  - first:
+      213: 1567069197181101582
+    second: spritesheet_cape_final_12
+  - first:
+      213: 5191615884655104394
+    second: spritesheet_cape_final_13
+  - first:
+      213: 1679750451646111607
+    second: spritesheet_cape_final_14
+  - first:
+      213: 3182033582491275074
+    second: spritesheet_cape_final_15
+  - first:
+      213: 4627245107296156585
+    second: spritesheet_cape_final_16
+  - first:
+      213: 1224683601014528926
+    second: spritesheet_cape_final_17
+  - first:
+      213: -6218721656091357477
+    second: spritesheet_cape_final_18
+  - first:
+      213: 1970736979121392286
+    second: spritesheet_cape_final_19
+  - first:
+      213: 3903773720163135670
+    second: spritesheet_cape_final_20
+  - first:
+      213: 2869114147528201273
+    second: spritesheet_cape_final_21
+  - first:
+      213: 8431581498004322974
+    second: spritesheet_cape_final_22
+  - first:
+      213: 8960683346738402462
+    second: spritesheet_cape_final_23
+  - first:
+      213: -5626979652425956296
+    second: spritesheet_cape_final_24
+  - first:
+      213: 6705003894226277650
+    second: spritesheet_cape_final_25
+  - first:
+      213: -7531194911759664805
+    second: spritesheet_cape_final_26
+  - first:
+      213: 9033859494261147571
+    second: spritesheet_cape_final_27
+  - first:
+      213: -8179856805961264037
+    second: spritesheet_cape_final_28
+  - first:
+      213: 770521534097887049
+    second: spritesheet_cape_final_29
+  - first:
+      213: -9207162116677036420
+    second: spritesheet_cape_final_30
+  - first:
+      213: 995943519613645189
+    second: spritesheet_cape_final_31
+  - first:
+      213: 1298444929941960057
+    second: spritesheet_cape_final_32
+  - first:
+      213: -1701870582510240637
+    second: spritesheet_cape_final_33
+  - first:
+      213: -4318809191577681492
+    second: spritesheet_cape_final_34
+  - first:
+      213: 3206325181290046591
+    second: spritesheet_cape_final_35
+  - first:
+      213: 5910939465504663798
+    second: spritesheet_cape_final_36
+  - first:
+      213: 4401287142076721260
+    second: spritesheet_cape_final_37
+  - first:
+      213: -6217038429631456357
+    second: spritesheet_cape_final_38
+  - first:
+      213: 1228467383878629025
+    second: spritesheet_cape_final_39
+  - first:
+      213: -581632732046090584
+    second: spritesheet_cape_final_40
+  - first:
+      213: 7397905458189861376
+    second: spritesheet_cape_final_41
+  - first:
+      213: -4123345288063309239
+    second: spritesheet_cape_final_42
+  - first:
+      213: 7940595372701504976
+    second: spritesheet_cape_final_43
+  - first:
+      213: 8798499039386117688
+    second: spritesheet_cape_final_44
+  - first:
+      213: 4591226119926389974
+    second: spritesheet_cape_final_45
+  - first:
+      213: -6548926515087044270
+    second: spritesheet_cape_final_46
+  - first:
+      213: -2460654815477672321
+    second: spritesheet_cape_final_47
+  - first:
+      213: -7855468508550735327
+    second: spritesheet_cape_final_48
+  - first:
+      213: -5333933833044145600
+    second: spritesheet_cape_final_49
+  - first:
+      213: 138229991937192579
+    second: spritesheet_cape_final_50
+  - first:
+      213: 7599271907903971629
+    second: spritesheet_cape_final_51
+  - first:
+      213: -2230160281497488160
+    second: spritesheet_cape_final_52
+  - first:
+      213: 2434471376804356819
+    second: spritesheet_cape_final_53
+  - first:
+      213: 1511539815596668853
+    second: spritesheet_cape_final_54
+  - first:
+      213: 4873562796537568230
+    second: spritesheet_cape_final_55
+  - first:
+      213: -4866383017959128484
+    second: spritesheet_cape_final_56
+  - first:
+      213: 2268295130765952024
+    second: spritesheet_cape_final_57
+  - first:
+      213: -3722337893288795889
+    second: spritesheet_cape_final_58
+  - first:
+      213: 8314866262452927643
+    second: spritesheet_cape_final_59
+  - first:
+      213: -70613725557661307
+    second: spritesheet_cape_final_60
+  - first:
+      213: -7574663653225879106
+    second: spritesheet_cape_final_61
+  - first:
+      213: 1898608981146381696
+    second: spritesheet_cape_final_62
+  - first:
+      213: 5885470708685945071
+    second: spritesheet_cape_final_63
+  - first:
+      213: 4732638635041935140
+    second: spritesheet_cape_final_64
+  - first:
+      213: 8086928107637377501
+    second: spritesheet_cape_final_65
+  - first:
+      213: -6619770395956211625
+    second: spritesheet_cape_final_66
+  - first:
+      213: -1909963704916523976
+    second: spritesheet_cape_final_67
+  - first:
+      213: -1261337105778659302
+    second: spritesheet_cape_final_68
+  - first:
+      213: 916188228416987747
+    second: spritesheet_cape_final_69
+  - first:
+      213: 2598355915002015066
+    second: spritesheet_cape_final_70
+  - first:
+      213: -3610415336362813152
+    second: spritesheet_cape_final_71
+  - first:
+      213: 3646762991860041731
+    second: spritesheet_cape_final_72
+  - first:
+      213: -8004857625928686731
+    second: spritesheet_cape_final_73
+  - first:
+      213: -3487070609266570963
+    second: spritesheet_cape_final_74
+  - first:
+      213: 3311247087258085529
+    second: spritesheet_cape_final_75
+  - first:
+      213: -8206483992952023664
+    second: spritesheet_cape_final_76
+  - first:
+      213: 7646063770853543946
+    second: spritesheet_cape_final_77
+  - first:
+      213: -8993487929257783393
+    second: spritesheet_cape_final_78
+  - first:
+      213: -7718106764501420569
+    second: spritesheet_cape_final_79
+  - first:
+      213: 1207619200135065449
+    second: spritesheet_cape_final_80
+  - first:
+      213: 7397429956930739629
+    second: spritesheet_cape_final_81
+  - first:
+      213: 592650069935635124
+    second: spritesheet_cape_final_82
+  - first:
+      213: 8111230573782837905
+    second: spritesheet_cape_final_83
+  - first:
+      213: 2363896412328606514
+    second: spritesheet_cape_final_84
+  - first:
+      213: 8264492607879463307
+    second: spritesheet_cape_final_85
+  - first:
+      213: -3723051104697641405
+    second: spritesheet_cape_final_86
+  - first:
+      213: 2831138773267675569
+    second: spritesheet_cape_final_87
+  - first:
+      213: 368539422108125080
+    second: spritesheet_cape_final_88
+  - first:
+      213: -6416804867339904824
+    second: spritesheet_cape_final_89
+  - first:
+      213: 5994863414039926025
+    second: spritesheet_cape_final_90
+  - first:
+      213: 1879986641319413960
+    second: spritesheet_cape_final_91
+  - first:
+      213: -6104984909643885354
+    second: spritesheet_cape_final_92
+  - first:
+      213: -3398868779816637238
+    second: spritesheet_cape_final_93
+  - first:
+      213: 8292734090705566059
+    second: spritesheet_cape_final_94
+  - first:
+      213: 8600599425422053032
+    second: spritesheet_cape_final_95
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickable_Cape_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d6ece4482fd242a755915f4432a30
+      internalID: -68296208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0898244600be7c14cb2822960dc3992f
+      internalID: 944184796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67593e986d2091f43ac1bb5e4a0b980b
+      internalID: 768696459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542f6ae65b98f0345ac983fbb66fb6d8
+      internalID: -517272218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1350
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628f4d9e1ae5ec846a5984c2dfab09f7
+      internalID: -1821680996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5280284872e6b8342ab6952dee661fcc
+      internalID: 2135695058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1bf14e8cc62e143a6682b65409cd82
+      internalID: -1717228777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384727e4aefc73948b53aa7a1dfdd36a
+      internalID: -1869194676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ac8fd211b7d464d95c8623f6a0ba56
+      internalID: 99697965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2860e8d0521572d46aff7f75ba28337f
+      internalID: -1703502150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f061ce0f116778439d286050ce8f862
+      internalID: -274235536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804931e6ad6386e47a9432bbcbd4b88f
+      internalID: -537422091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10d89a2f75127246900ae6fb2efc6c1
+      internalID: 816955413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7f5f006570d942b5dcc286f7d0bb4
+      internalID: 955891390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1050
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66382469e72c724bb740def06da8e4e
+      internalID: -998420796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c04e701cc28d5439e8f426b3dfc983
+      internalID: -295231429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5513f346f0389154e8b9c1c5b9125af3
+      internalID: -933598285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060943fec58ba5440b4d9d73a83b9462
+      internalID: 442142598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc877a28532aa1b4a9718b917e7c2edd
+      internalID: -2079211725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338bc1e64a8e6e8479d821018108b7bc
+      internalID: -1270410984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b9288a9bc70d4cb53777b4bcfb551
+      internalID: 885739087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdaf4b53cab58641a59de2523a80f13
+      internalID: -1101158815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1352ed42b59e75488e91824df8c8ebe
+      internalID: 684505756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea4afb2ad56264e9276164d22243d2
+      internalID: -438472089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190145d8689581c418318d1e55aa0e4b
+      internalID: -1755309997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a14a883a04d9f64e90b3dfb31c1f8b3
+      internalID: -1165714792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6756ae5af4c7a104fbb146240e28e89c
+      internalID: 811449402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bbdee225caa1a40b5a466e452a809c
+      internalID: 1769827140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea53a529e651ceb48a59ab846ea538d4
+      internalID: -609868842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ac36fddc3f8142b9badf3ec0e9e60
+      internalID: 1871140019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bb45437e1f80f48a9aa637f0665508
+      internalID: 2020226437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d13cc20a7ce5d41abe191359440b54
+      internalID: 1096208668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17b291c10f64b4c88d22d3c17d566d
+      internalID: 1591483174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e87e782ffdb4b42baf5505ef80bbf1
+      internalID: 696892486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 450
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644fce636012aa8448eff6de4ad5c670
+      internalID: -1745569320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b22d1020d3bc46877afada1e92a48
+      internalID: -448760451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1b6252a470324479d223686246b04b
+      internalID: 915279104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b88520dd72a594ca341a9aeb292b5d
+      internalID: -216525263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7a9a376b1b9b44ca70d9bb21365a3a
+      internalID: -536451753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 300
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e1d64ee0c712047a0dfb172f5f64d3
+      internalID: -1343073569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937bd8a0a453d8843b012e6d10affc43
+      internalID: 678461457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de432c99bb48f439f099c0d67ba946
+      internalID: 1758169406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d10a54fed0b1df41bd1f5ff439e4c09
+      internalID: -1985416982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf7e3f8c486ae4b836ed5cefe820c1
+      internalID: 1818173363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 150
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a851a49d8d4c84d98fcc3302e7d48f
+      internalID: 1996418459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf56405ce68344bb4cfb12c88d779f
+      internalID: -1092622909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916ed648b0eead6408a63a1e6248e98f
+      internalID: -2024728488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Cape_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd70cde4f77ac45b9cb34d4dd407cc
+      internalID: 939824195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aaea36dfbd3a0e04787d689cea6df0d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pickable_Cape_0: -68296208
+      Pickable_Cape_1: 944184796
+      Pickable_Cape_10: -274235536
+      Pickable_Cape_11: -537422091
+      Pickable_Cape_12: 816955413
+      Pickable_Cape_13: 955891390
+      Pickable_Cape_14: -998420796
+      Pickable_Cape_15: -295231429
+      Pickable_Cape_16: -933598285
+      Pickable_Cape_17: 442142598
+      Pickable_Cape_18: -2079211725
+      Pickable_Cape_19: -1270410984
+      Pickable_Cape_2: 768696459
+      Pickable_Cape_20: 885739087
+      Pickable_Cape_21: -1101158815
+      Pickable_Cape_22: 684505756
+      Pickable_Cape_23: -438472089
+      Pickable_Cape_24: -1755309997
+      Pickable_Cape_25: -1165714792
+      Pickable_Cape_26: 811449402
+      Pickable_Cape_27: 1769827140
+      Pickable_Cape_28: -609868842
+      Pickable_Cape_29: 1871140019
+      Pickable_Cape_3: -517272218
+      Pickable_Cape_30: 2020226437
+      Pickable_Cape_31: 1096208668
+      Pickable_Cape_32: 1591483174
+      Pickable_Cape_33: 696892486
+      Pickable_Cape_34: -1745569320
+      Pickable_Cape_35: -448760451
+      Pickable_Cape_36: 915279104
+      Pickable_Cape_37: -216525263
+      Pickable_Cape_38: -536451753
+      Pickable_Cape_39: -1343073569
+      Pickable_Cape_4: -1821680996
+      Pickable_Cape_40: 678461457
+      Pickable_Cape_41: 1758169406
+      Pickable_Cape_42: -1985416982
+      Pickable_Cape_43: 1818173363
+      Pickable_Cape_44: 1996418459
+      Pickable_Cape_45: -1092622909
+      Pickable_Cape_46: -2024728488
+      Pickable_Cape_47: 939824195
+      Pickable_Cape_5: 2135695058
+      Pickable_Cape_6: -1717228777
+      Pickable_Cape_7: -1869194676
+      Pickable_Cape_8: 99697965
+      Pickable_Cape_9: -1703502150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

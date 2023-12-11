@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using BeatEmUp;
 using UnityEngine;
 
-public class EnemyPresence : MonoBehaviour
+namespace BeatEmUp
 {
-    [SerializeField] private HealthSystem _enemyHealth;
-    public HealthSystem GetEnemyHealthSystem() => _enemyHealth;
+    public class EnemyPresence : MonoBehaviour
+    {
+        [SerializeField] private HealthSystem _enemyHealth;
+        public HealthSystem GetEnemyHealthSystem() => _enemyHealth;
+    }
 }

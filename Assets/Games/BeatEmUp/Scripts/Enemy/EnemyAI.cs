@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -13,9 +14,15 @@ namespace BeatEmUp
         
         [Header("References")]
         [SerializeField] private Animator _animator;
+        [SerializeField] private GameObject _stickSprite;
+        [SerializeField] private GameObject _pipeSprite;
 
+        private AudioClip _hitSfx;
+        private AudioClip _hitLandedSfx;
+        private AudioSource _audioSource;
         private PlayerController _player;
         private HealthSystem _health;
+        private DamageSystem _damages;
         private Rigidbody2D _rb;
 
         private Vector2 _updatePosition = Vector3.zero;
@@ -24,6 +31,8 @@ namespace BeatEmUp
         
         private bool _isPlayerStopTriggered;
         private bool _canAiMove;
+        private bool _isPlayerInRange;
+        private bool _hasStick;
 
         private const float _attackDelayMin = 0.05f;
         private const float _attackDelayMax = 0.20f;
@@ -39,8 +48,10 @@ namespace BeatEmUp
         private static readonly int IsRunning = Animator.StringToHash("isRunning");
         private static readonly int IsDamaged = Animator.StringToHash("isDamaged");
         private static readonly int IsAttacking = Animator.StringToHash("isAttacking");
+        private static readonly int IsAttackingStick = Animator.StringToHash("isAttackingStick");
 
         public void SetAiActive(bool canMove) => _canAiMove = canMove;
+        public void IsEnemyInRange(bool status) => _isPlayerInRange = status;
 
         private void OnDisable()
         { 
@@ -53,9 +64,27 @@ namespace BeatEmUp
             _pathLatency = enemyData.GetPathLatency();
             _errorDistributionX = enemyData.GetErrorDistributionX();
             _errorDistributionY = enemyData.GetErrorDistributionY();
+
+            _hitSfx = enemyData.GetHitSFX();
+            _hitLandedSfx = enemyData.GetHitLandedSFX();
             
             _player = FindAnyObjectByType<PlayerController>(FindObjectsInactive.Exclude);
 
+            switch (enemyData.GetWeaponType())
+            {
+                case WeaponType.STICK:
+                    _stickSprite.SetActive(true);
+                    _hasStick = true;
+                    break;
+                
+                case WeaponType.PIPE:
+                    _pipeSprite.SetActive(true);
+                    _hasStick = true;
+                    break;
+            }
+
+            TryGetComponent(out _audioSource);
+            TryGetComponent(out _damages);
             TryGetComponent(out _health);
             TryGetComponent(out _rb);
 
@@ -114,8 +143,11 @@ namespace BeatEmUp
             if (_attackDelayCache > 0) return;      // Delay before attacking when in Range
 
             _attackCooldownCache = Random.Range(_attackCooldownMin, _attackCooldownMax);
-            _animator.SetTrigger(IsAttacking);
-            Debug.Log("Attack ? More or less");
+            _animator.SetTrigger(_hasStick ? IsAttackingStick : IsAttacking);
+            _audioSource.PlayOneShot(_isPlayerInRange ? _hitLandedSfx : _hitSfx);
+
+            if (_isPlayerInRange)
+                _player.Attacked(_damages.GetDamageDealt());
         }
         
         private void Chase()
@@ -143,8 +175,6 @@ namespace BeatEmUp
                 Mathf.MoveTowards(position.x, _targetPosition.x, _speed),
                 Mathf.MoveTowards(position.y, _targetPosition.y, _speed)
             );
-            
-            //_animator.SetBool(IsRunning, true);
 
             if (!_isPlayerStopTriggered) return;
             

@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 581fd33fc5678344c9cc20e0146b4dea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5108601841118324724
+    second: ezgif.com-gif-maker_0
+  - first:
+      213: 763718201113852716
+    second: ezgif.com-gif-maker_1
+  - first:
+      213: 1037891125679955185
+    second: ezgif.com-gif-maker_2
+  - first:
+      213: 6965229494165062650
+    second: ezgif.com-gif-maker_3
+  - first:
+      213: 7488926447407996787
+    second: ezgif.com-gif-maker_4
+  - first:
+      213: 1824921886515328041
+    second: ezgif.com-gif-maker_5
+  - first:
+      213: 3779983321907253453
+    second: ezgif.com-gif-maker_6
+  - first:
+      213: -966056320420023668
+    second: ezgif.com-gif-maker_7
+  - first:
+      213: -8860312699811430183
+    second: ezgif.com-gif-maker_8
+  - first:
+      213: -5443729655699382175
+    second: ezgif.com-gif-maker_9
+  - first:
+      213: -4415440932393464980
+    second: ezgif.com-gif-maker_10
+  - first:
+      213: -1205740810681323922
+    second: ezgif.com-gif-maker_11
+  - first:
+      213: -2807913808948371079
+    second: ezgif.com-gif-maker_12
+  - first:
+      213: -6210186659520421850
+    second: ezgif.com-gif-maker_13
+  - first:
+      213: 6085218192123517740
+    second: ezgif.com-gif-maker_14
+  - first:
+      213: -3098221142656904999
+    second: ezgif.com-gif-maker_15
+  - first:
+      213: -5362691222513635890
+    second: ezgif.com-gif-maker_16
+  - first:
+      213: 6326988287503335889
+    second: ezgif.com-gif-maker_17
+  - first:
+      213: -1946271401956286902
+    second: ezgif.com-gif-maker_18
+  - first:
+      213: 7493043591068940568
+    second: ezgif.com-gif-maker_19
+  - first:
+      213: -6809371085959695748
+    second: ezgif.com-gif-maker_20
+  - first:
+      213: -4187907744740216896
+    second: ezgif.com-gif-maker_21
+  - first:
+      213: -7299982079221094050
+    second: ezgif.com-gif-maker_22
+  - first:
+      213: 5262801672783224760
+    second: ezgif.com-gif-maker_23
+  - first:
+      213: -1043656696398758442
+    second: ezgif.com-gif-maker_24
+  - first:
+      213: -5027714466931689989
+    second: ezgif.com-gif-maker_25
+  - first:
+      213: -837714591242410733
+    second: ezgif.com-gif-maker_26
+  - first:
+      213: 3047803924789513124
+    second: ezgif.com-gif-maker_27
+  - first:
+      213: 9128138834254292934
+    second: ezgif.com-gif-maker_28
+  - first:
+      213: 1693567719685220467
+    second: ezgif.com-gif-maker_29
+  - first:
+      213: 5705124103282463497
+    second: ezgif.com-gif-maker_30
+  - first:
+      213: -1434855942865972087
+    second: ezgif.com-gif-maker_31
+  - first:
+      213: -5016805020390001260
+    second: ezgif.com-gif-maker_32
+  - first:
+      213: 2078111573547904136
+    second: ezgif.com-gif-maker_33
+  - first:
+      213: 1094694293067274272
+    second: ezgif.com-gif-maker_34
+  - first:
+      213: 7065532297096504250
+    second: ezgif.com-gif-maker_35
+  - first:
+      213: 4504948611649316130
+    second: ezgif.com-gif-maker_36
+  - first:
+      213: -5408455199253211806
+    second: ezgif.com-gif-maker_37
+  - first:
+      213: 2590328405260668398
+    second: ezgif.com-gif-maker_38
+  - first:
+      213: -5984260379941689168
+    second: ezgif.com-gif-maker_39
+  - first:
+      213: 9041275678441767894
+    second: ezgif.com-gif-maker_40
+  - first:
+      213: 2311487852533369623
+    second: ezgif.com-gif-maker_41
+  - first:
+      213: 3287805863442185252
+    second: ezgif.com-gif-maker_42
+  - first:
+      213: 5860245564613897194
+    second: ezgif.com-gif-maker_43
+  - first:
+      213: 7440538066224239540
+    second: ezgif.com-gif-maker_44
+  - first:
+      213: 5959122142804806518
+    second: ezgif.com-gif-maker_45
+  - first:
+      213: -1525329847660564063
+    second: ezgif.com-gif-maker_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pickable_Stick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec8897117d48c4f94728280c1feb80
+      internalID: -474048439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5f43188743064aa26644351adf84b
+      internalID: -922454214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b6dbf810fa682489bbd10f59281441
+      internalID: 911272816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1963fc840e3a96e409091e3f946593c1
+      internalID: 964271804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05005b8f62f0a934aadb1b529e88d457
+      internalID: -2130820371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672ce1d236af9a74db86e081f83d2b6e
+      internalID: -1892279429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28574df1f205cc40a4ef13d8240b0f9
+      internalID: 1527827434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a68295218f2945a032b8ad482d3b2
+      internalID: -747440182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9560d0cb775d534a98dc0df1ed9bdfd
+      internalID: 1650806113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418b1ef68bc8fd4394f0d8ac470b86f
+      internalID: 1362781129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13986732398c7fd4c8d12bee4f9cfb42
+      internalID: 1610392230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b54455bbe5f984791dd97f8e3803a6
+      internalID: -499424047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90711abfeef64a64a83d2d37ad732704
+      internalID: -402151157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77749457f823524f88d796e424ef517
+      internalID: -52840178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e0cc424d4a58449668f5c6e8b9f9a
+      internalID: 2071670641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3fe8beb92d9f4b80d9f3383588504
+      internalID: -1071726055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a167d87a2ee7244bec53e75bd42b18
+      internalID: 637119670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168486c234e998d4da98ab33301fc6ed
+      internalID: 10054204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd876fee2a3fc4742a7fb593d1a35a8a
+      internalID: -224221554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a57c62bdff4e647af4f67f158c7b16
+      internalID: 435186567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c45f31fce57d4da7e38ece911b035
+      internalID: 1667568825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce547205c80098418309621fa28985c
+      internalID: -1202415792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17103fbb73caa5540ad60625049891bf
+      internalID: 694302714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ca748ea77c384d94d2f8773e880ab
+      internalID: 1274130070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9720dca4400f58e4f805a5f67c8db22b
+      internalID: -1261736323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0397f675b35a0294291f1bb7070472f2
+      internalID: -1193627191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a94b1ba4ebb46418f66c7788c6aae7
+      internalID: -1300336371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71213565d4cab064790ddd5c3e2c3bb5
+      internalID: 2033346438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c7ff3f9fe8194e87129636f8a0905
+      internalID: 496335014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b063ab2df665541bfd01bf8154c043
+      internalID: -1683656562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9497d7dd49f8f45be6a15d063cb1d4
+      internalID: 1930567728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19c7a4d45729e46b96c43b7fa02f94
+      internalID: 1158253744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbc3569d1032fd4fb6925b3c4d3443f
+      internalID: 1718873782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870b257dff127c42aa147096c791bc6
+      internalID: 641704876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a3a2197b89b446bcd58a0e5a2d624
+      internalID: -218963618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaaa31f2b5c82e4ca044189fdc09d61
+      internalID: -30431910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d921b1d38dba79429e02976113d5508
+      internalID: -630883197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7bc5a1568b2b42acbdb3043017384
+      internalID: 1124402011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa01a3771e111146b6cd579475e7116
+      internalID: -950219324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4e4da89c1229449b017bd0bdd9b7ff
+      internalID: 428224778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80563a302128541882721881447ad7
+      internalID: -1188837206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ecf08cc89ec146b08f980676a28d4
+      internalID: -1261178102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05906e359ffa2f4b9e165a7aba83dd2
+      internalID: -1017145142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b0ede91ae27d48818dff9ab1a774c
+      internalID: 526953475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5a1c44b51d034ab04ad3e48d0a5f7
+      internalID: 1699703706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5e36f2faa75347bdac5179650256d
+      internalID: 2027309545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickable_Stick_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7216cad353b20764f96a5e3d149a1500
+      internalID: -472551532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 13efb28f5b3cad645a99dc7f5eb888e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pickable_Stick_0: -474048439
+      Pickable_Stick_1: -922454214
+      Pickable_Stick_10: 1610392230
+      Pickable_Stick_11: -499424047
+      Pickable_Stick_12: -402151157
+      Pickable_Stick_13: -52840178
+      Pickable_Stick_14: 2071670641
+      Pickable_Stick_15: -1071726055
+      Pickable_Stick_16: 637119670
+      Pickable_Stick_17: 10054204
+      Pickable_Stick_18: -224221554
+      Pickable_Stick_19: 435186567
+      Pickable_Stick_2: 911272816
+      Pickable_Stick_20: 1667568825
+      Pickable_Stick_21: -1202415792
+      Pickable_Stick_22: 694302714
+      Pickable_Stick_23: 1274130070
+      Pickable_Stick_24: -1261736323
+      Pickable_Stick_25: -1193627191
+      Pickable_Stick_26: -1300336371
+      Pickable_Stick_27: 2033346438
+      Pickable_Stick_28: 496335014
+      Pickable_Stick_29: -1683656562
+      Pickable_Stick_3: 964271804
+      Pickable_Stick_30: 1930567728
+      Pickable_Stick_31: 1158253744
+      Pickable_Stick_32: 1718873782
+      Pickable_Stick_33: 641704876
+      Pickable_Stick_34: -218963618
+      Pickable_Stick_35: -30431910
+      Pickable_Stick_36: -630883197
+      Pickable_Stick_37: 1124402011
+      Pickable_Stick_38: -950219324
+      Pickable_Stick_39: 428224778
+      Pickable_Stick_4: -2130820371
+      Pickable_Stick_40: -1188837206
+      Pickable_Stick_41: -1261178102
+      Pickable_Stick_42: -1017145142
+      Pickable_Stick_43: 526953475
+      Pickable_Stick_44: 1699703706
+      Pickable_Stick_45: 2027309545
+      Pickable_Stick_46: -472551532
+      Pickable_Stick_5: -1892279429
+      Pickable_Stick_6: 1527827434
+      Pickable_Stick_7: -747440182
+      Pickable_Stick_8: 1650806113
+      Pickable_Stick_9: 1362781129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

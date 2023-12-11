@@ -32,7 +32,7 @@ namespace BeatEmUp
             TryGetComponent(out _damage);
             
             _damage.Initialize(enemyData);
-            _health.Initialize(enemyData);
+            _health.Initialize(enemyData.GetDamageSFX(), enemyData.GetDeathSFX(),enemyData);
             _enemyAI.Initialize(enemyData);
             
             _enemyAI.SetAiActive(true);

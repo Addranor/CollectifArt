@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 868f60f118fffe44d906a300071f45ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4038247110123441778
+    second: decors_etape1_plan_3_0
+  - first:
+      213: 7436741094477670894
+    second: decors_etape1_plan_3_1
+  - first:
+      213: -5741385567725778754
+    second: decors_etape1_plan_3_2
+  - first:
+      213: 6701780534759730268
+    second: decors_etape1_plan_3_3
+  - first:
+      213: 7306259858001674386
+    second: decors_etape1_plan_3_4
+  - first:
+      213: -692928646135101675
+    second: decors_etape1_plan_3_5
+  - first:
+      213: -4483854010580722847
+    second: decors_etape1_plan_3_6
+  - first:
+      213: -5773682021042505971
+    second: decors_etape1_plan_3_7
+  - first:
+      213: -8642618172765685137
+    second: decors_etape1_plan_3_8
+  - first:
+      213: 5463759055614471991
+    second: decors_etape1_plan_3_9
+  - first:
+      213: -7343877333582180475
+    second: decors_etape1_plan_3_10
+  - first:
+      213: -1595243861699817574
+    second: decors_etape1_plan_3_11
+  - first:
+      213: -3621949162274764616
+    second: decors_etape1_plan_3_12
+  - first:
+      213: -7902598836397182052
+    second: decors_etape1_plan_3_13
+  - first:
+      213: -781444381774802667
+    second: decors_etape1_plan_3_14
+  - first:
+      213: -6196389623183461281
+    second: decors_etape1_plan_3_15
+  - first:
+      213: -7282207550194717806
+    second: decors_etape1_plan_3_16
+  - first:
+      213: 2675223993900703151
+    second: decors_etape1_plan_3_17
+  - first:
+      213: 295676882629954718
+    second: decors_etape1_plan_3_18
+  - first:
+      213: 1042846968984639690
+    second: decors_etape1_plan_3_19
+  - first:
+      213: 4380833906125392948
+    second: decors_etape1_plan_3_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5027778, y: 0.1574074}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decors_etape1_plan_3_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 182
+        width: 275
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec722e95cba0830800000000000000
+      internalID: 4038247110123441778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape1_plan_3_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 170
+        width: 461
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee924e6bf9c943760800000000000000
+      internalID: 7436741094477670894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape1_plan_3_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 161
+        width: 561
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8862dce308250b0800000000000000
+      internalID: -5741385567725778754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape1_plan_3_3
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 170
+        width: 252
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2bf883e1810d50800000000000000
+      internalID: 6701780534759730268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decors_etape1_plan_3_4
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 165
+        width: 275
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c2e071ac056560800000000000000
+      internalID: 7306259858001674386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      decors_etape1_plan_3_0: 4038247110123441778
+      decors_etape1_plan_3_1: 7436741094477670894
+      decors_etape1_plan_3_10: -7343877333582180475
+      decors_etape1_plan_3_11: -1595243861699817574
+      decors_etape1_plan_3_12: -3621949162274764616
+      decors_etape1_plan_3_13: -7902598836397182052
+      decors_etape1_plan_3_14: -781444381774802667
+      decors_etape1_plan_3_15: -6196389623183461281
+      decors_etape1_plan_3_16: -7282207550194717806
+      decors_etape1_plan_3_17: 2675223993900703151
+      decors_etape1_plan_3_18: 295676882629954718
+      decors_etape1_plan_3_19: 1042846968984639690
+      decors_etape1_plan_3_2: -5741385567725778754
+      decors_etape1_plan_3_20: 4380833906125392948
+      decors_etape1_plan_3_3: 6701780534759730268
+      decors_etape1_plan_3_4: 7306259858001674386
+      decors_etape1_plan_3_5: -692928646135101675
+      decors_etape1_plan_3_6: -4483854010580722847
+      decors_etape1_plan_3_7: -5773682021042505971
+      decors_etape1_plan_3_8: -8642618172765685137
+      decors_etape1_plan_3_9: 5463759055614471991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
