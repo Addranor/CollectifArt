@@ -113,20 +113,29 @@ namespace BossBattle
 
         private void TakeDamage(int currentHp, int amount)
         {
-            if (_healthSystem.GetCurHp() <= 0)
-                ChangePhase(BattlePhase.DEAD);
-            else if (_healthSystem.GetCurHp() <= _phase3Trigger)
+            switch (_currentPhase)
             {
-                _audioSource.PlayOneShot(_phase3Sfx);
-                ChangePhase(BattlePhase.PHASE_3);
+                case BattlePhase.PHASE_1:
+                    if (_healthSystem.GetCurHp() > _healthSystem.GetPerHp(_phase2Trigger)) return;
+                    _audioSource.PlayOneShot(_phase2Sfx);
+                    ChangePhase(BattlePhase.PHASE_2);
+                    break;
+                
+                case BattlePhase.PHASE_2:
+                    if (_healthSystem.GetCurHp() > _healthSystem.GetPerHp(_phase3Trigger)) return;
+                    _audioSource.PlayOneShot(_phase3Sfx);
+                    ChangePhase(BattlePhase.PHASE_3);
+                    break;
+
+                case BattlePhase.DEAD:
+                    break;
+                
+                case BattlePhase.INTRO:
+                case BattlePhase.PHASE_3:
+                default:
+                    if (_healthSystem.GetCurHp() <= 0) ChangePhase(BattlePhase.DEAD);
+                    break;
             }
-            else if (_healthSystem.GetCurHp() <= _phase2Trigger)
-            {
-                _audioSource.PlayOneShot(_phase2Sfx);
-                ChangePhase(BattlePhase.PHASE_2);
-            }
-            else if (_healthSystem.GetCurHp() > _phase2Trigger)
-                ChangePhase(BattlePhase.PHASE_1);
 
             _animator.SetBool(_IsBlinking, _currentPhase != BattlePhase.DEAD);
         }

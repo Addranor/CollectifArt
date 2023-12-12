@@ -17,12 +17,13 @@ MonoBehaviour:
   _pathLatency: 1
   _errorDistributionX: {x: -1, y: 1}
   _errorDistributiony: {x: -1, y: 1}
-  _maxHealth: 2
+  _maxHealth: 6
   _invulnerabilityTimer: 2
   _weaponType: 2
-  _damageDealt: 1
+  _damageDealt: 2
   _animatorPath: Enemy_Boss AnimController
-  _hitSfx: {fileID: 0}
-  _hitLandedSfx: {fileID: 0}
-  _damageSfx: {fileID: 0}
+  _enemyScale: {x: -1.4, y: 1.4, z: 1}
+  _hitSfx: {fileID: 8300000, guid: b856d60fb9426604bb397609087adf6a, type: 3}
+  _hitLandedSfx: {fileID: 8300000, guid: d25d3e9c187c79547b4171e08b9512e4, type: 3}
+  _damageSfx: {fileID: 8300000, guid: 6103f30e489666644b9b11f525e90b81, type: 3}
   _deathSfx: {fileID: 0}

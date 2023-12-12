@@ -1,7 +1,6 @@
 using System.Collections;
 using Cinemachine;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 namespace BeatEmUp
 {
@@ -10,6 +9,7 @@ namespace BeatEmUp
         [Header("Cinemachine")]
         [SerializeField] private CinemachineConfiner _confiner;
         [SerializeField] private PolygonCollider2D _defaultConfiner;
+        [SerializeField] private bool _level4 = true;
         
         private PlayerController _player;
         private UIManager _uiManager;
@@ -20,7 +20,6 @@ namespace BeatEmUp
             _player = FindAnyObjectByType<PlayerController>();
 
             TryGetComponent(out _uiManager);
-            
             EnemySpawner.OnSpawnerStart += OnSpawnerStart;
             EnemySpawner.OnSpawnerClean += OnSpawnerClean;
         }
@@ -39,7 +38,7 @@ namespace BeatEmUp
         
         private void OnSpawnerClean(PolygonCollider2D confiner)
         {
-            _uiManager.GoScreen();
+            if (!_level4) _uiManager.GoScreen();
             _confiner.m_BoundingShape2D = _defaultConfiner;
         }
 
@@ -49,20 +48,20 @@ namespace BeatEmUp
             Time.timeScale = status ? 0 : 1;
         }
         
-        public void RestartLevel1() => Bootstrap.instance.LoadScene("BeatEmUp_Level1");
-        public void RestartLevel2() => Bootstrap.instance.LoadScene("BeatEmUp_Level2");
-        public void RestartLevel3() => Bootstrap.instance.LoadScene("BeatEmUp_Level3");
-        public void RestartLevel4() => Bootstrap.instance.LoadScene("BeatEmUp_Level4");
+        public void RestartLevel1() => Bootstrap.instance.LoadScene("BeatEmUp_Level1", 0,"Raccoon_Regular");
+        public void RestartLevel2() => Bootstrap.instance.LoadScene("BeatEmUp_Level2", 0,"Raccoon_Regular");
+        public void RestartLevel3() => Bootstrap.instance.LoadScene("BeatEmUp_Level3", 0,"Raccoon_Regular");
+        public void RestartLevel4() => Bootstrap.instance.LoadScene("BeatEmUp_Level4", 0,"Raccoon_Boss");
         
-        public void ToLevel2() => Bootstrap.instance.LoadScene("BeatEmUp_Level2");
-        public void ToLevel3() => Bootstrap.instance.LoadScene("BeatEmUp_Level3");
-        public void ToLevel4() => Bootstrap.instance.LoadScene("BeatEmUp_Level4");
+        public void ToLevel2() => Bootstrap.instance.LoadScene("BeatEmUp_Level2", 0, "Raccoon_Regular");
+        public void ToLevel3() => Bootstrap.instance.LoadScene("BeatEmUp_Level3", 0, "Raccoon_Regular");
+        public void ToLevel4() => Bootstrap.instance.LoadScene("BeatEmUp_Level4", 0, "Raccoon_Boss");
 
-        public void RestartLevel1WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level1"));
-        public void RestartLevel2WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level2"));
-        public void RestartLevel3WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level3"));
-        public void RestartLevel4WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level4"));
-        private IEnumerator RestartWithDelay(string level)
+        public void RestartLevel1WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level1", "Raccoon_Regular"));
+        public void RestartLevel2WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level2", "Raccoon_Regular"));
+        public void RestartLevel3WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level3", "Raccoon_Regular"));
+        public void RestartLevel4WithDelay() => StartCoroutine(RestartWithDelay("BeatEmUp_Level4", "Raccoon_Boss"));
+        private IEnumerator RestartWithDelay(string level, string musicToLoad)
         {
             // Wait
             yield return new WaitForSeconds(1);
@@ -74,11 +73,11 @@ namespace BeatEmUp
             yield return new WaitForSeconds(5);
             
             // Back to Main Menu
-            Bootstrap.instance.LoadScene(level);
+            Bootstrap.instance.LoadScene(level, 0, musicToLoad);
             yield return null;
         }
         
-        public void ToMainMenu() => Bootstrap.instance.LoadScene("Main_Menu");
+        public void ToMainMenu() => Bootstrap.instance.LoadScene("Main_Menu", 0, "Raccoon_Menu");
         public void ToMainMenuVictory() => StartCoroutine(BackToMainMenuVictory());
         private IEnumerator BackToMainMenuVictory()
         {
@@ -92,7 +91,7 @@ namespace BeatEmUp
             yield return new WaitForSeconds(5);
             
             // Back to Main Menu
-            Bootstrap.instance.LoadScene("Main_Menu");
+            Bootstrap.instance.LoadScene("Main_Menu", 0, "Raccoon_Menu");
             yield return null;
         }
     }

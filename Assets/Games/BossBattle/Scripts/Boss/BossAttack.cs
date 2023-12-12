@@ -68,7 +68,6 @@ namespace BossBattle
         #region Public Functions
 
         public void Attack() => _canAttack = true;
-
         public void GetRandomAttack(BattlePhase _currentPhase)
         {
             //P1
@@ -89,7 +88,6 @@ namespace BossBattle
             //Attack_Homing_Projectile_Multiple(); Validé
             //Attack_Claw_Combo(); Validé
             //Attack_Rage(); Validé
-            //Attack_Stomp(); Validé
             //Attack_Stomp(); Validé
 
             switch (_currentPhase)
@@ -239,12 +237,9 @@ namespace BossBattle
         }
         private void InstantiateProjectileMultiple(GameObject projectile, Transform spawnPoint, int amount = 1)
         {
-            _projectilesFired = amount;
-
             // Instantiate removed for SetActive
             BossProjectile _spawned = Instantiate(projectile, spawnPoint.position, Quaternion.identity).GetComponent<BossProjectile>();
             _spawned.Initialize(_player, true, this);
-            _initialized = false;
         }
         private void AttackWithSpecialAttack(BossSpecialAttack specialAttackObject)
         {
@@ -289,6 +284,7 @@ namespace BossBattle
                 InstantiateProjectileMultiple(projectiles, spawnPoint, 0);
                 yield return new WaitUntil(CanAttack);
             }
+            _initialized = false;
         }
         private IEnumerator Attack_With_Special_Attack(int animId, BossSpecialAttack specialAttack)
         {
@@ -315,7 +311,7 @@ namespace BossBattle
         
         // SPAWN MULTIPLE PROJECTILE
         private void Attack_Homing_Projectile_Multiple() => StartCoroutine(Attack_With_Multiple_Projectile(Atk_Homing_Missile_Multiple_Param, _homingGameObject, _headSpawn, Random.Range(1, 4)));
-        private void Attack_Claw_Combo() => StartCoroutine(Attack_With_Multiple_Projectile(Atk_Claws_Param, _clawWaveGameObject_p3, _groundSpawn, 3, Atk_Claws_More_Param)); //Random.Range(0, 4)
+        private void Attack_Claw_Combo() => StartCoroutine(Attack_With_Multiple_Projectile(Atk_Claws_Param, _clawWaveGameObject_p3, _groundSpawn, Random.Range(1, 3), Atk_Claws_More_Param));
 
         // ATTAQUE SPECIALE
         private void Attack_Rage() => StartCoroutine(Attack_With_Special_Attack(Atk_Rage_Param, _rageSpecialAttack_p3));

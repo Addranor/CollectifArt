@@ -399,7 +399,8 @@ AnimationClip:
   - time: 0.98333335
     functionName: Impulse
     data: 
-    objectReferenceParameter: {fileID: 0}
+    objectReferenceParameter: {fileID: 8300000, guid: e5c34c2e9405c6d4b9a1d71b94b9b911,
+      type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0

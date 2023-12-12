@@ -556,7 +556,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Raiponce
+  m_text: Les fees Raiponce
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e1792a64c8bc05e459e7c33e1cd83bf6, type: 2}
   m_sharedMaterial: {fileID: -479047121051334271, guid: e1792a64c8bc05e459e7c33e1cd83bf6,
@@ -2903,6 +2903,19 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 923249413}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: PlayOneShot
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 8300000, guid: a4f7adc4495788d46ab959ad2731f3d0,
+            type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 1543336062}
         m_TargetAssemblyTypeName: ExtraGallery, Collectif.MainMenu
         m_MethodName: EnableMiscExtra
@@ -3757,6 +3770,18 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+        - m_Target: {fileID: 1543336062}
+          m_TargetAssemblyTypeName: ExtraGallery, Collectif.MainMenu
+          m_MethodName: RaiponceMusic
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
 --- !u!1 &1011948670
 GameObject:
   m_ObjectHideFlags: 0
@@ -3814,9 +3839,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Racoon
-
-'
+  m_text: Ratoon
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e1792a64c8bc05e459e7c33e1cd83bf6, type: 2}
   m_sharedMaterial: {fileID: -479047121051334271, guid: e1792a64c8bc05e459e7c33e1cd83bf6,
@@ -5699,7 +5722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   raccoonSceneName: BeatEmUp_Level1
-  rapunzelSceneName: Debug_Boss
+  rapunzelSceneName: Boss_Battle
   racoonGallery: {fileID: 11400000, guid: 1fb3decb872701543a48e09aa0517161, type: 2}
   raiponceGallery: {fileID: 11400000, guid: 26bbad48bd7ff0142b497d1cfeb2ba30, type: 2}
   miscGallery: {fileID: 11400000, guid: ebd94493f23e52a4c9e39ae4e8b36a23, type: 2}
@@ -5709,7 +5732,7 @@ MonoBehaviour:
   raiponceHeader: {fileID: 572498444}
   audioSource: {fileID: 923249413}
   backSfx: {fileID: 8300000, guid: a4f7adc4495788d46ab959ad2731f3d0, type: 3}
-  navigationSfx: {fileID: 8300000, guid: e01f3f0ad468eec43a6de15831f742b0, type: 3}
+  navigationSfx: {fileID: 8300000, guid: c891aa6e0f81d8046872e7a3cbf3ffbd, type: 3}
   amount: {fileID: 446040343}
   maximumAmount: {fileID: 1670934771}
   spriteRenderer: {fileID: 1104592891}
@@ -6682,9 +6705,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Racoon
-
-'
+  m_text: Ratoon
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e1792a64c8bc05e459e7c33e1cd83bf6, type: 2}
   m_sharedMaterial: {fileID: -479047121051334271, guid: e1792a64c8bc05e459e7c33e1cd83bf6,
@@ -7292,6 +7313,18 @@ MonoBehaviour:
             m_ObjectArgument: {fileID: 8300000, guid: a930dc4a2211d5f4b89f49e9810a7f41,
               type: 3}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 1543336062}
+          m_TargetAssemblyTypeName: ExtraGallery, Collectif.MainMenu
+          m_MethodName: RaccoonMusic
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 
@@ -8390,7 +8423,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Raiponce
+  m_text: Les fees Raiponce
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e1792a64c8bc05e459e7c33e1cd83bf6, type: 2}
   m_sharedMaterial: {fileID: -479047121051334271, guid: e1792a64c8bc05e459e7c33e1cd83bf6,

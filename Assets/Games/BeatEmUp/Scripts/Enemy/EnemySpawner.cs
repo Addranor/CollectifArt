@@ -16,9 +16,10 @@ namespace BeatEmUp
         [SerializeField] private EnemyPack _enemyPack;
         [SerializeField] private GameObject _enemyPrefab;
         [SerializeField] private GameObject _colliders;
+        [SerializeField][Space()] private List<HealthSystem> _additionalEnemies;
         [SerializeField][Space()] private Transform[] _spawnsPoints;
         [SerializeField][Space()] public UnityEvent _onClear;
-
+        [SerializeField][Space()] public UnityEvent _onSpawn;
         private List<HealthSystem> _enemies;
         private bool _isSpent;
         private bool _isClear;
@@ -29,6 +30,7 @@ namespace BeatEmUp
         {
             _enemies = new List<HealthSystem>();
             _enemyCount = _enemyPack.GetEnemyAmount();
+            if (_additionalEnemies is {Count: > 0}) _enemyCount += _additionalEnemies.Count;
             HealthSystem.OnDeath += OnEnemyKilled;
         }
 
@@ -69,9 +71,16 @@ namespace BeatEmUp
                 spawnedEnemy.GetComponent<EnemyInitializer>().Initialize(enemy);
                 _enemies.Add(spawnedEnemy.GetComponent<HealthSystem>());
             }
+
+            if (_additionalEnemies != null && _additionalEnemies.Count > 0)
+            {
+                foreach (HealthSystem enemy in _additionalEnemies)
+                    _enemies.Add(enemy);   
+            }
             
             _isSpent = true;
             _colliders.SetActive(true);
+            _onSpawn?.Invoke();
             OnSpawnerStart?.Invoke(_confiner);
         }
 

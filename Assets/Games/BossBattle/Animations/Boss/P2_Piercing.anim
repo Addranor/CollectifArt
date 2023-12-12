@@ -474,7 +474,8 @@ AnimationClip:
   - time: 1
     functionName: Anim_AttackWithImpulse
     data: 
-    objectReferenceParameter: {fileID: 0}
+    objectReferenceParameter: {fileID: 8300000, guid: 836f4c0bd50d0354c8cb895d1081c7b1,
+      type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0

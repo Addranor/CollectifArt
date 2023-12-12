@@ -1254,7 +1254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _currentHealth: 0
-  _maxHealth: 6
+  _maxHealth: 10
   _invulnerabilityTimer: 2
   _animator: {fileID: 5074078350525622572}
   _onDeath:
@@ -1274,7 +1274,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: BeatEmUp.GameManager, Collectif.BeatEmUp
-        m_MethodName: RestartLevel1WithDelay
+        m_MethodName: RestartLevel2WithDelay
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

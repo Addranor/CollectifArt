@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dadb63b6886464fbdab08930e21a6f, type: 3}
+  m_Name: Raiponce Gallery
+  m_EditorClassIdentifier: 
+  galleryImages:
+  - {fileID: 21300000, guid: 79d9f002c718bbd4e8b8d0fc83922e61, type: 3}
+  - {fileID: 21300000, guid: dd0100d8938c68b4e92bd2081b17729a, type: 3}
+  - {fileID: 21300000, guid: 3b2f0b9dd4957b046a7a4551216c0079, type: 3}
+  - {fileID: 21300000, guid: 57dd38a19bf8a924aa9ec714eed1fe27, type: 3}
+  - {fileID: 21300000, guid: 7c4f9ed7ab7304c46a71fb23de985165, type: 3}
+  - {fileID: 21300000, guid: 210454f3ca3de5e4ba27422cf8e4e03a, type: 3}
+  - {fileID: 21300000, guid: e379753c13c906744bd4642788e604c5, type: 3}
+  - {fileID: 21300000, guid: 7fa9f34ed64f3e34e9d0786d49125682, type: 3}
+  - {fileID: 21300000, guid: 95e51dbf91115154588dcebc06ced1c3, type: 3}
+  - {fileID: 21300000, guid: b4fa7fd8b377b0b4fa1c43f0e9157c18, type: 3}

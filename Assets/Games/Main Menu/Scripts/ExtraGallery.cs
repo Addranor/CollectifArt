@@ -46,8 +46,11 @@ public class ExtraGallery : MonoBehaviour
         TryGetComponent(out animator);
     }
 
-    public void LoadRaccoon() => Bootstrap.instance.LoadScene(raccoonSceneName);
-    public void LoadRapunzel() => Bootstrap.instance.LoadScene(rapunzelSceneName);
+    public void LoadRaccoon() => Bootstrap.instance.LoadScene(raccoonSceneName, 0, "Raccoon_Regular");
+    public void LoadRapunzel() => Bootstrap.instance.LoadScene(rapunzelSceneName, 0, "Raiponce_Boss");
+
+    public void RaccoonMusic() { if (Bootstrap.instance != null) Bootstrap.instance.FadeMusicQuick("Raccoon_Menu"); }
+    public void RaiponceMusic() { if (Bootstrap.instance != null) Bootstrap.instance.FadeMusicQuick("Raiponce_Menu"); }
 
     public void QuitGame()
     {

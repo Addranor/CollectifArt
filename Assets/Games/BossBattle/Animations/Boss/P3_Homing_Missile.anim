@@ -77,9 +77,10 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.75
-    functionName: Anim_Attack
+    functionName: Anim_Attack_With_Audioclip
     data: 
-    objectReferenceParameter: {fileID: 0}
+    objectReferenceParameter: {fileID: 8300000, guid: 6ff2604ce4324fb4d8f92b07c8326570,
+      type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0

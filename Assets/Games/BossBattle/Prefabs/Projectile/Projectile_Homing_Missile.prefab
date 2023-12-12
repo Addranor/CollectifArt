@@ -221,7 +221,7 @@ MonoBehaviour:
   _maxHealth: 1
   _invulnerabilityTimer: 0
   _animator: {fileID: 2018749332133574845}
-  _audiosource: {fileID: 0}
+  _audiosource: {fileID: -3803951341258646492}
   _onDeath:
     m_PersistentCalls:
       m_Calls:
@@ -262,12 +262,13 @@ AudioSource:
   m_GameObject: {fileID: 6185640440730534405}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
+  OutputAudioMixerGroup: {fileID: -5179992311749879879, guid: 50bf69d9853bd084e94a304a28387afd,
+    type: 2}
+  m_audioClip: {fileID: 8300000, guid: 1526ae52e81890a42a6a0294a5d02fe9, type: 3}
+  m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0

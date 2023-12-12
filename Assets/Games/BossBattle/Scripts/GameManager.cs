@@ -9,22 +9,15 @@ namespace BossBattle
     public class GameManager : MonoBehaviour
     {
         public static GameManager instance;
-        public static bool isPlayerDead = false;
-        public static bool isBossDead = false;
-        public static bool canHurtBoss = false;
 
-        [Header("References")] [SerializeField]
-        private GameObject _playerGameObject;
-
+        [Header("References")]
+        [SerializeField] private GameObject _playerGameObject;
         [SerializeField] private GameObject _bossGameObject;
         [SerializeField] private Transform _playerSpawnPoint;
         [SerializeField] private Transform _bossSpawnPoint;
         
         [SerializeField] private bool _debug;
 
-        private AudioClip _damageSfx;
-        private AudioClip _deathSfx;
-        
         private UIManager _uiManager;
         private PlayerController _player;
         private BossAI _boss;
@@ -34,6 +27,8 @@ namespace BossBattle
 
         public HealthSystem GetPlayerHealthSystem() => _playerHealth;
         public HealthSystem GetBossHealthSystem() => _bossHealth;
+
+        private void OnEnable() { if (instance == null) instance = this; }
 
         private void Start()
         {
@@ -83,6 +78,11 @@ namespace BossBattle
             // StartCoroutine(BackToMainMenu());
         }
 
+        public void BossDead()
+        {
+            StartCoroutine(BackToMainMenu());
+        }
+
         private void OnPlayerDeath()
         {
             _player.SetControlsActive(false);
@@ -99,11 +99,11 @@ namespace BossBattle
             yield return new WaitForSeconds(1);
             
             // Back to Main Menu
-            Bootstrap.instance.LoadScene("Main_Menu");
+            Bootstrap.instance.LoadScene("Main_Menu", 0, "Raccoon_Menu");
             yield return null;
         }
         
-        public void ToMainMenu() => Bootstrap.instance.LoadScene("Main_Menu");
+        public void ToMainMenu() => Bootstrap.instance.LoadScene("Main_Menu", 0, "Raccoon_Menu");
 
         private IEnumerator RestartOnCheckpoint()
         {
@@ -129,6 +129,7 @@ namespace BossBattle
 
             _player.SetControlsActive(true);
             _boss.SetAIActive(true);
+            _uiManager.CanPause();
         }
     }
 }

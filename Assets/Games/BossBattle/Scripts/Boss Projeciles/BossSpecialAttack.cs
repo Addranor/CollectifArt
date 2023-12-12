@@ -38,6 +38,8 @@ namespace BossBattle
             _audioSource.PlayOneShot(audioClip);
         }
 
+        public void PlayAudioClip(AudioClip audioClip) => _audioSource.PlayOneShot(audioClip);
+
         private void Start()
         {
             _player = FindAnyObjectByType<PlayerController>();

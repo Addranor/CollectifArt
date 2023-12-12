@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -33,11 +32,12 @@ namespace BeatEmUp
         private bool _canAiMove;
         private bool _isPlayerInRange;
         private bool _hasStick;
+        private bool _isAiActive;
 
         private const float _attackDelayMin = 0.05f;
         private const float _attackDelayMax = 0.20f;
-        private const float _attackCooldownMin = 1f;
-        private const float _attackCooldownMax = 3f;
+        private const float _attackCooldownMin = 2f;
+        private const float _attackCooldownMax = 5f;
         private float _attackDelayCache;
         private float _attackCooldownCache;
         private float _lastPathTime;
@@ -57,8 +57,9 @@ namespace BeatEmUp
         { 
             _health.OnDamage -= OnDamage;
         }
-        
-        public void Initialize(EnemyDataSO enemyData)
+
+        public void ActivateAI() => _isAiActive = true;
+        public void Initialize(EnemyDataSO enemyData, bool active = true)
         {
             _speed = enemyData.GetSpeed();
             _pathLatency = enemyData.GetPathLatency();
@@ -89,12 +90,14 @@ namespace BeatEmUp
             TryGetComponent(out _rb);
 
             _health.OnDamage += OnDamage;
+            _isAiActive = active;
 
             _updatePosition = transform.position;
         }
 
         private void Update()
         {
+            if (!_isAiActive) return;
             if (!_canAiMove) return;    // This prevents the AI from moving when attacking.
 
             if (_attackDelayCache >= 0)
@@ -110,11 +113,13 @@ namespace BeatEmUp
 
         private void FixedUpdate()
         {
+            if (!_isAiActive) return;
             if (!_canAiMove) return;    // This prevents the AI from moving when attacking.
+
+            var rbPosition = _rb.position;
+            _rbVelocity = ((rbPosition - _previousPos).magnitude) / Time.deltaTime;
             
-            _rbVelocity = ((_rb.position - _previousPos).magnitude) / Time.deltaTime;
-            
-            _previousPos = _rb.position;
+            _previousPos = rbPosition;
             _rb.MovePosition(_updatePosition);
         }
 

@@ -1,9 +1,6 @@
-using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
-using UnityEngine.InputSystem.UI;
 using UnityEngine.SceneManagement;
 
 public class Bootstrap : MonoBehaviour
@@ -13,7 +10,7 @@ public class Bootstrap : MonoBehaviour
     [SerializeField] private Animator _animator;
     [SerializeField] private AudioListener _audioListener;
     [SerializeField] private AudioMixer _audioMixer;
-    [SerializeField] private bool _debug = false;
+    [SerializeField] private bool _debug;
 
     private string currentScene;
     private static readonly int IsLoading = Animator.StringToHash("isLoading");
@@ -29,20 +26,19 @@ public class Bootstrap : MonoBehaviour
             _audioListener.enabled = true;
             return;
         }
-        LoadScene("Main_Menu", 1);        
+        LoadScene("Main_Menu", 1, "Raccoon_Menu");        
     }
     
-    public void LoadScene(string sceneName, int delay = 0) => StartCoroutine(StartLoading(sceneName, delay));
+    public void LoadScene(string sceneName, int delay, string musicToLoad) => StartCoroutine(StartLoading(sceneName, delay, musicToLoad));
     public void LoadLocal(bool state) => StartLocalLoading(state);
 
-    private IEnumerator StartLoading(string sceneName, int delay)
+    private IEnumerator StartLoading(string sceneName, int delay, string musicToLoad)
     {
         // Animator
         _animator.SetBool(IsLoading, true);
         
         // Wait
         yield return new WaitForSeconds(1);
-        _audioListener.enabled = false;
 
         if (!string.IsNullOrEmpty(currentScene))
         {
@@ -55,7 +51,7 @@ public class Bootstrap : MonoBehaviour
         currentScene = sceneName;
         
         yield return new WaitForSeconds(delay);
-        _audioListener.enabled = true;
+        if (musicToLoad != _currentMusic) FadeMusic(musicToLoad);
         
         // Remove loading screen
         _animator.SetBool(IsLoading, false);
@@ -68,38 +64,25 @@ public class Bootstrap : MonoBehaviour
         // Animator
         _animator.SetBool(IsLoadingLocal, state);
     }
-    
-    [ContextMenu("TestMusicFading")]
-    public void ChangeMusic()
-    {
-        FadeMusic("Raccoon_Menu");
-    }
-    
-    [ContextMenu("TestMusicFading2")]
-    public void ChangeMusic2()
-    {
-        FadeMusic("Raiponce_Menu");
-    }
 
     public void FadeMusic(string musicName)
     {
         if (_currentMusic != null) StartCoroutine(StartFade(_audioMixer, _currentMusic, 2, 0));
-        StartCoroutine(StartFade(_audioMixer, musicName, 2, 0.06f));
+        StartCoroutine(StartFade(_audioMixer, musicName, 2, 0.04f));
         _currentMusic = musicName;
     }
     
     public void FadeMusicQuick(string musicName)
     {
-        StartCoroutine(StartFade(_audioMixer, _currentMusic, 0.5f, 0));
+        if (_currentMusic != null) StartCoroutine(StartFade(_audioMixer, _currentMusic, 0.5f, 0));
         StartCoroutine(StartFade(_audioMixer, musicName, 0.5f, 0.06f));
         _currentMusic = musicName;
     }
     
-    public IEnumerator StartFade(AudioMixer audioMixer, string exposedParam, float duration, float targetVolume)
+    private IEnumerator StartFade(AudioMixer audioMixer, string exposedParam, float duration, float targetVolume)
     {
         float currentTime = 0;
-        float currentVol;
-        audioMixer.GetFloat(exposedParam, out currentVol);
+        audioMixer.GetFloat(exposedParam, out var currentVol);
         currentVol = Mathf.Pow(10, currentVol / 20);
         float targetValue = Mathf.Clamp(targetVolume, 0.0001f, 1);
         while (currentTime < duration)
@@ -109,6 +92,5 @@ public class Bootstrap : MonoBehaviour
             audioMixer.SetFloat(exposedParam, Mathf.Log10(newVol) * 20);
             yield return null;
         }
-        yield break;
     }
 }

@@ -30,6 +30,7 @@ namespace BossBattle
             _player = FindAnyObjectByType<PlayerController>();
             
             TryGetComponent(out _attack);
+            TryGetComponent(out _audioSource);
             if (_debug) Attack();
         }
 
@@ -49,6 +50,7 @@ namespace BossBattle
         public void TriggerEnd() => OnTriggerEnd?.Invoke();
         public void EnableDamages() => _damageSystem.SetDamageDealt(1);
         public void NullifyDamages() => _damageSystem.SetDamageDealt(0);
+        public void PlayAudioClip(AudioClip _audioClip) => _audioSource.PlayOneShot(_audioClip);
 
         private void MoveObjectRandom()
         {

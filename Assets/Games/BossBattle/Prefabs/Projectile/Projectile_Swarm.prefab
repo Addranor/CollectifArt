@@ -251,7 +251,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19615879e1ce05d43be8ab736292d341, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _dieOnHit: 1
+  _dieOnHit: 0
   _speed: 0.05
   _timer: 15
   _movingPattern: 0
@@ -311,12 +311,13 @@ AudioSource:
   m_GameObject: {fileID: 4865100621899533070}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
+  OutputAudioMixerGroup: {fileID: 4902249624476832619, guid: 50bf69d9853bd084e94a304a28387afd,
+    type: 2}
+  m_audioClip: {fileID: 8300000, guid: e789c433e8401a645a16f7d9416b3cde, type: 3}
+  m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0

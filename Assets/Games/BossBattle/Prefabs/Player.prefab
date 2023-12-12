@@ -108,7 +108,8 @@ AudioSource:
   m_GameObject: {fileID: 272221974526457919}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 8799055438943718026, guid: 50bf69d9853bd084e94a304a28387afd,
+    type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -245,7 +246,7 @@ MonoBehaviour:
   _jumpPower: 10
   _fallMultiplier: 3
   _lowJumpMultiplier: 6
-  _jumpSfx: {fileID: 0}
+  _jumpSfx: {fileID: 8300000, guid: 8519cd3af8708fd4c9c9b804ac72c735, type: 3}
   _damageSfx: {fileID: 8300000, guid: 732d1aea48f234548990bf216a19c9b3, type: 3}
   _deathSfx: {fileID: 8300000, guid: 4335a81014aa7624cb0135af2db842cb, type: 3}
 --- !u!114 &17318289619497988

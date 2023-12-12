@@ -69,7 +69,7 @@ namespace BeatEmUp
         public void BackToMenu()
         {
             TogglePause();
-            Bootstrap.instance.LoadScene("Main_Menu");
+            Bootstrap.instance.LoadScene("Main_Menu", 0, "Raccoon_Menu");
         }
     }
 }

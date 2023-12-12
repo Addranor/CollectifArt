@@ -25,6 +25,7 @@ namespace BossBattle
         private GameManager _gameManager;
         private bool isPausePressed;
         private bool isPaused;
+        private bool canPause;
         private int heartIndex;
 
         private HealthSystem _player;
@@ -55,7 +56,8 @@ namespace BossBattle
             
             GeneratePlayerHealthDisplay(_player.GetMaxHp());
         }
-        
+
+        public void CanPause() => canPause = true;
         private void OnDisable()
         {
             // Disable Subs
@@ -92,12 +94,12 @@ namespace BossBattle
 
         private void OnPlayerDeath()
         {
-            // Display Gamee Over screen
+            canPause = false;
         }
 
         private void OnBossDeath()
         {
-            // Display Victory screen
+            canPause = false;
         }
         
         #endregion
@@ -128,6 +130,7 @@ namespace BossBattle
 
         public void TogglePause()
         {
+            if (!canPause) return;
             _gameManager.PauseGame(!isPaused);
             _pauseMenu.SetActive(!isPaused);
             
@@ -137,7 +140,7 @@ namespace BossBattle
         public void BackToMenu()
         {
             TogglePause();
-            Bootstrap.instance.LoadScene("Main_Menu");
+            Bootstrap.instance.LoadScene("Main_Menu", 0, "Raccoon_Menu");
         }
     }
 }

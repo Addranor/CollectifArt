@@ -18,14 +18,13 @@ namespace BeatEmUp
         [SerializeField] private int _maxHealth;
         [SerializeField] private float _invulnerabilityTimer;
 
-        [Header("Health Parameters")]
-        [SerializeField] private WeaponType _weaponType;
-        
         [Header("Misc Parameters")]
+        [SerializeField] private WeaponType _weaponType;
         [SerializeField] private int _damageDealt;
         [SerializeField] private string _animatorPath;
+        [SerializeField] private Vector3 _enemyScale;
         
-        [Header("Misc Parameters")]
+        [Header("SFX Parameters")]
         [SerializeField] private AudioClip _hitSfx;
         [SerializeField] private AudioClip _hitLandedSfx;
         [SerializeField] private AudioClip _damageSfx;
@@ -35,7 +34,8 @@ namespace BeatEmUp
         public float GetSpeed() => _speed;
         public float GetPathLatency() => _pathLatency;
         public Vector2 GetErrorDistributionX() => _errorDistributionX;
-        public Vector2 GetErrorDistributionY() => _errorDistributiony;
+            public Vector2 GetErrorDistributionY() => _errorDistributiony;
+            public Vector3 GetScale() => _enemyScale;
         
         public WeaponType GetWeaponType() => _weaponType;
         
